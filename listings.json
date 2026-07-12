@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12 20:45:36",
+  "generated_at": "2026-07-12T20:52:40Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -21,7 +21,7 @@
       "ref_city": "Utrecht",
       "distance_km": 109.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000003NhMAI",
@@ -43,7 +43,7 @@
       "ref_city": "Utrecht",
       "distance_km": 55.6,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000003kHMAQ",
@@ -78,7 +78,7 @@
       "ref_city": "Utrecht",
       "distance_km": 23.5,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000004rdMAA",
@@ -104,7 +104,7 @@
       "ref_city": "Utrecht",
       "distance_km": 108.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000004wTMAQ",
@@ -131,7 +131,7 @@
       "ref_city": "Utrecht",
       "distance_km": 108.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000006VFMAY",
@@ -153,7 +153,7 @@
       "ref_city": "Utrecht",
       "distance_km": 138.8,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000006WrMAI",
@@ -175,7 +175,7 @@
       "ref_city": "Utrecht",
       "distance_km": 138.8,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000007MTMAY",
@@ -199,7 +199,7 @@
       "ref_city": "Utrecht",
       "distance_km": 56.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000007ZNMAY",
@@ -221,7 +221,7 @@
       "ref_city": "Utrecht",
       "distance_km": 109.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000007azMAA",
@@ -243,7 +243,7 @@
       "ref_city": "Utrecht",
       "distance_km": 109.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx00000007cbMAA",
@@ -265,7 +265,7 @@
       "ref_city": "Utrecht",
       "distance_km": 109.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000A0zMAE",
@@ -286,7 +286,7 @@
       "ref_city": "Utrecht",
       "distance_km": 109.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000Cu1MAE",
@@ -311,7 +311,7 @@
       "ref_city": "Rotterdam",
       "distance_km": 31.5,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000FBxMAM",
@@ -333,7 +333,7 @@
       "ref_city": "Utrecht",
       "distance_km": 140.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000FjpMAE",
@@ -361,7 +361,7 @@
       "ref_city": "Utrecht",
       "distance_km": 108.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000FofMAE",
@@ -384,7 +384,7 @@
       "ref_city": "Utrecht",
       "distance_km": 108.5,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000ITBMA2",
@@ -406,7 +406,7 @@
       "ref_city": "Utrecht",
       "distance_km": 138.9,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000KGTMA2",
@@ -428,7 +428,7 @@
       "ref_city": "Utrecht",
       "distance_km": 177.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000KOXMA2",
@@ -450,7 +450,7 @@
       "ref_city": "Utrecht",
       "distance_km": 177.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000LKbMAM",
@@ -473,7 +473,7 @@
       "ref_city": "Utrecht",
       "distance_km": 55.9,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000LajMAE",
@@ -495,7 +495,7 @@
       "ref_city": "Utrecht",
       "distance_km": 33.7,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000LpFMAU",
@@ -517,7 +517,7 @@
       "ref_city": "Utrecht",
       "distance_km": 149.5,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000Mq9MAE",
@@ -539,7 +539,7 @@
       "ref_city": "Breda",
       "distance_km": 101.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000P1dMAE",
@@ -563,7 +563,7 @@
       "ref_city": "Rotterdam",
       "distance_km": 5.3,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000PPpMAM",
@@ -584,7 +584,7 @@
       "ref_city": "Utrecht",
       "distance_km": 76.2,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000RcvMAE",
@@ -607,7 +607,7 @@
       "ref_city": "Utrecht",
       "distance_km": 68.6,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000RjNMAU",
@@ -629,7 +629,7 @@
       "ref_city": "Utrecht",
       "distance_km": 68.6,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000SdpMAE",
@@ -652,7 +652,7 @@
       "ref_city": "Utrecht",
       "distance_km": 74.7,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000ToPMAU",
@@ -673,7 +673,7 @@
       "ref_city": "Breda",
       "distance_km": 74.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000UR7MAM",
@@ -698,7 +698,7 @@
       "ref_city": "Rotterdam",
       "distance_km": 20.3,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000UVxMAM",
@@ -722,7 +722,7 @@
       "ref_city": "Utrecht",
       "distance_km": 44.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000Uu9MAE",
@@ -745,7 +745,7 @@
       "ref_city": "Utrecht",
       "distance_km": 28.9,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000V8fMAE",
@@ -767,7 +767,7 @@
       "ref_city": "Utrecht",
       "distance_km": 122.2,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6IPx0000000VevMAE",
@@ -786,7 +786,7 @@
       "ref_city": "Rotterdam",
       "distance_km": 5.4,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000001PFhMAM",
@@ -808,7 +808,7 @@
       "ref_city": "Breda",
       "distance_km": 95.6,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000001TftMAE",
@@ -830,7 +830,7 @@
       "ref_city": "Utrecht",
       "distance_km": 30.9,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000001XLJMA2",
@@ -855,7 +855,7 @@
       "ref_city": "Utrecht",
       "distance_km": 49.8,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000001YajMAE",
@@ -877,7 +877,7 @@
       "ref_city": "Utrecht",
       "distance_km": 131.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000001ZjhMAE",
@@ -900,7 +900,7 @@
       "ref_city": "Utrecht",
       "distance_km": 131.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000002cvdMAA",
@@ -922,7 +922,7 @@
       "ref_city": "Utrecht",
       "distance_km": 56.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000002jSTMAY",
@@ -943,7 +943,7 @@
       "ref_city": "Utrecht",
       "distance_km": 98.9,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000003CsfMAE",
@@ -966,7 +966,7 @@
       "ref_city": "Utrecht",
       "distance_km": 116.2,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000003YErMAM",
@@ -991,7 +991,7 @@
       "ref_city": "Utrecht",
       "distance_km": 22.4,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000004VTRMA2",
@@ -1017,7 +1017,7 @@
       "ref_city": "Utrecht",
       "distance_km": 160.1,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000052HJMAY",
@@ -1036,7 +1036,7 @@
       "ref_city": "Rotterdam",
       "distance_km": 18.4,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000053YLMAY",
@@ -1060,7 +1060,7 @@
       "ref_city": "Rotterdam",
       "distance_km": 23.1,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000056xdMAA",
@@ -1084,7 +1084,7 @@
       "ref_city": "Utrecht",
       "distance_km": 106.1,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000057FNMAY",
@@ -1105,7 +1105,7 @@
       "ref_city": "Utrecht",
       "distance_km": 162.7,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000057IbMAI",
@@ -1126,7 +1126,7 @@
       "ref_city": "Utrecht",
       "distance_km": 162.7,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000057LpMAI",
@@ -1147,7 +1147,7 @@
       "ref_city": "Utrecht",
       "distance_km": 162.7,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000059gzMAA",
@@ -1169,7 +1169,7 @@
       "ref_city": "Utrecht",
       "distance_km": 106.7,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005DMPMA2",
@@ -1193,7 +1193,7 @@
       "ref_city": "Utrecht",
       "distance_km": 109.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005L3pMAE",
@@ -1216,7 +1216,7 @@
       "ref_city": "Utrecht",
       "distance_km": 146.8,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005N0nMAE",
@@ -1238,7 +1238,7 @@
       "ref_city": "Utrecht",
       "distance_km": 46.3,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005NQbMAM",
@@ -1261,7 +1261,7 @@
       "ref_city": "Breda",
       "distance_km": 119.8,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005RQzMAM",
@@ -1282,7 +1282,7 @@
       "ref_city": "Utrecht",
       "distance_km": 109.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005RVpMAM",
@@ -1304,7 +1304,7 @@
       "ref_city": "Utrecht",
       "distance_km": 108.5,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005SA9MAM",
@@ -1325,7 +1325,7 @@
       "ref_city": "Breda",
       "distance_km": 101.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005UrtMAE",
@@ -1347,7 +1347,7 @@
       "ref_city": "Utrecht",
       "distance_km": 68.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005WSHMA2",
@@ -1379,7 +1379,7 @@
       "ref_city": "Rotterdam",
       "distance_km": 20.3,
       "interesting": true,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005WqTMAU",
@@ -1401,7 +1401,7 @@
       "ref_city": "Utrecht",
       "distance_km": 140.5,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi0000005XubMAE",
@@ -1423,7 +1423,7 @@
       "ref_city": "Utrecht",
       "distance_km": 55.6,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54"
+      "first_seen": "2026-07-12T20:22:54Z"
     }
   ]
 }
