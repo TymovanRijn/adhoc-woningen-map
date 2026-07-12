@@ -7,6 +7,9 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 <meta name="theme-color" content="#f2f2f7" media="(prefers-color-scheme: light)" />
 <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+<link rel="manifest" href="./manifest.json" />
+<link rel="apple-touch-icon" href="./apple-touch-icon.png" />
+<link rel="icon" href="./icon-192.png" />
 <title>Woningen</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -67,10 +70,79 @@
     border-bottom: 0.5px solid var(--separator);
   }
   .navbar h1 {
-    margin: 0 0 10px;
+    margin: 0;
     font-size: 28px;
     font-weight: 700;
     letter-spacing: -0.02em;
+  }
+  .title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .bell-btn {
+    appearance: none;
+    border: none;
+    background: var(--fill);
+    width: 34px;
+    height: 34px;
+    border-radius: 17px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .bell-btn.active {
+    background: var(--blue);
+  }
+
+  .notify-panel {
+    position: sticky;
+    top: 0;
+    z-index: 600;
+    background: var(--card);
+    border-bottom: 0.5px solid var(--separator);
+    padding: 14px 16px;
+    font-size: 14px;
+  }
+  .notify-panel p { margin: 0 0 8px; }
+  .notify-hint { color: var(--secondary-text); font-size: 13px; }
+  .primary-btn {
+    appearance: none;
+    border: none;
+    background: var(--blue);
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 10px 16px;
+    border-radius: 10px;
+    font-family: inherit;
+    width: 100%;
+  }
+  .close-btn {
+    appearance: none;
+    border: none;
+    background: transparent;
+    color: var(--blue);
+    font-size: 13px;
+    font-weight: 600;
+    margin-top: 10px;
+    padding: 0;
+    font-family: inherit;
+  }
+  #subscriptionText {
+    width: 100%;
+    height: 70px;
+    font-size: 11px;
+    font-family: ui-monospace, monospace;
+    background: var(--fill);
+    color: var(--text);
+    border: none;
+    border-radius: 8px;
+    padding: 8px;
+    margin-bottom: 8px;
+    resize: none;
   }
 
   .segmented {
@@ -255,7 +327,10 @@
 <body>
 
 <div class="navbar">
-  <h1>Woningen</h1>
+  <div class="title-row">
+    <h1>Woningen</h1>
+    <button id="notifyBtn" class="bell-btn" title="Meldingen">🔔</button>
+  </div>
   <div class="segmented">
     <button id="tabListBtn" class="active">Lijst</button>
     <button id="tabMapBtn">Kaart</button>
@@ -271,6 +346,21 @@
     <button class="chip on" id="onlyInterestingChip">Alleen interessant</button>
   </div>
   <div class="refresh-hint" id="stats"></div>
+</div>
+
+<div id="notifyPanel" class="notify-panel" style="display:none">
+  <div id="notifyStep1">
+    <p><strong>Pushmeldingen inschakelen</strong></p>
+    <p class="notify-hint">Werkt alleen als deze pagina via "Zet op beginscherm" is geïnstalleerd (Safari → deelknop). Open 'm daarna vanaf het beginscherm en tik hier opnieuw.</p>
+    <button id="notifyEnableBtn" class="primary-btn">Meldingen aanzetten</button>
+  </div>
+  <div id="notifyStep2" style="display:none">
+    <p><strong>Bijna klaar</strong></p>
+    <p class="notify-hint">Kopieer onderstaande code en stuur 'm één keer naar Claude in de chat om te activeren.</p>
+    <textarea id="subscriptionText" readonly></textarea>
+    <button id="copySubBtn" class="primary-btn">Kopieer code</button>
+  </div>
+  <button id="notifyCloseBtn" class="close-btn">Sluiten</button>
 </div>
 
 <div id="listView"></div>
@@ -502,6 +592,78 @@ fetch('./listings.json?t=' + Date.now(), { cache: 'no-store' })
     document.getElementById('stats').textContent = 'Kon listings.json niet laden.';
     console.error(err);
   });
+
+// ---------- PWA: service worker + push-meldingen ----------
+const VAPID_PUBLIC_KEY = 'BOnwWIuP7zsAoF_Kb46RB20cAdna4CUCXYD6Z5OGnScADV8VmhMUnKQE8-8Rgzpf5tu-5Nt7kPCGP2jd_bsZnwU';
+
+function urlBase64ToUint8Array(base64String) {
+  const padding = '='.repeat((4 - (base64String.length % 4)) % 4);
+  const base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+  const rawData = atob(base64);
+  return Uint8Array.from([...rawData].map((c) => c.charCodeAt(0)));
+}
+
+let swRegistration = null;
+
+async function initPush() {
+  if (!('serviceWorker' in navigator)) return;
+  swRegistration = await navigator.serviceWorker.register('./sw.js');
+
+  const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
+  const existing = 'pushManager' in swRegistration ? await swRegistration.pushManager.getSubscription() : null;
+  if (existing && Notification.permission === 'granted') {
+    document.getElementById('notifyBtn').classList.add('active');
+  }
+}
+
+function openNotifyPanel() {
+  document.getElementById('notifyPanel').style.display = 'block';
+  document.getElementById('notifyStep1').style.display = 'block';
+  document.getElementById('notifyStep2').style.display = 'none';
+}
+
+document.getElementById('notifyBtn').addEventListener('click', openNotifyPanel);
+document.getElementById('notifyCloseBtn').addEventListener('click', () => {
+  document.getElementById('notifyPanel').style.display = 'none';
+});
+
+document.getElementById('notifyEnableBtn').addEventListener('click', async () => {
+  try {
+    if (!swRegistration) swRegistration = await navigator.serviceWorker.register('./sw.js');
+
+    const permission = await Notification.requestPermission();
+    if (permission !== 'granted') {
+      alert('Meldingen zijn niet toegestaan. Zet dit aan bij Instellingen → Meldingen.');
+      return;
+    }
+
+    const subscription = await swRegistration.pushManager.subscribe({
+      userVisibleOnly: true,
+      applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
+    });
+
+    document.getElementById('subscriptionText').value = JSON.stringify(subscription);
+    document.getElementById('notifyStep1').style.display = 'none';
+    document.getElementById('notifyStep2').style.display = 'block';
+    document.getElementById('notifyBtn').classList.add('active');
+  } catch (err) {
+    console.error(err);
+    alert('Kon pushmeldingen niet activeren. Zorg dat de app via "Zet op beginscherm" is geïnstalleerd en probeer opnieuw.');
+  }
+});
+
+document.getElementById('copySubBtn').addEventListener('click', async () => {
+  const text = document.getElementById('subscriptionText').value;
+  try {
+    await navigator.clipboard.writeText(text);
+    document.getElementById('copySubBtn').textContent = 'Gekopieerd ✓';
+    setTimeout(() => { document.getElementById('copySubBtn').textContent = 'Kopieer code'; }, 1500);
+  } catch (err) {
+    document.getElementById('subscriptionText').select();
+  }
+});
+
+initPush();
 </script>
 </body>
 </html>
