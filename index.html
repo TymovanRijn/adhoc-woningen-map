@@ -16,7 +16,6 @@
 <style>
   :root {
     --bg: #f2f2f7;
-    --grouped-bg: #f2f2f7;
     --card: #ffffff;
     --text: #000000;
     --secondary-text: #8e8e93;
@@ -24,16 +23,16 @@
     --separator: rgba(60,60,67,0.29);
     --blue: #007aff;
     --green: #34c759;
-    --orange: #ff9500;
     --red: #ff3b30;
     --fill: rgba(120,120,128,0.12);
     --nav-blur-bg: rgba(242,242,247,0.78);
-    --shadow: 0 1px 2px rgba(0,0,0,0.04);
+    --sheet-blur-bg: rgba(255,255,255,0.92);
+    --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+    --shadow-lg: 0 8px 24px rgba(0,0,0,0.14);
   }
   @media (prefers-color-scheme: dark) {
     :root {
       --bg: #000000;
-      --grouped-bg: #000000;
       --card: #1c1c1e;
       --text: #ffffff;
       --secondary-text: #98989f;
@@ -41,11 +40,12 @@
       --separator: rgba(84,84,88,0.6);
       --blue: #0a84ff;
       --green: #30d158;
-      --orange: #ff9f0a;
       --red: #ff453a;
       --fill: rgba(120,120,128,0.24);
       --nav-blur-bg: rgba(0,0,0,0.72);
-      --shadow: 0 1px 2px rgba(0,0,0,0.4);
+      --sheet-blur-bg: rgba(28,28,30,0.92);
+      --shadow: 0 1px 3px rgba(0,0,0,0.5), 0 1px 2px rgba(0,0,0,0.4);
+      --shadow-lg: 0 8px 28px rgba(0,0,0,0.6);
     }
   }
   * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
@@ -58,7 +58,9 @@
     -webkit-font-smoothing: antialiased;
     overscroll-behavior-y: contain;
   }
+  button { cursor: pointer; }
 
+  /* ---------- Navbar ---------- */
   .navbar {
     position: sticky;
     top: 0;
@@ -69,88 +71,57 @@
     -webkit-backdrop-filter: saturate(180%) blur(20px);
     border-bottom: 0.5px solid var(--separator);
   }
-  .navbar h1 {
-    margin: 0;
-    font-size: 28px;
-    font-weight: 700;
-    letter-spacing: -0.02em;
-  }
   .title-row {
     display: flex;
     align-items: center;
     justify-content: space-between;
     margin-bottom: 10px;
   }
-  .bell-btn {
+  .navbar h1 {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+  }
+  .nav-actions { display: flex; gap: 8px; }
+  .icon-btn {
     appearance: none;
     border: none;
     background: var(--fill);
     width: 34px;
     height: 34px;
     border-radius: 17px;
-    font-size: 16px;
+    font-size: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  .bell-btn.active {
-    background: var(--blue);
-  }
-
-  .notify-panel {
-    position: sticky;
-    top: 0;
-    z-index: 600;
-    background: var(--card);
-    border-bottom: 0.5px solid var(--separator);
-    padding: 14px 16px;
-    font-size: 14px;
-  }
-  .notify-panel p { margin: 0 0 8px; }
-  .notify-hint { color: var(--secondary-text); font-size: 13px; }
-  .primary-btn {
-    appearance: none;
-    border: none;
-    background: var(--blue);
-    color: #fff;
-    font-weight: 600;
-    font-size: 14px;
-    padding: 10px 16px;
-    border-radius: 10px;
-    font-family: inherit;
-    width: 100%;
-  }
-  .close-btn {
-    appearance: none;
-    border: none;
-    background: transparent;
-    color: var(--blue);
-    font-size: 13px;
-    font-weight: 600;
-    margin-top: 10px;
-    padding: 0;
-    font-family: inherit;
-  }
-  #subscriptionText {
-    width: 100%;
-    height: 70px;
-    font-size: 11px;
-    font-family: ui-monospace, monospace;
-    background: var(--fill);
     color: var(--text);
-    border: none;
-    border-radius: 8px;
-    padding: 8px;
-    margin-bottom: 8px;
-    resize: none;
+    position: relative;
+  }
+  .icon-btn.active { background: var(--blue); color: #fff; }
+  .icon-btn .dot-flag {
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: var(--blue);
+    border: 2px solid var(--bg);
   }
 
+  .toolbar-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
   .segmented {
     display: flex;
     background: var(--fill);
     border-radius: 9px;
     padding: 2px;
     gap: 2px;
+    flex: 1;
   }
   .segmented button {
     flex: 1;
@@ -169,123 +140,218 @@
     box-shadow: 0 1px 1px rgba(0,0,0,0.08), 0 1px 3px rgba(0,0,0,0.08);
   }
 
-  .filter-row {
-    display: flex;
-    gap: 8px;
-    margin-top: 10px;
-    overflow-x: auto;
-    padding-bottom: 2px;
-    scrollbar-width: none;
-  }
-  .filter-row::-webkit-scrollbar { display: none; }
-  .chip {
-    flex-shrink: 0;
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    background: var(--fill);
-    color: var(--text);
-    border-radius: 14px;
-    padding: 6px 12px;
-    font-size: 13px;
-    font-weight: 500;
-    white-space: nowrap;
-  }
-  .chip.on {
-    background: var(--blue);
-    color: #fff;
-  }
-  .chip input[type="range"] {
-    width: 90px;
-    accent-color: var(--blue);
-  }
-  .chip input[type="number"] {
-    width: 44px;
-    border: none;
-    background: transparent;
-    color: var(--text);
-    font-size: 13px;
-    font-family: inherit;
-    -moz-appearance: textfield;
+  .stats-row {
+    text-align: center;
+    font-size: 12px;
+    color: var(--tertiary-text);
+    padding: 8px 0 0;
   }
 
-  #listView { padding: 10px 16px 40px; }
+  /* ---------- Bottom sheet (filters + notify) ---------- */
+  .sheet-backdrop {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.35);
+    z-index: 800;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.25s ease;
+  }
+  .sheet-backdrop.open { opacity: 1; pointer-events: auto; }
+  .sheet {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    z-index: 801;
+    background: var(--sheet-blur-bg);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-radius: 20px 20px 0 0;
+    padding: 10px 20px calc(env(safe-area-inset-bottom, 0px) + 20px);
+    transform: translateY(100%);
+    transition: transform 0.3s cubic-bezier(0.32, 0.72, 0, 1);
+    box-shadow: var(--shadow-lg);
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+  .sheet.open { transform: translateY(0); }
+  .sheet-handle {
+    width: 36px;
+    height: 5px;
+    border-radius: 3px;
+    background: var(--tertiary-text);
+    margin: 0 auto 16px;
+  }
+  .sheet h2 {
+    font-size: 20px;
+    margin: 0 0 16px;
+    font-weight: 700;
+  }
+  .field-group { margin-bottom: 18px; }
+  .field-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 8px;
+  }
+  .field-label span:last-child { color: var(--blue); font-weight: 700; }
+  input[type="range"] { width: 100%; accent-color: var(--blue); }
+  .field-group input[type="number"] {
+    width: 100%;
+    border: none;
+    background: var(--fill);
+    color: var(--text);
+    font-size: 15px;
+    font-family: inherit;
+    padding: 10px 12px;
+    border-radius: 10px;
+  }
+  .toggle-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px 0;
+  }
+  .switch {
+    width: 46px;
+    height: 28px;
+    border-radius: 14px;
+    background: var(--fill);
+    border: none;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .switch.on { background: var(--green); }
+  .switch::after {
+    content: '';
+    position: absolute;
+    top: 2px; left: 2px;
+    width: 24px; height: 24px;
+    border-radius: 50%;
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    transition: transform 0.2s ease;
+  }
+  .switch.on::after { transform: translateX(18px); }
+  .primary-btn {
+    appearance: none;
+    border: none;
+    background: var(--blue);
+    color: #fff;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 14px 16px;
+    border-radius: 12px;
+    font-family: inherit;
+    width: 100%;
+  }
+  .notify-hint { color: var(--secondary-text); font-size: 13px; margin: -8px 0 16px; line-height: 1.4; }
+  #subscriptionText {
+    width: 100%;
+    height: 70px;
+    font-size: 11px;
+    font-family: ui-monospace, monospace;
+    background: var(--fill);
+    color: var(--text);
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    resize: none;
+  }
+
+  /* ---------- List: photo cards ---------- */
+  #listView { padding: 14px 16px 40px; }
   .section-label {
     font-size: 13px;
     text-transform: uppercase;
     color: var(--secondary-text);
-    font-weight: 600;
-    letter-spacing: 0.02em;
-    margin: 18px 4px 6px;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    margin: 20px 4px 10px;
   }
-  .card-group {
+  .section-label:first-child { margin-top: 0; }
+
+  .photo-card {
+    display: block;
     background: var(--card);
-    border-radius: 14px;
+    border-radius: 18px;
     overflow: hidden;
     box-shadow: var(--shadow);
-  }
-  a.row {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-    padding: 10px 12px;
-    text-decoration: none;
+    margin-bottom: 16px;
+    border: none;
+    width: 100%;
+    padding: 0;
+    text-align: left;
     color: var(--text);
-    border-bottom: 0.5px solid var(--separator);
+    font-family: inherit;
+  }
+  .photo-card:active { transform: scale(0.985); }
+  .photo-wrap {
     position: relative;
-  }
-  .card-group a.row:last-child { border-bottom: none; }
-  a.row:active { background: var(--fill); }
-
-  .thumb {
-    width: 60px;
-    height: 60px;
-    border-radius: 10px;
-    object-fit: cover;
+    width: 100%;
+    aspect-ratio: 4 / 3;
     background: var(--fill);
-    flex-shrink: 0;
+    overflow: hidden;
   }
-  .row-body { min-width: 0; flex: 1; }
-  .row-title {
-    font-size: 15px;
+  .photo-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+  .photo-count {
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    background: rgba(0,0,0,0.55);
+    color: #fff;
+    font-size: 11px;
     font-weight: 600;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    padding: 3px 8px;
+    border-radius: 10px;
+    backdrop-filter: blur(4px);
   }
-  .row-sub {
-    font-size: 13px;
-    color: var(--secondary-text);
-    margin-top: 2px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-  }
-  .row-meta {
+  .photo-badges {
+    position: absolute;
+    top: 10px;
+    left: 10px;
     display: flex;
-    align-items: center;
     gap: 6px;
-    margin-top: 4px;
+  }
+  .price-pill {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: rgba(255,255,255,0.92);
+    color: #000;
+    font-size: 13px;
+    font-weight: 700;
+    padding: 4px 10px;
+    border-radius: 12px;
   }
   .badge {
     font-size: 11px;
     font-weight: 700;
-    padding: 2px 7px;
+    padding: 3px 8px;
     border-radius: 8px;
     color: #fff;
   }
   .badge.new { background: var(--red); }
   .badge.near { background: var(--green); }
-  .price {
-    font-size: 13px;
-    font-weight: 600;
-    color: var(--blue);
+
+  .card-body { padding: 12px 14px 14px; }
+  .card-title {
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 3px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
   }
-  .chevron {
-    color: var(--tertiary-text);
-    font-size: 18px;
-    flex-shrink: 0;
-    margin-left: 2px;
+  .card-sub {
+    font-size: 13px;
+    color: var(--secondary-text);
   }
 
   .empty-state {
@@ -295,7 +361,8 @@
     padding: 60px 20px;
   }
 
-  #mapView { display: none; height: calc(100vh - 132px); position: relative; }
+  /* ---------- Map ---------- */
+  #mapView { display: none; height: calc(100vh - 108px); position: relative; }
   #map { height: 100%; width: 100%; }
   .legend {
     position: absolute;
@@ -312,15 +379,132 @@
   .legend div { display: flex; align-items: center; gap: 6px; margin: 2px 0; }
   .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
   .popup-title { font-weight: 600; margin-bottom: 4px; font-size: 14px; }
-  .popup-meta { font-size: 12px; color: var(--secondary-text); margin-bottom: 6px; }
+  .popup-meta { font-size: 12px; color: var(--secondary-text); margin-bottom: 8px; }
   .popup-price { font-weight: 600; color: var(--blue); margin-bottom: 6px; font-size: 13px; }
-  .popup-link { font-size: 13px; }
-
-  .refresh-hint {
+  .popup-detail-btn {
+    display: block;
     text-align: center;
+    background: var(--blue);
+    color: #fff;
+    font-weight: 600;
+    font-size: 13px;
+    padding: 7px;
+    border-radius: 8px;
+    border: none;
+    width: 100%;
+    font-family: inherit;
+  }
+
+  /* ---------- Detail overlay ---------- */
+  #detailView {
+    position: fixed;
+    inset: 0;
+    z-index: 900;
+    background: var(--bg);
+    transform: translateY(100%);
+    transition: transform 0.32s cubic-bezier(0.32, 0.72, 0, 1);
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+  #detailView.open { transform: translateY(0); }
+
+  .gallery {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #000;
+    overflow-x: auto;
+    overflow-y: hidden;
+    display: flex;
+    scroll-snap-type: x mandatory;
+    scrollbar-width: none;
+  }
+  .gallery::-webkit-scrollbar { display: none; }
+  .gallery img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    flex-shrink: 0;
+    scroll-snap-align: start;
+  }
+  .gallery-dots {
+    position: absolute;
+    bottom: 14px;
+    left: 0; right: 0;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+  }
+  .gallery-dots span {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    background: rgba(255,255,255,0.45);
+  }
+  .gallery-dots span.active { background: #fff; }
+  .gallery-counter {
+    position: absolute;
+    top: calc(env(safe-area-inset-top, 0px) + 14px);
+    right: 14px;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
     font-size: 12px;
-    color: var(--tertiary-text);
-    padding: 4px 0 0;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 10px;
+  }
+  .detail-close {
+    position: fixed;
+    top: calc(env(safe-area-inset-top, 0px) + 14px);
+    left: 14px;
+    z-index: 901;
+    width: 34px;
+    height: 34px;
+    border-radius: 17px;
+    background: rgba(0,0,0,0.5);
+    color: #fff;
+    border: none;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    backdrop-filter: blur(4px);
+  }
+
+  .detail-body { padding: 18px 20px calc(env(safe-area-inset-bottom, 0px) + 96px); }
+  .detail-title { font-size: 22px; font-weight: 700; letter-spacing: -0.01em; margin-bottom: 4px; }
+  .detail-sub { font-size: 14px; color: var(--secondary-text); margin-bottom: 14px; }
+  .detail-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 18px; }
+  .detail-chip {
+    background: var(--fill);
+    font-size: 13px;
+    font-weight: 600;
+    padding: 6px 12px;
+    border-radius: 12px;
+  }
+  .detail-chip.price { background: var(--blue); color: #fff; }
+  .detail-section-title { font-size: 15px; font-weight: 700; margin: 0 0 8px; }
+  .detail-description {
+    font-size: 15px;
+    line-height: 1.55;
+    color: var(--text);
+    white-space: pre-line;
+  }
+
+  .detail-cta {
+    position: fixed;
+    left: 0; right: 0; bottom: 0;
+    z-index: 902;
+    padding: 12px 20px calc(env(safe-area-inset-bottom, 0px) + 12px);
+    background: var(--nav-blur-bg);
+    backdrop-filter: saturate(180%) blur(20px);
+    -webkit-backdrop-filter: saturate(180%) blur(20px);
+    border-top: 0.5px solid var(--separator);
+  }
+  .detail-cta a.primary-btn {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    box-sizing: border-box;
   }
 </style>
 </head>
@@ -329,38 +513,20 @@
 <div class="navbar">
   <div class="title-row">
     <h1>Woningen</h1>
-    <button id="notifyBtn" class="bell-btn" title="Meldingen">🔔</button>
+    <div class="nav-actions">
+      <button id="notifyBtn" class="icon-btn" title="Meldingen">🔔</button>
+      <button id="filterBtn" class="icon-btn" title="Filters">
+        ⚙️<span class="dot-flag" id="filterDot" style="display:none"></span>
+      </button>
+    </div>
   </div>
-  <div class="segmented">
-    <button id="tabListBtn" class="active">Lijst</button>
-    <button id="tabMapBtn">Kaart</button>
+  <div class="toolbar-row">
+    <div class="segmented">
+      <button id="tabListBtn" class="active">Lijst</button>
+      <button id="tabMapBtn">Kaart</button>
+    </div>
   </div>
-  <div class="filter-row">
-    <label class="chip">
-      ≤ <span id="distanceValue">30</span> km
-      <input type="range" id="distanceSlider" min="5" max="150" value="30" step="5" />
-    </label>
-    <label class="chip">
-      Min. m² <input type="number" id="minSize" min="0" step="5" placeholder="—" />
-    </label>
-    <button class="chip on" id="onlyInterestingChip">Alleen interessant</button>
-  </div>
-  <div class="refresh-hint" id="stats"></div>
-</div>
-
-<div id="notifyPanel" class="notify-panel" style="display:none">
-  <div id="notifyStep1">
-    <p><strong>Pushmeldingen inschakelen</strong></p>
-    <p class="notify-hint">Werkt alleen als deze pagina via "Zet op beginscherm" is geïnstalleerd (Safari → deelknop). Open 'm daarna vanaf het beginscherm en tik hier opnieuw.</p>
-    <button id="notifyEnableBtn" class="primary-btn">Meldingen aanzetten</button>
-  </div>
-  <div id="notifyStep2" style="display:none">
-    <p><strong>Bijna klaar</strong></p>
-    <p class="notify-hint">Kopieer onderstaande code en stuur 'm één keer naar Claude in de chat om te activeren.</p>
-    <textarea id="subscriptionText" readonly></textarea>
-    <button id="copySubBtn" class="primary-btn">Kopieer code</button>
-  </div>
-  <button id="notifyCloseBtn" class="close-btn">Sluiten</button>
+  <div class="stats-row" id="stats"></div>
 </div>
 
 <div id="listView"></div>
@@ -370,6 +536,53 @@
   <div class="legend">
     <div><span class="dot" style="background:var(--green)"></span> Interessant</div>
     <div><span class="dot" style="background:var(--tertiary-text)"></span> Overig</div>
+  </div>
+</div>
+
+<!-- Filter sheet -->
+<div class="sheet-backdrop" id="filterBackdrop"></div>
+<div class="sheet" id="filterSheet">
+  <div class="sheet-handle"></div>
+  <h2>Filters</h2>
+  <div class="field-group">
+    <div class="field-label"><span>Max. afstand</span><span id="distanceValue">30 km</span></div>
+    <input type="range" id="distanceSlider" min="5" max="150" value="30" step="5" />
+  </div>
+  <div class="field-group">
+    <div class="field-label"><span>Minimale grootte</span></div>
+    <input type="number" id="minSize" min="0" step="5" placeholder="Geen minimum (m²)" />
+  </div>
+  <div class="field-group toggle-row">
+    <div class="field-label" style="margin:0"><span>Alleen interessante woningen</span></div>
+    <button class="switch on" id="onlyInterestingSwitch"></button>
+  </div>
+  <button class="primary-btn" id="filterApplyBtn">Toepassen</button>
+</div>
+
+<!-- Notify sheet -->
+<div class="sheet-backdrop" id="notifyBackdrop"></div>
+<div class="sheet" id="notifySheet">
+  <div class="sheet-handle"></div>
+  <div id="notifyStep1">
+    <h2>Pushmeldingen</h2>
+    <p class="notify-hint">Werkt alleen als deze pagina via "Zet op beginscherm" is geïnstalleerd (Safari → deelknop). Open 'm daarna vanaf het beginscherm en tik hier opnieuw.</p>
+    <button id="notifyEnableBtn" class="primary-btn">Meldingen aanzetten</button>
+  </div>
+  <div id="notifyStep2" style="display:none">
+    <h2>Bijna klaar</h2>
+    <p class="notify-hint">Kopieer onderstaande code en stuur 'm één keer naar Claude in de chat om te activeren.</p>
+    <textarea id="subscriptionText" readonly></textarea>
+    <button id="copySubBtn" class="primary-btn">Kopieer code</button>
+  </div>
+</div>
+
+<!-- Detail overlay -->
+<div id="detailView">
+  <button class="detail-close" id="detailCloseBtn">✕</button>
+  <div class="gallery" id="detailGallery"></div>
+  <div class="detail-body" id="detailBody"></div>
+  <div class="detail-cta">
+    <a id="detailCtaLink" class="primary-btn" href="#" target="_blank" rel="noopener">Open op mijnadhoc.nl →</a>
   </div>
 </div>
 
@@ -453,6 +666,10 @@ function filteredSorted() {
   return withMeta;
 }
 
+function firstImage(item) {
+  return (item.images && item.images[0]) || item.image_url || '';
+}
+
 function renderList() {
   const rows = filteredSorted();
   const container = document.getElementById('listView');
@@ -465,37 +682,36 @@ function renderList() {
 
   let lastGroup = null;
   let html = '';
-  let openGroup = false;
 
   for (const { item, best, size } of rows) {
     const groupLabel = isRecent(item) ? 'Nieuw (afgelopen 24 uur)' : 'Eerder gezien';
     if (groupLabel !== lastGroup) {
-      if (openGroup) html += '</div>';
-      html += `<div class="section-label">${groupLabel}</div><div class="card-group">`;
-      openGroup = true;
+      html += `<div class="section-label">${groupLabel}</div>`;
       lastGroup = groupLabel;
     }
 
-    const img = item.image_url || '';
+    const img = firstImage(item);
+    const photoCount = (item.images && item.images.length) || (img ? 1 : 0);
     const isInteresting = best.distance <= getFilters().maxDistance;
 
     html += `
-      <a class="row" href="${item.url}" target="_blank" rel="noopener">
-        ${img ? `<img class="thumb" src="${img}" loading="lazy" />` : '<div class="thumb"></div>'}
-        <div class="row-body">
-          <div class="row-title">${item.title || item.city}</div>
-          <div class="row-sub">${item.city} · ${size ? size + ' m²' : 'm² onbekend'} · ~${best.distance.toFixed(0)} km van ${best.name}</div>
-          <div class="row-meta">
+      <button class="photo-card" onclick="openDetail('${item.id}')">
+        <div class="photo-wrap">
+          ${img ? `<img src="${img}" loading="lazy" />` : ''}
+          <div class="photo-badges">
             ${isRecent(item) ? `<span class="badge new">${timeAgoLabel(item)}</span>` : ''}
             ${isInteresting ? '<span class="badge near">Interessant</span>' : ''}
-            ${item.price_text ? `<span class="price">${item.price_text}</span>` : ''}
           </div>
+          ${item.price_text ? `<div class="price-pill">${item.price_text}</div>` : ''}
+          ${photoCount > 1 ? `<div class="photo-count">📷 ${photoCount}</div>` : ''}
         </div>
-        <div class="chevron">›</div>
-      </a>
+        <div class="card-body">
+          <div class="card-title">${item.title || item.city}</div>
+          <div class="card-sub">${item.city} · ${size ? size + ' m²' : 'm² onbekend'} · ~${best.distance.toFixed(0)} km van ${best.name}</div>
+        </div>
+      </button>
     `;
   }
-  if (openGroup) html += '</div>';
 
   container.innerHTML = html;
 }
@@ -531,14 +747,15 @@ function renderMap() {
       weight: 1,
     });
 
-    const img = item.image_url ? `<img src="${item.image_url}" style="width:100%;border-radius:8px;margin-bottom:6px;" />` : '';
+    const img = firstImage(item);
+    const imgHtml = img ? `<img src="${img}" style="width:100%;border-radius:8px;margin-bottom:6px;aspect-ratio:4/3;object-fit:cover;" />` : '';
     marker.bindPopup(`
       <div style="min-width:190px">
-        ${img}
+        ${imgHtml}
         <div class="popup-title">${item.title || item.city}</div>
         <div class="popup-meta">${item.city} · ${size ? size + ' m²' : 'm² onbekend'} · ~${best.distance.toFixed(0)} km van ${best.name}</div>
         ${item.price_text ? `<div class="popup-price">${item.price_text}</div>` : ''}
-        <div class="popup-link"><a href="${item.url}" target="_blank" rel="noopener">Bekijk op mijnadhoc.nl →</a></div>
+        <button class="popup-detail-btn" onclick="openDetail('${item.id}')">Bekijk details</button>
       </div>
     `);
     marker.addTo(markersLayer);
@@ -546,7 +763,7 @@ function renderMap() {
 }
 
 function renderAll() {
-  document.getElementById('distanceValue').textContent = document.getElementById('distanceSlider').value;
+  document.getElementById('distanceValue').textContent = document.getElementById('distanceSlider').value + ' km';
   renderList();
   if (map) renderMap();
 }
@@ -575,11 +792,77 @@ function switchTab(tab) {
 document.getElementById('tabListBtn').addEventListener('click', () => switchTab('list'));
 document.getElementById('tabMapBtn').addEventListener('click', () => switchTab('map'));
 document.getElementById('distanceSlider').addEventListener('input', renderAll);
-document.getElementById('minSize').addEventListener('input', renderAll);
-document.getElementById('onlyInterestingChip').addEventListener('click', (e) => {
+
+// ---------- Sheets (filter + notify) ----------
+function openSheet(sheetId, backdropId) {
+  document.getElementById(backdropId).classList.add('open');
+  document.getElementById(sheetId).classList.add('open');
+}
+function closeSheet(sheetId, backdropId) {
+  document.getElementById(backdropId).classList.remove('open');
+  document.getElementById(sheetId).classList.remove('open');
+}
+
+document.getElementById('filterBtn').addEventListener('click', () => openSheet('filterSheet', 'filterBackdrop'));
+document.getElementById('filterBackdrop').addEventListener('click', (e) => {
+  if (e.target.id === 'filterBackdrop') closeSheet('filterSheet', 'filterBackdrop');
+});
+document.getElementById('filterApplyBtn').addEventListener('click', () => {
+  closeSheet('filterSheet', 'filterBackdrop');
+});
+document.getElementById('onlyInterestingSwitch').addEventListener('click', (e) => {
   onlyInteresting = !onlyInteresting;
   e.target.classList.toggle('on', onlyInteresting);
   renderAll();
+});
+document.getElementById('minSize').addEventListener('input', renderAll);
+
+document.getElementById('notifyBtn').addEventListener('click', () => openSheet('notifySheet', 'notifyBackdrop'));
+document.getElementById('notifyBackdrop').addEventListener('click', (e) => {
+  if (e.target.id === 'notifyBackdrop') closeSheet('notifySheet', 'notifyBackdrop');
+});
+
+// ---------- Detail overlay ----------
+function openDetail(id) {
+  const item = allListings.find((l) => l.id === id);
+  if (!item) return;
+
+  const best = closestCity(item);
+  const size = Number(item.size_m2) || 0;
+  const images = (item.images && item.images.length) ? item.images : (item.image_url ? [item.image_url] : []);
+
+  const gallery = document.getElementById('detailGallery');
+  gallery.innerHTML = images.map((src) => `<img src="${src}" />`).join('') +
+    (images.length > 1 ? `<div class="gallery-dots">${images.map((_, i) => `<span class="${i === 0 ? 'active' : ''}"></span>`).join('')}</div><div class="gallery-counter" id="galleryCounter">1 / ${images.length}</div>` : '');
+
+  gallery.onscroll = () => {
+    const idx = Math.round(gallery.scrollLeft / gallery.clientWidth);
+    const dots = gallery.querySelectorAll('.gallery-dots span');
+    dots.forEach((d, i) => d.classList.toggle('active', i === idx));
+    const counter = document.getElementById('galleryCounter');
+    if (counter) counter.textContent = `${idx + 1} / ${images.length}`;
+  };
+
+  document.getElementById('detailBody').innerHTML = `
+    <div class="detail-title">${item.title || item.city}</div>
+    <div class="detail-sub">${item.city} · ~${best.distance.toFixed(0)} km van ${best.name}</div>
+    <div class="detail-chips">
+      ${item.price_text ? `<span class="detail-chip price">${item.price_text}</span>` : ''}
+      ${size ? `<span class="detail-chip">${size} m²</span>` : ''}
+      ${isRecent(item) ? `<span class="detail-chip">${timeAgoLabel(item)}</span>` : ''}
+    </div>
+    <div class="detail-section-title">Omschrijving</div>
+    <div class="detail-description">${item.description || 'Geen omschrijving beschikbaar.'}</div>
+  `;
+
+  document.getElementById('detailCtaLink').href = item.url;
+  document.getElementById('detailView').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+
+document.getElementById('detailCloseBtn').addEventListener('click', () => {
+  document.getElementById('detailView').classList.remove('open');
+  document.body.style.overflow = '';
 });
 
 fetch('./listings.json?t=' + Date.now(), { cache: 'no-store' })
@@ -609,23 +892,11 @@ async function initPush() {
   if (!('serviceWorker' in navigator)) return;
   swRegistration = await navigator.serviceWorker.register('./sw.js');
 
-  const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
   const existing = 'pushManager' in swRegistration ? await swRegistration.pushManager.getSubscription() : null;
   if (existing && Notification.permission === 'granted') {
     document.getElementById('notifyBtn').classList.add('active');
   }
 }
-
-function openNotifyPanel() {
-  document.getElementById('notifyPanel').style.display = 'block';
-  document.getElementById('notifyStep1').style.display = 'block';
-  document.getElementById('notifyStep2').style.display = 'none';
-}
-
-document.getElementById('notifyBtn').addEventListener('click', openNotifyPanel);
-document.getElementById('notifyCloseBtn').addEventListener('click', () => {
-  document.getElementById('notifyPanel').style.display = 'none';
-});
 
 document.getElementById('notifyEnableBtn').addEventListener('click', async () => {
   try {
