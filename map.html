@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Ad Hoc woningen — kaart</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<style>
+  :root {
+    --bg: #f5f5f3;
+    --panel: #ffffff;
+    --text: #1d1f4f;
+    --muted: #6b7280;
+    --accent: #f48120;
+    --interesting: #2e7d32;
+    --other: #9aa0a6;
+    --border: #e5e5e5;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16171d;
+      --panel: #21232b;
+      --text: #f2f0f0;
+      --muted: #a1aeb9;
+      --border: #33353f;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    display: flex;
+    flex-direction: column;
+  }
+  header {
+    padding: 12px 16px;
+    background: var(--panel);
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+  }
+  header h1 {
+    font-size: 16px;
+    margin: 0;
+    white-space: nowrap;
+  }
+  .controls {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px;
+    align-items: center;
+    font-size: 13px;
+    color: var(--muted);
+  }
+  .controls label { display: flex; align-items: center; gap: 6px; }
+  #distanceValue { color: var(--text); font-weight: 600; }
+  #stats { margin-left: auto; font-size: 13px; color: var(--muted); }
+  #map { flex: 1; }
+  .legend {
+    position: absolute;
+    bottom: 24px;
+    left: 12px;
+    z-index: 1000;
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    font-size: 12px;
+    color: var(--text);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  }
+  .legend div { display: flex; align-items: center; gap: 6px; margin: 2px 0; }
+  .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .popup-title { font-weight: 600; margin-bottom: 4px; }
+  .popup-meta { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+  .popup-price { font-weight: 600; color: var(--accent); margin-bottom: 6px; }
+  .popup-link { font-size: 13px; }
+  #wrap { position: relative; flex: 1; display: flex; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Ad Hoc woningen</h1>
+  <div class="controls">
+    <label>
+      Max. afstand: <span id="distanceValue">30</span> km
+      <input type="range" id="distanceSlider" min="5" max="150" value="30" step="5" />
+    </label>
+    <label>
+      Min. m²
+      <input type="number" id="minSize" min="0" step="5" style="width:60px" placeholder="—" />
+    </label>
+    <label>
+      <input type="checkbox" id="onlyInteresting" checked />
+      Alleen interessante woningen
+    </label>
+  </div>
+  <div id="stats"></div>
+</header>
+<div id="wrap">
+  <div id="map"></div>
+  <div class="legend">
+    <div><span class="dot" style="background:var(--interesting)"></span> Interessant (binnen afstand)</div>
+    <div><span class="dot" style="background:var(--other)"></span> Overig</div>
+  </div>
+</div>
+
+<script>
+const REFERENCE_CITIES = {
+  Utrecht: [52.0907, 5.1214],
+  Rotterdam: [51.9244, 4.4777],
+  Breda: [51.5719, 4.7683],
+};
+
+const map = L.map('map').setView([52.15, 5.0], 8);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  maxZoom: 19,
+  attribution: '&copy; OpenStreetMap-bijdragers',
+}).addTo(map);
+
+for (const [name, coords] of Object.entries(REFERENCE_CITIES)) {
+  L.circleMarker(coords, {
+    radius: 6,
+    color: '#1d1f4f',
+    fillColor: '#1d1f4f',
+    fillOpacity: 1,
+  }).addTo(map).bindTooltip(name, { permanent: false });
+}
+
+let allListings = [];
+let markersLayer = L.layerGroup().addTo(map);
+
+function haversineKm(a, b) {
+  const R = 6371;
+  const toRad = (d) => (d * Math.PI) / 180;
+  const dLat = toRad(b[0] - a[0]);
+  const dLon = toRad(b[1] - a[1]);
+  const lat1 = toRad(a[0]);
+  const lat2 = toRad(b[0]);
+  const h =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(lat1) * Math.cos(lat2) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+
+function render() {
+  const maxDistance = Number(document.getElementById('distanceSlider').value);
+  const minSize = Number(document.getElementById('minSize').value) || 0;
+  const onlyInteresting = document.getElementById('onlyInteresting').checked;
+  document.getElementById('distanceValue').textContent = maxDistance;
+
+  markersLayer.clearLayers();
+  let shown = 0;
+
+  for (const item of allListings) {
+    if (item.lat == null || item.lng == null) continue;
+
+    let best = null;
+    for (const [name, coords] of Object.entries(REFERENCE_CITIES)) {
+      const d = haversineKm([item.lat, item.lng], coords);
+      if (!best || d < best.distance) best = { name, distance: d };
+    }
+
+    const size = Number(item.size_m2) || 0;
+    const isInteresting = best.distance <= maxDistance;
+
+    if (onlyInteresting && !isInteresting) continue;
+    if (minSize && size < minSize) continue;
+
+    const color = isInteresting ? 'var(--interesting)'.trim() : '#9aa0a6';
+    const marker = L.circleMarker([item.lat, item.lng], {
+      radius: 7,
+      color: isInteresting ? '#2e7d32' : '#9aa0a6',
+      fillColor: isInteresting ? '#2e7d32' : '#9aa0a6',
+      fillOpacity: 0.85,
+      weight: 1,
+    });
+
+    const img = item.image_url
+      ? `<img src="${item.image_url}" style="width:100%;border-radius:6px;margin-bottom:6px;" />`
+      : '';
+
+    marker.bindPopup(`
+      <div style="min-width:200px">
+        ${img}
+        <div class="popup-title">${item.title || item.city}</div>
+        <div class="popup-meta">${item.city} · ${size ? size + ' m²' : 'm² onbekend'} · ~${best.distance.toFixed(0)} km van ${best.name}</div>
+        ${item.price_text ? `<div class="popup-price">${item.price_text}</div>` : ''}
+        <div class="popup-link"><a href="${item.url}" target="_blank" rel="noopener">Bekijk op mijnadhoc.nl →</a></div>
+      </div>
+    `);
+
+    marker.addTo(markersLayer);
+    shown++;
+  }
+
+  document.getElementById('stats').textContent = `${shown} van ${allListings.length} woningen getoond`;
+}
+
+fetch('./listings.json?t=' + Date.now(), { cache: 'no-store' })
+  .then((r) => r.json())
+  .then((data) => {
+    allListings = data.listings || [];
+    render();
+  })
+  .catch((err) => {
+    document.getElementById('stats').textContent = 'Kon listings.json niet laden — run eerst check_adhoc.py';
+    console.error(err);
+  });
+
+document.getElementById('distanceSlider').addEventListener('input', render);
+document.getElementById('minSize').addEventListener('input', render);
+document.getElementById('onlyInteresting').addEventListener('change', render);
+</script>
+</body>
+</html>
