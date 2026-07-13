@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:26:21Z",
+  "generated_at": "2026-07-13T15:23:31Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -879,6 +879,30 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
+      "id": "a6IPx0000000W9ZMAU",
+      "city": "Amsterdam",
+      "title": "Vrije sectorwoning in Amsterdam 83 m²",
+      "size_m2": "83",
+      "image_url": "https://p.sharinpix.com/3/8f2481b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcyYzQ3M2E2LTFmMWMtNGM1Mi1iYWJkLWYyYjQ3OGYyNTc3Yy90aHVtYm5haWxzL2Z1bGwtYTAzYmM4ODcwMTQuanBn/img_3077.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000W9ZMAU",
+      "lat": 52.326049,
+      "lng": 4.8758474,
+      "price_text": "€949,47",
+      "description": "LET OP: HET IS EEN VRIJE SECTOR WONING ! JE MOET MINIMAAL 3X DE MAANDHUUR BRUTO VERDIENEN EN DIT KUNNEN AANTONEN! REAGEER ALLEEN ALS JE DIT KAN AANTONEN. In een bruisende buurt in Amsterdam Zuid bieden wij een woning aan op basis van tijdelijk verhuur in de vrije sector . Het appartement, van rond de 80 m², beschikt over een lichte woonkamer, een badkamer, 3 comfortabele slaapkamers, een keuken en een balkon. De locatie is perfect: op 5 minuten lopen van een supermarkt, op 10 minuutjes fietsen naar station Amsterdam Zuid en slechts 5 minuten rijden naar de dichtstbijzijnde uitvalsweg. Met een tal van voorzieningen in de buurt woon je hier centraal en comfortabel. De maandelijkse huur is €949,47 en de service kosten zijn €19,32 excl. GWL. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/8f2481b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcyYzQ3M2E2LTFmMWMtNGM1Mi1iYWJkLWYyYjQ3OGYyNTc3Yy90aHVtYm5haWxzL2Z1bGwtYTAzYmM4ODcwMTQuanBn/img_3077.jpeg",
+        "https://p.sharinpix.com/3/9214a2f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY4MjM2MDBiLWU3NGMtNDJiYi1iNmI0LWRhMzkyOGYyMTQ2Yi90aHVtYm5haWxzL2Z1bGwtOWU1NWIwYzY0MjkuanBn/img_3062.jpeg",
+        "https://p.sharinpix.com/3/9ab0a40/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc5YWQ4YzNjLTYyN2QtNGZmYi04YzIwLTRhOThmMWIwZWEzMS90aHVtYm5haWxzL2Z1bGwtNTg3OGQxYjIzYzAuanBn/img_3067.jpeg",
+        "https://p.sharinpix.com/3/04ed35e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY5OGRjNzNkLWZjYmQtNDY5MS1iNjIxLWU4M2VjNWIwNzFiZS90aHVtYm5haWxzL2Z1bGwtMWU5N2NmZjVmY2QuanBn/img_3065.jpeg",
+        "https://p.sharinpix.com/3/91ccc70/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM2NThjMWU2LTZiMGItNDJiOS04MDQwLTZhMDFmZWE5YTliZC90aHVtYm5haWxzL2Z1bGwtMDRiZmJiZjRhNTMuanBn/img_3071.jpeg",
+        "https://p.sharinpix.com/3/3af450a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFiOTUzZjVmLTk5MjctNDFlYy04NjY4LTc0ZjM4ZTU4YzIzNy90aHVtYm5haWxzL2Z1bGwtOGNmNTg5OTRjOTguanBn/img_3082.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 31.1,
+      "interesting": false,
+      "first_seen": "2026-07-13T15:23:31Z"
+    },
+    {
       "id": "a6ISi0000001PFhMAM",
       "city": "Roermond",
       "title": "Tijdelijk huren in Roermond 71 m²",
@@ -897,28 +921,6 @@
       ],
       "ref_city": "Breda",
       "distance_km": 95.6,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6ISi0000001TftMAE",
-      "city": "Amsterdam",
-      "title": "VRIJE SECTOR woonruimte in Amsterdam 77 m²",
-      "size_m2": "77",
-      "image_url": "/servlet/servlet.FileDownload?file=00PSi000006EhkrMAC",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000001TftMAE",
-      "lat": 52.3250632,
-      "lng": 4.876519,
-      "price_text": "€ 963,92",
-      "description": "LET OP HET IS EEN VRIJE SECTOR WONING ! JE MOET MINIMAAL 3X DE MAANDHUUR BRUTO VERDIENEN! In Amsterdam krijgen wij aan het einde van deze maand een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3 kamer woning van ca. 60 m² beschikt o.a. over 2 slaapkamers, keuken, badkamer, en een balkon met een mooi uitzicht. De woning ligt op loop/fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. De maandelijkse huur bedraagt € 963,92 exclusief nutsvoorzieningen en €23,81 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "/servlet/servlet.FileDownload?file=00PSi000006EhkrMAC",
-        "/servlet/servlet.FileDownload?file=00PSi000006EZxAMAW",
-        "/servlet/servlet.FileDownload?file=00PSi000006EdvlMAC",
-        "/servlet/servlet.FileDownload?file=00PSi000006EeTgMAK"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 30.9,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
     },
