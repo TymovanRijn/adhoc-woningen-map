@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T07:41:59Z",
+  "generated_at": "2026-07-13T10:44:38Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -22,6 +22,31 @@
       "distance_km": 109.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6I4I000000KRbVUAW",
+      "city": "Leiden",
+      "title": "Woonruimte in Leiden 53 m²",
+      "size_m2": "53",
+      "image_url": "https://p.sharinpix.com/3/11d47f6/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZkZDFiYTgwLTNiMmQtNGIyYi04ZjBhLWNkMWZhYTJmODY3NS90aHVtYm5haWxzL2Z1bGwtOWNhYTJkNDY4YjAuanBn/019f4bd3-1221-70da-9e77-669b68a6083b.jpg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6I4I000000KRbVUAW",
+      "lat": 52.14474240000001,
+      "lng": 4.4795633,
+      "price_text": "€498,20",
+      "description": "In Leiden hebben we een leuk appartement beschikbaar op basis van tijdelijk verhuur. Deze driekamerwoning van 53 m 2 beschikt o.a. over een balkon. Op fietsafstand van het centrum met diverse winkels, supermarkten en het openbaar vervoer. De uitvalswegen naar Den Haag en Amsterdam zijn binnen enkele autominuten te bereiken. De maandelijkse huur bedraagt €498,20 exclusief nutsvoorzieningen. Interesse? Meld je hieronder aan. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/11d47f6/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZkZDFiYTgwLTNiMmQtNGIyYi04ZjBhLWNkMWZhYTJmODY3NS90aHVtYm5haWxzL2Z1bGwtOWNhYTJkNDY4YjAuanBn/019f4bd3-1221-70da-9e77-669b68a6083b.jpg",
+        "https://p.sharinpix.com/3/721c17c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NiNGM5Yjk4LTMyNTAtNDNmNS1hZGNhLTYyNzQzNTE3MjU2Mi90aHVtYm5haWxzL2Z1bGwtYzNmOTIxZTBkNWUuanBn/img_5258.jpeg",
+        "https://p.sharinpix.com/3/4752d37/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc4YjBjNGEzLWZmMTEtNDAyYy04ZDMwLTY3ZTE3MmRiYWExOC90aHVtYm5haWxzL2Z1bGwtOWI1ZWVlOGY0MGIuanBn/img_5253.jpeg",
+        "https://p.sharinpix.com/3/eea02f1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q4ZTE2MWNlLWE2OTQtNDVhYy04YzQ2LTkyMjZhZjFlYWNhZC90aHVtYm5haWxzL2Z1bGwtMmMwNWVlNTZhYzQuanBn/019f4bd3-1218-7022-9fce-aeef1ab45b9f.jpg",
+        "https://p.sharinpix.com/3/90c3166/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY2MmQwODI5LTRmYjktNDkyZC05YmIzLWE1ZWNlYjgyNzU3Ni90aHVtYm5haWxzL2Z1bGwtM2UwN2M2ODYwZGQuanBn/019f4bd3-1219-72e8-bb46-b981ab00d769.jpg",
+        "https://p.sharinpix.com/3/c0d8211/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQyMDM1NGE2LTViODEtNDc4My1iM2ZjLWJiMjI0ZjUzMWNhMS90aHVtYm5haWxzL2Z1bGwtNmM5Nzk4OTRjYTQuanBn/019f4bd3-121f-710e-aacc-90fdf6c5b2d8.jpg",
+        "https://p.sharinpix.com/3/c938f34/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQwMjQyYzcxLWVmN2MtNDIzZi1iNmUwLTVjNjEzNzcyODQwYi90aHVtYm5haWxzL2Z1bGwtZThhYjMxZWU0NjcuanBn/019f4bd3-1222-72a8-9dec-a5a74ef2eaf2.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 24.5,
+      "interesting": true,
+      "first_seen": "2026-07-13T10:44:38Z"
     },
     {
       "id": "a6IPx00000003NhMAI",
@@ -409,6 +434,28 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
+      "id": "a6IPx0000000JM1MAM",
+      "city": "Zwijndrecht",
+      "title": "Woonruimte in Zwijndrecht 63 m²",
+      "size_m2": "63",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000JM1MAM",
+      "lat": 51.8221023,
+      "lng": 4.6358043,
+      "price_text": "€430",
+      "description": "In Zwijndrecht hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 63m2 beschikt over twee slaapkamers,  prima keuken, prima badkamer met apart toilet en twee balkons. Er is ook een wasmachineaansluiting aanwezig in de woning. De woning ligt op fietsafstand van diverse winkels, supermarkten, horecagelegenheden en station Zwijndrecht. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Dordrecht en Rotterdam. In de buurt is er voldoende parkeergelegenheid en parkeren is gratis. De maandelijkse huur bedraagt €430 exclusief G/W/L en €35,20 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/6ae917f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NlMmNlM2M3LTIwM2UtNDhkYS1hYWQyLTk0OGRlOTFkYzQ1ZS90aHVtYm5haWxzL2Z1bGwtOTg5ZTJlMjJmMjYuanBn/019f4721-6c3e-7324-937a-e7d244661cfd.jpg",
+        "https://p.sharinpix.com/3/5f4ef61/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcxMGFmYjQ5LWQ3MjMtNGRjYS04YjllLWNlOGE5NDk4MGY5Yy90aHVtYm5haWxzL2Z1bGwtMzZjNDgyMTMwMmQuanBn/019f4721-6c5a-74a7-967a-749af42dcc0f.jpg",
+        "https://p.sharinpix.com/3/773cfb5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FkYWE5Y2Q5LWFjZDUtNDgwMS1iY2ZkLWY5YzYzMTk2M2RmNy90aHVtYm5haWxzL2Z1bGwtNjNkN2U3NTEyZTEuanBn/019f4721-6c65-75ae-a779-d4ecceaea8e2.jpg",
+        "https://p.sharinpix.com/3/f252299/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UxMjAwMzRiLWU1YmUtNDExOS05MzM0LTJjNGYxNDQ1ODczNS90aHVtYm5haWxzL2Z1bGwtZjdhY2Y0N2VhYzUuanBn/019f4721-6c53-739a-b438-61a4ac4fe899.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 15.7,
+      "interesting": true,
+      "first_seen": "2026-07-13T10:44:38Z"
+    },
+    {
       "id": "a6IPx0000000KGTMA2",
       "city": "Usquert",
       "title": "Woonruimte in Usquert 75 m²",
@@ -746,6 +793,49 @@
       "distance_km": 28.9,
       "interesting": true,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6IPx0000000V0bMAE",
+      "city": "Papendrecht",
+      "title": "Woonruimte in Papendrecht 78 m²",
+      "size_m2": "78",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000V0bMAE",
+      "lat": 51.8252074,
+      "lng": 4.6929397,
+      "price_text": "€572,22",
+      "description": "In Papendrecht hebben wij een prima woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 78m2 beschikt over twee slaapkamers, aparte ruime keuken, ruime badkamer met apart toilet en een leuke achtertuin met schuur. In de badkamer zit ook de wasmachineaansluiting. De woning ligt op loop en fietsafstand van diverse winkels de supermarkt en het openbaar vervoer (bushalte). In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €572,22 exclusief  G/W/L en €6,30 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/d9cd63c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg3M2MwOWRjLTQ3NTQtNDRmYS1hZTg5LTczYmI5Mjc2N2ZmNi90aHVtYm5haWxzL2Z1bGwtOGY3ZWZhMjRjOGEuanBn/019f4172-4431-700e-8c75-b5f017b61b1b.jpg",
+        "https://p.sharinpix.com/3/ee1dee3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzNlMDgxNWRiLTkzODgtNDllOS1iNDc0LTc0NWVlNjRjNjU4Yi90aHVtYm5haWxzL2Z1bGwtNDBjODc0MjY5NDguanBn/019f4172-4466-760e-9bb7-f5d49c71fbde.jpg",
+        "https://p.sharinpix.com/3/070ae6c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzExZDY4YzM1LWVjMzAtNDMzMC04MjI4LWRlZDNjYTIxNDFkOC90aHVtYm5haWxzL2Z1bGwtOWU0MTQzNmMxODYuanBn/019f4172-4497-718a-9bba-498be5422ebc.jpg",
+        "https://p.sharinpix.com/3/860766d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ2YTYyNGYxLWZlYzMtNDRmMS1hNzU5LTNmZmQ5MjJhNjNjMy90aHVtYm5haWxzL2Z1bGwtOTMwYjE5OWMxMTAuanBn/019f4172-4470-717e-991a-25b4bac6d4dc.jpg",
+        "https://p.sharinpix.com/3/ceda41d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhhNWYzZjU1LWMwMTMtNGE5YS1iNDkzLTVhYzU2M2Y1YTUxYS90aHVtYm5haWxzL2Z1bGwtNjgxYjYyZDIzMWMuanBn/019f4172-4488-748a-a4a1-6b1ab1747cfa.jpg",
+        "https://p.sharinpix.com/3/72d0a22/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U0NmI3ZGNkLWExNWEtNDQwMC04YWViLWNlOTRiZTZkZjVlZi90aHVtYm5haWxzL2Z1bGwtMTQzZjM2MmU4OGYuanBn/019f4172-44a1-70ba-bd9d-688de93091b1.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 18.4,
+      "interesting": true,
+      "first_seen": "2026-07-13T10:44:38Z"
+    },
+    {
+      "id": "a6IPx0000000V5RMAU",
+      "city": "Papendrecht",
+      "title": "Woonruimte in Papendrecht 84 m²",
+      "size_m2": "84",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000V5RMAU",
+      "lat": 51.8244751,
+      "lng": 4.6940072,
+      "price_text": "€695,03",
+      "description": "In Papendrecht hebben wij een nette woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 84 m2 beschikt over twee slaapkamers, ruime aparte keuken, ruime badkamer met wasmachineaansluiting, apart toilet en een leuke achtertuin. De woning ligt op loop en fietsafstand van diverse winkels de supermarkt en het openbaar vervoer (bushalte). In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €695,03 exclusief G/W/L en €6,30 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 18.5,
+      "interesting": true,
+      "first_seen": "2026-07-13T10:44:38Z"
     },
     {
       "id": "a6IPx0000000V8fMAE",
