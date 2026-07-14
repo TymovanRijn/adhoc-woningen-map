@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:31:30Z",
+  "generated_at": "2026-07-14T10:21:20Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -519,28 +519,6 @@
       ],
       "ref_city": "Utrecht",
       "distance_km": 55.9,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6IPx0000000LajMAE",
-      "city": "Rhenen",
-      "title": "Woonruimte in Rhenen 69 m²",
-      "size_m2": "69",
-      "image_url": "https://p.sharinpix.com/3/039df76/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE1MmQ4NDBlLWE3ODUtNGU2MS1hNTQ3LTg0Yzk1OGU4YzA5My90aHVtYm5haWxzL2Z1bGwtNDg2NWZiODc0YjIuanBn/img_2183.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000LajMAE",
-      "lat": 51.960285,
-      "lng": 5.5666733,
-      "price_text": "€590,",
-      "description": "In Rhenen hebben wij een woonruimte beschikbaar o.b.v. tijdelijk verhuur. Dit nette appartement is gelegen op de begane grond en heeft een woonoppervlakte van ca. 75 m² beschikt over een lichte woonkamer, twee slaapkamers, een nette keuken, badkamer en een apart toilet. Ook is er een heerlijk achter tuin aanwezig! Rhenen is een sfeervol stadje aan de Rijn, gelegen aan de rand van de Utrechtse Heuvelrug. De woning ligt op loopafstand van diverse winkels, scholen, horecagelegenheden en het openbaar vervoer. Natuurliefhebbers kunnen hun hart ophalen met de prachtige uiterwaarden en bossen in de directe omgeving. De maandelijkse huur bedraagt €590,- exclusief G/W/L en €31,08,- servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Arnhem via arnhem@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/039df76/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE1MmQ4NDBlLWE3ODUtNGU2MS1hNTQ3LTg0Yzk1OGU4YzA5My90aHVtYm5haWxzL2Z1bGwtNDg2NWZiODc0YjIuanBn/img_2183.jpeg",
-        "https://p.sharinpix.com/3/c4455df/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzgzNmRkZWM2LWFmMjYtNDRlMC1iMjI5LWQ5ZjZiY2Q1MmYwOS90aHVtYm5haWxzL2Z1bGwtNTRiMTRkODc0MmIuanBn/img_2190.jpeg",
-        "https://p.sharinpix.com/3/00af025/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzRiMTFhY2MxLTA0ZTMtNDI5OC05M2VkLWUzYmZhOTk0NTlhMS90aHVtYm5haWxzL2Z1bGwtN2U2NjNjMWExYjYuanBn/img_2186.jpeg",
-        "https://p.sharinpix.com/3/24fc5a1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NiNDE2NDJmLTBjNWQtNDNkNC1iN2MzLWYwMWE5ZGE4YmI1Ni90aHVtYm5haWxzL2Z1bGwtY2Y4MTliMDU5MjcuanBn/img_2182.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 33.7,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
     },
@@ -1067,30 +1045,27 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
-      "id": "a6ISi0000004VTRMA2",
-      "city": "Groningen",
-      "title": "Woonruimte in Groningen 71 m²",
-      "size_m2": "71",
-      "image_url": "https://p.sharinpix.com/3/ad4c1c2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M5ZDEzNzY5LTNmZjAtNDUzOC1hOGM4LTg2YTVjNDJjY2I5YS90aHVtYm5haWxzL2Z1bGwtODg2ZjkzNzc4ZmUuanBn/img_6869.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000004VTRMA2",
-      "lat": 53.23352300000001,
-      "lng": 6.564643299999999,
-      "price_text": "€11,13",
-      "description": "In Groningen hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca.70m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet, balkon, en een berging. De woning ligt op loop/fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. De maandelijkse huur bedraagt 446,00 exclusief G/W/L en €11,13 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Groningen via Groningen@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "id": "a6ISi0000003t1ZMAQ",
+      "city": "Haarlem",
+      "title": "Woonruimte in Haarlem 82 m²",
+      "size_m2": "82",
+      "image_url": "https://p.sharinpix.com/3/4da9c9f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ0ZGYzMjAzLTFiZWMtNGY0YS05NzRmLTFjYmIyZDhmZjZmOS90aHVtYm5haWxzL2Z1bGwtODliODdjYTUwOWQuanBn/0198842b-58bd-770a-976a-9084fd75745c.jpg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000003t1ZMAQ",
+      "lat": 52.3713944,
+      "lng": 4.6472384,
+      "price_text": "€709,53",
+      "description": "In Haarlem hebben wij een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 80 m2 beschikt over 3 slaapkamers, keuken, badkamer, apart toilet en tuin. De woning ligt op loopafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoend] parkeergelegenheid. De maandelijkse huur bedraagt €709,53 exclusief G/W/L en €6,43 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
       "images": [
-        "https://p.sharinpix.com/3/ad4c1c2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M5ZDEzNzY5LTNmZjAtNDUzOC1hOGM4LTg2YTVjNDJjY2I5YS90aHVtYm5haWxzL2Z1bGwtODg2ZjkzNzc4ZmUuanBn/img_6869.jpeg",
-        "https://p.sharinpix.com/3/a823ac5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzVhMzMyMDIzLWZlYTQtNGJmNC04Njc3LWViMWVkYjQ1OWJkZS90aHVtYm5haWxzL2Z1bGwtMGRiYmViNjkyNTAuanBn/img_6873.jpeg",
-        "https://p.sharinpix.com/3/56de049/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk0MDI2Yzg2LWFlMmMtNDY2MC04NjBkLWJhYjI3ZTYxYzFkNy90aHVtYm5haWxzL2Z1bGwtMjFkZDJjMjgyNzMuanBn/img_6888.jpeg",
-        "https://p.sharinpix.com/3/4735c63/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2IzZmY4M2JhLWUxOWItNDdlNC1iM2Y3LTZlNzJlM2JhNmNhOC90aHVtYm5haWxzL2Z1bGwtZjM3MzhlOTEzMWYuanBn/img_6872.jpeg",
-        "https://p.sharinpix.com/3/e2429cc/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzNkNWU3ZDJiLTg0YWMtNGNmNi04YmQxLTUwMWI1ODJhN2UwMi90aHVtYm5haWxzL2Z1bGwtMTBjMzRjOTZjNzcuanBn/img_6868.jpeg",
-        "https://p.sharinpix.com/3/626f0c2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA1NzM1YzdiLTRlMWUtNDkyOS1hNWUzLTViYzJmNmJhZGUwNC90aHVtYm5haWxzL2Z1bGwtNjcwNmY2Y2I4NjMuanBn/img_6875.jpeg",
-        "https://p.sharinpix.com/3/1d171e5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAwMzY2OGM2LTZjMzUtNDk0ZS05ZDY0LTFiY2YxNDAxYmExNC90aHVtYm5haWxzL2Z1bGwtZWNlMmQ1ODIxODYuanBn/img_6891.jpeg",
-        "https://p.sharinpix.com/3/1a2e516/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E0ZDA2OTVhLWU3ZTktNDE4NS1iMDAxLTYyYWIxNmZiMTkwMS90aHVtYm5haWxzL2Z1bGwtYzlkNWEwMjA1ZTcuanBn/img_6895.jpeg"
+        "https://p.sharinpix.com/3/4da9c9f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ0ZGYzMjAzLTFiZWMtNGY0YS05NzRmLTFjYmIyZDhmZjZmOS90aHVtYm5haWxzL2Z1bGwtODliODdjYTUwOWQuanBn/0198842b-58bd-770a-976a-9084fd75745c.jpg",
+        "https://p.sharinpix.com/3/c3586a5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q3YmE0YjRhLWY5YWYtNGM3Yi04NzhhLWY1MzYzMTFhMWE3YS90aHVtYm5haWxzL2Z1bGwtYzgxYTg2M2JjMWMuanBn/0198842b-91c2-750c-b2a6-1d8fc3e3576b.jpg",
+        "https://p.sharinpix.com/3/82b1d4f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzBkYTg1YjhhLWQ4ZjUtNDE1My05MjAwLWQ1MDE1ZTUxNGE1ZC90aHVtYm5haWxzL2Z1bGwtODhkMDZiODE5YmMuanBn/0198842b-5884-7728-a542-abf26eb4898a.jpg",
+        "https://p.sharinpix.com/3/fc4ff33/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E4YTFhMDQ0LThkNTctNDZlMC1iNzlhLWRlM2Q4ZWQ1YjgzNy90aHVtYm5haWxzL2Z1bGwtNmVmY2M3ZTg3YzIuanBn/0198842b-58b5-7370-8061-f55379d1387d.jpg",
+        "https://p.sharinpix.com/3/55432b0/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzNkMWU2MTA5LWE4NjMtNGQyMy1iMjcxLTMyNDNhZDMzNmQ2Ni90aHVtYm5haWxzL2Z1bGwtMzkyYzAxNWNiM2QuanBn/0198842b-58da-73f2-a572-0824cee451cd.jpg"
       ],
       "ref_city": "Utrecht",
-      "distance_km": 160.1,
+      "distance_km": 44.9,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
+      "first_seen": "2026-07-14T10:21:20Z"
     },
     {
       "id": "a6ISi00000053YLMAY",
@@ -1378,28 +1353,6 @@
       ],
       "ref_city": "Breda",
       "distance_km": 101.0,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6ISi0000005UrtMAE",
-      "city": "Twello",
-      "title": "Woonruimte in Twello 60 m²",
-      "size_m2": "60",
-      "image_url": "https://p.sharinpix.com/3/38521f8/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2YTRjMGUyLTFjYzUtNGYzZC1iMmJjLWU5Y2RmYzZlY2NhMi90aHVtYm5haWxzL2Z1bGwtYTE0Y2MyNTA3MTkuanBn/img_4252.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000005UrtMAE",
-      "lat": 52.2342462,
-      "lng": 6.090592699999999,
-      "price_text": "€350,",
-      "description": "In Twello hebben wij een mooi appartement beschikbaar op basis van tijdelijk verhuur. Deze 2 kamer woning van ca. 45 m2 beschikt over 1 slaapkamer, keuken, badkamer, apart toilet. De woning ligt op fiets afstand van diverse winkels, en het openbaar vervoer. Er is een goede verbinding met Apeldoorn. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €350,- exclusief G/W/L en €6,02,- servicekosten Voor meer informatie kun je contact opnemen met ons kantoor in Arnhem via arnhem@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/38521f8/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2YTRjMGUyLTFjYzUtNGYzZC1iMmJjLWU5Y2RmYzZlY2NhMi90aHVtYm5haWxzL2Z1bGwtYTE0Y2MyNTA3MTkuanBn/img_4252.jpeg",
-        "https://p.sharinpix.com/3/3254352/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FmMmY2MWQwLTg5NjgtNGYwZS04MDMzLWMyMzNkZDdlZDg3Ni90aHVtYm5haWxzL2Z1bGwtOWViYzliMTU4M2MuanBn/img_4259.jpeg",
-        "https://p.sharinpix.com/3/a27b40a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2QxNjExMTczLWY4ZTYtNGRlZC05MWEyLTRkYmQ5OGJmZDEyYy90aHVtYm5haWxzL2Z1bGwtNzM2MGY2NmM0MWEuanBn/img_4256.jpeg",
-        "https://p.sharinpix.com/3/6d39e1e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzVjY2RjNzlkLTk0NTAtNGMxYy1hMzMzLTJiNWMyNmNmZDQ4My90aHVtYm5haWxzL2Z1bGwtMWRlYzI4MTBkZmEuanBn/img_4254.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 68.0,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
     },
