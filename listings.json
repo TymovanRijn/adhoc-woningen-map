@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T15:01:25Z",
+  "generated_at": "2026-07-14T16:23:53Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -748,49 +748,6 @@
       "distance_km": 44.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6IPx0000000V0bMAE",
-      "city": "Papendrecht",
-      "title": "Woonruimte in Papendrecht 78 m²",
-      "size_m2": "78",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000V0bMAE",
-      "lat": 51.8252074,
-      "lng": 4.6929397,
-      "price_text": "€572,22",
-      "description": "In Papendrecht hebben wij een prima woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 78m2 beschikt over twee slaapkamers, aparte ruime keuken, ruime badkamer met apart toilet en een leuke achtertuin met schuur. In de badkamer zit ook de wasmachineaansluiting. De woning ligt op loop en fietsafstand van diverse winkels de supermarkt en het openbaar vervoer (bushalte). In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €572,22 exclusief  G/W/L en €6,30 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/d9cd63c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg3M2MwOWRjLTQ3NTQtNDRmYS1hZTg5LTczYmI5Mjc2N2ZmNi90aHVtYm5haWxzL2Z1bGwtOGY3ZWZhMjRjOGEuanBn/019f4172-4431-700e-8c75-b5f017b61b1b.jpg",
-        "https://p.sharinpix.com/3/ee1dee3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzNlMDgxNWRiLTkzODgtNDllOS1iNDc0LTc0NWVlNjRjNjU4Yi90aHVtYm5haWxzL2Z1bGwtNDBjODc0MjY5NDguanBn/019f4172-4466-760e-9bb7-f5d49c71fbde.jpg",
-        "https://p.sharinpix.com/3/070ae6c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzExZDY4YzM1LWVjMzAtNDMzMC04MjI4LWRlZDNjYTIxNDFkOC90aHVtYm5haWxzL2Z1bGwtOWU0MTQzNmMxODYuanBn/019f4172-4497-718a-9bba-498be5422ebc.jpg",
-        "https://p.sharinpix.com/3/860766d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ2YTYyNGYxLWZlYzMtNDRmMS1hNzU5LTNmZmQ5MjJhNjNjMy90aHVtYm5haWxzL2Z1bGwtOTMwYjE5OWMxMTAuanBn/019f4172-4470-717e-991a-25b4bac6d4dc.jpg",
-        "https://p.sharinpix.com/3/ceda41d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhhNWYzZjU1LWMwMTMtNGE5YS1iNDkzLTVhYzU2M2Y1YTUxYS90aHVtYm5haWxzL2Z1bGwtNjgxYjYyZDIzMWMuanBn/019f4172-4488-748a-a4a1-6b1ab1747cfa.jpg",
-        "https://p.sharinpix.com/3/72d0a22/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U0NmI3ZGNkLWExNWEtNDQwMC04YWViLWNlOTRiZTZkZjVlZi90aHVtYm5haWxzL2Z1bGwtMTQzZjM2MmU4OGYuanBn/019f4172-44a1-70ba-bd9d-688de93091b1.jpg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 18.4,
-      "interesting": true,
-      "first_seen": "2026-07-13T10:44:38Z"
-    },
-    {
-      "id": "a6IPx0000000V5RMAU",
-      "city": "Papendrecht",
-      "title": "Woonruimte in Papendrecht 84 m²",
-      "size_m2": "84",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000V5RMAU",
-      "lat": 51.8244751,
-      "lng": 4.6940072,
-      "price_text": "€695,03",
-      "description": "In Papendrecht hebben wij een nette woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 84 m2 beschikt over twee slaapkamers, ruime aparte keuken, ruime badkamer met wasmachineaansluiting, apart toilet en een leuke achtertuin. De woning ligt op loop en fietsafstand van diverse winkels de supermarkt en het openbaar vervoer (bushalte). In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €695,03 exclusief G/W/L en €6,30 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "/servlet/servlet.FileDownload?file=null"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 18.5,
-      "interesting": true,
-      "first_seen": "2026-07-13T10:44:38Z"
     },
     {
       "id": "a6IPx0000000V8fMAE",
