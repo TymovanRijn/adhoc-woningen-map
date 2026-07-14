@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:21:20Z",
+  "generated_at": "2026-07-14T11:51:07Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -1354,38 +1354,6 @@
       "ref_city": "Breda",
       "distance_km": 101.0,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6ISi0000005WSHMA2",
-      "city": "Den Haag",
-      "title": "Woonruimte in Den Haag 58 m²",
-      "size_m2": "58",
-      "image_url": "https://p.sharinpix.com/3/e2ac601/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q2NmM5OTE3LWFiODktNDRjMS05MTVmLTQ0NmU2MmEyNWNhZS90aHVtYm5haWxzL2Z1bGwtYWU3NTZhZjRjYTMuanBn/67fa3d00-ee9a-4236-8785-083f7b85cfa3.jpg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000005WSHMA2",
-      "lat": 52.0432317,
-      "lng": 4.2517849,
-      "price_text": "€498,20",
-      "description": "Ben jij per direct opzoek en wil je dichtbij het strand wonen? In Den Haag hebben wij een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 58 m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet, balkon, een berging. De woning ligt op fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €498,20 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/e2ac601/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q2NmM5OTE3LWFiODktNDRjMS05MTVmLTQ0NmU2MmEyNWNhZS90aHVtYm5haWxzL2Z1bGwtYWU3NTZhZjRjYTMuanBn/67fa3d00-ee9a-4236-8785-083f7b85cfa3.jpg",
-        "https://p.sharinpix.com/3/a5df987/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2QyZGNhOWFlLTc4ZGUtNGZhYS05ZmY5LWYzYzM3ZGZkMzE3OS90aHVtYm5haWxzL2Z1bGwtYTUyMDhiNWFmZDQuanBn/b93d2010-d98d-4d06-ab58-f1e626002f25.jpg",
-        "https://p.sharinpix.com/3/c2b2aad/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZhOGEwYzRiLTIyYjQtNGU0Ni04YTE3LTcwMTczNzQzYWU0Yy90aHVtYm5haWxzL2Z1bGwtMmM3N2NlNDI2YzYuanBn/f441559c-15de-4e34-8f0e-80e7f035a390.jpg",
-        "https://p.sharinpix.com/3/3c26430/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk1NGNhNjczLWMzYjAtNGFiZS04Y2JkLTMxNjY1YmQ0ZGVhOC90aHVtYm5haWxzL2Z1bGwtZWZmMzI1ODIyYWMuanBn/d500726b-ae9d-4efb-86e0-20a3bd239ec1.jpg",
-        "https://p.sharinpix.com/3/11edee9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM4NDI4YWQwLTk2ZWYtNDBiYS1iZDg1LTA2ZDFjMTlkOWE2Mi90aHVtYm5haWxzL2Z1bGwtZmYyZDU0ZjYzNDAuanBn/9e4cb72d-4629-4785-9686-83934779a176.jpg",
-        "https://p.sharinpix.com/3/ddb91cc/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZlMmIxZTk0LWVmYzgtNGUwNC1hMTE3LTI0ZWU1NzhlMTNjYi90aHVtYm5haWxzL2Z1bGwtOGVkYmE1MjUxMTkuanBn/ec0489a6-b80d-4ee2-bda2-d046a55893ef.jpg",
-        "https://p.sharinpix.com/3/fb8c030/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2VlNmUxZDk2LTZjZWItNDFkNC05ZWI5LWMyY2MyNTM4ZTM3ZC90aHVtYm5haWxzL2Z1bGwtMWUwZGM5ZjMzY2UuanBn/img_4481.jpeg",
-        "https://p.sharinpix.com/3/7add1e9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2JjNmQxODlmLTk5ZWEtNGIzMC05YzhkLTkwMjBlNWU2MzliYi90aHVtYm5haWxzL2Z1bGwtMjE5NTY5MDg4MjAuanBn/img_4473.jpeg",
-        "https://p.sharinpix.com/3/ccd5f51/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM2Y2RlNWVhLTBkMjUtNDFkYi1hYWZlLTJjZjJiMDUwNGI2NS90aHVtYm5haWxzL2Z1bGwtZGNlYjk2ZDU4MGYuanBn/img_4465.jpeg",
-        "https://p.sharinpix.com/3/ee26ef6/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc4OTk3MGM5LWQzNGQtNGJhYi04OWM0LWU0OTI5MjljY2U5NC90aHVtYm5haWxzL2Z1bGwtYTI3YjQyMTY0OGMuanBn/img_4464.jpeg",
-        "https://p.sharinpix.com/3/8b0573b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UyMTczOTE0LWViN2MtNGZiMi05OWMwLWUyNTNlMDNjOTcwMy90aHVtYm5haWxzL2Z1bGwtMjI5ZDk4M2E2YmIuanBn/img_4451.jpeg",
-        "https://p.sharinpix.com/3/60c06b5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhiNDA2Y2EzLWU4ZTMtNGJmNC04YWY5LWZmMzcyZDkzMDE0Zi90aHVtYm5haWxzL2Z1bGwtNjY0OWI3YjQ4YmIuanBn/img_4416.jpeg",
-        "https://p.sharinpix.com/3/620ef2d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFkYThlNWI3LTBiOGQtNDI4NC05ZmU3LWIyM2Y3NzNkM2I2OC90aHVtYm5haWxzL2Z1bGwtYzJhODljMzA4YWQuanBn/img_4404.jpeg",
-        "https://p.sharinpix.com/3/ecd0bca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YxNmZjMGYxLWQ4YTUtNDZkNS05Yjc0LWFmYzExNGZmNDgyOS90aHVtYm5haWxzL2Z1bGwtYzNlNWNmZmVhYmQuanBn/img_4401.jpeg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 20.3,
-      "interesting": true,
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
