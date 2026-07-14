@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T13:05:23Z",
+  "generated_at": "2026-07-14T15:01:25Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -701,6 +701,31 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
+      "id": "a6IPx0000000UR7MAM",
+      "city": "Den Haag",
+      "title": "Woonruimte in Den Haag 46 m²",
+      "size_m2": "46",
+      "image_url": "https://p.sharinpix.com/3/b3cc4f4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2ZDYxNDVlLTVlOTEtNDM2Ny05M2E5LTkwMTAwNGUyNmZmNy90aHVtYm5haWxzL2Z1bGwtMTE3NWZlY2FhZWIuanBn/img_1033.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000UR7MAM",
+      "lat": 52.0414936,
+      "lng": 4.2499928,
+      "price_text": "€498,20",
+      "description": "In Den Haag hebben wij per direct een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 2-kamer woning van ca. 46 m2 beschikt over 1 slaapkamers, keuken, badkamer, apart toilet, balkon en een berging. De woning ligt op loop afstand van diverse winkels, supermarkten, horeca, het strand en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. Gezien de woning wat extra liefde nodig heeft krijg je bij het tekenen van je contract het exclusieve Ad Roller pakket om je op weg te helpen! De maandelijkse huur bedraagt €498,20 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/b3cc4f4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2ZDYxNDVlLTVlOTEtNDM2Ny05M2E5LTkwMTAwNGUyNmZmNy90aHVtYm5haWxzL2Z1bGwtMTE3NWZlY2FhZWIuanBn/img_1033.jpeg",
+        "https://p.sharinpix.com/3/b6b8f07/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzBhZTBiYTVlLTBkMGYtNDkyZi1hM2Q5LTNmMzdlZThmOWQxZi90aHVtYm5haWxzL2Z1bGwtMDQ4MWE2YjNlMzkuanBn/img_1040.jpeg",
+        "https://p.sharinpix.com/3/7fa59c1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg0MGRmY2Y3LTA5M2ItNDA1YS1hODdkLWEyOTkwZTliZTgxZi90aHVtYm5haWxzL2Z1bGwtZmU1YjRhZTcxZGQuanBn/img_1041.jpeg",
+        "https://p.sharinpix.com/3/0172d96/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzRhYTUxYWE1LWY1N2EtNDg0MC1iMDZhLWRmMGM5MjNmYmMxNS90aHVtYm5haWxzL2Z1bGwtM2YwNWFjMWE3NTMuanBn/img_1031.jpeg",
+        "https://p.sharinpix.com/3/752910f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U3ODFhYTU0LWE5ZjQtNDAzYy04ZjNlLWY1ZDkwYzliZWM2Ny90aHVtYm5haWxzL2Z1bGwtYzkxZWEyMjAyOGIuanBn/img_1023.jpeg",
+        "https://p.sharinpix.com/3/30134ae/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RlYTgxNmNjLWRhYTktNDBlMi1iOWE1LTQ3NjkyMzhlOGY4Mi90aHVtYm5haWxzL2Z1bGwtZmNmMWY3MmFmOGMuanBn/img_1001.jpeg",
+        "https://p.sharinpix.com/3/ec87c26/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhjNDUwNmZlLWJmZWMtNDZjYy1hNzQ1LTg3OTdkNDQxZWE5ZC90aHVtYm5haWxzL2Z1bGwtNDljYjEzMzNlOWUuanBn/img_0984.jpeg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 20.3,
+      "interesting": true,
+      "first_seen": "2026-07-14T15:01:25Z"
+    },
+    {
       "id": "a6IPx0000000UVxMAM",
       "city": "Haarlem",
       "title": "Woonruimte in Haarlem 92 m²",
@@ -722,29 +747,6 @@
       "ref_city": "Utrecht",
       "distance_km": 44.4,
       "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6IPx0000000Uu9MAE",
-      "city": "Amstelveen",
-      "title": "Woonruimte in Amstelveen 82 m²",
-      "size_m2": "82",
-      "image_url": "https://p.sharinpix.com/3/edfdaa8/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA2ZDIzNmY0LTE3MjItNGIyYy04MTczLWNkOTNlMzgzN2QyMS90aHVtYm5haWxzL2Z1bGwtNjY1ZjQwZDMwYjYuanBn/img_2515.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000Uu9MAE",
-      "lat": 52.29349690000001,
-      "lng": 4.855890899999999,
-      "price_text": "€500,22",
-      "description": "In een bruisende buurt in Amstelveen bieden wij een woning aan op basis van tijdelijk verhuur. Het twee verdieping appartement, van rond de 80m², beschikt over een woonkamer, een badkamer, 3 comfortabele slaapkamers, en een keuken. De locatie is perfect: op loopafstand van een supermarkt, op fietsafstand van het treinstation, en slechts een minuten rijden naar de dichtstbijzijnde uitvalsweg. Met tal van voorzieningen in de buurt woon je hier centraal en comfortabel. De maandelijkse huur is €500,22 (exclusief G/W/E) en €23,574 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/edfdaa8/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA2ZDIzNmY0LTE3MjItNGIyYy04MTczLWNkOTNlMzgzN2QyMS90aHVtYm5haWxzL2Z1bGwtNjY1ZjQwZDMwYjYuanBn/img_2515.jpeg",
-        "https://p.sharinpix.com/3/a0b5560/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2QwYTBkMWNlLWY3MTktNGE4Ni04NDNkLWU5NjM2ZTQyNGY3NC90aHVtYm5haWxzL2Z1bGwtMjAxOWQ3MjMyMGEuanBn/img_2519.jpeg",
-        "https://p.sharinpix.com/3/4795cb7/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQzN2JhYTViLWJkNTUtNDJlZS1iOGI5LWU1MThhODNhYTM1Mi90aHVtYm5haWxzL2Z1bGwtMmQyOWNlZTViMWMuanBn/img_2520.jpeg",
-        "https://p.sharinpix.com/3/02a68cc/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzczZGQxNmUyLTg2NTEtNGMyZS1iNTE1LTQ2MjQyZWY2ZDUzMi90aHVtYm5haWxzL2Z1bGwtZGRlNWNiNzAwMTIuanBn/img_2551.jpeg",
-        "https://p.sharinpix.com/3/31eb1b1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFkMmYwMjVlLWMzNzUtNDcwZi1iNzFjLWQwOWM2OWZlZDkyOC90aHVtYm5haWxzL2Z1bGwtM2RkNDQzNjM5ODYuanBn/img_2549.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 28.9,
-      "interesting": true,
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
@@ -855,31 +857,6 @@
       ],
       "ref_city": "Breda",
       "distance_km": 95.6,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6ISi0000001XLJMA2",
-      "city": "Wormer",
-      "title": "Woonruimte in Wormer 76 m²",
-      "size_m2": "76",
-      "image_url": "https://p.sharinpix.com/3/37a7c9d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ4OTQ2MmJkLTE5ZjktNDMxNy04ZDZiLWY3NjBiNjNkMmNiMC90aHVtYm5haWxzL2Z1bGwtYjIzNzg3ZTg3NDYuanBn/26b56554-26ab-4c49-aae3-1ce7b93f6db3.jpg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000001XLJMA2",
-      "lat": 52.4963884,
-      "lng": 4.8104252,
-      "price_text": "€ 560,",
-      "description": "In Wormer hebben wij een leuke en ruime woonruimte beschikbaar op basis van tijdelijk verhuur. Deze ruime woning van ca. 75 m2 beschikt over 2 slaapkamers, keuken, badkamer en een toilet. De woning ligt op loop/fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met de regio. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt € 560,- exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl. Wij krijgen meerdere woningen binnen dus dit zijn voorbeeldfoto's Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/37a7c9d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ4OTQ2MmJkLTE5ZjktNDMxNy04ZDZiLWY3NjBiNjNkMmNiMC90aHVtYm5haWxzL2Z1bGwtYjIzNzg3ZTg3NDYuanBn/26b56554-26ab-4c49-aae3-1ce7b93f6db3.jpg",
-        "https://p.sharinpix.com/3/d3f0cae/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2IyNThmNzA5LTBjOWEtNGI3OC04MTExLWFjYjNiNTdlZDc1MS90aHVtYm5haWxzL2Z1bGwtNzQ4ZDdhYzVjZmMuanBn/e56bc286-3ffc-48de-9213-38561f3ba595.jpg",
-        "https://p.sharinpix.com/3/4163b0b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzUyMGU5YjkwLTVkY2YtNGNmYi1hMzU1LWY5ZDUwMTU3M2U5NC90aHVtYm5haWxzL2Z1bGwtNTIxNDdmYmJkYmUuanBn/8be650f3-1839-48ef-9523-2fe85b5b97bc.jpg",
-        "https://p.sharinpix.com/3/73c4932/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2QwYTg0NWVlLTcwMDctNGY4My05MjRkLTZiMzU1YzZhY2UzNi90aHVtYm5haWxzL2Z1bGwtM2E2MjhjY2I3OTYuanBn/6a08b9dd-e4d0-42a6-a6d4-3964c60c317f.jpg",
-        "https://p.sharinpix.com/3/0746acb/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FiN2FiZDYyLThiYWMtNDIxZS05OTlmLTg1ZmY1NTBiN2JmYS90aHVtYm5haWxzL2Z1bGwtMTFlZmY0NmZkMzAuanBn/a5a89c21-3f48-4a4b-81a6-555feb58a1dc.jpg",
-        "https://p.sharinpix.com/3/5bcae3b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FjMDE1YWQ4LTA5NjMtNGQzMi04MmM0LWU3YTY4NmY5YmMwZi90aHVtYm5haWxzL2Z1bGwtMTFiYTIzOGM3ODUuanBn/9cbdf4e0-cab6-49a1-a483-be68bc41389d.jpg",
-        "https://p.sharinpix.com/3/31869a4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M1MTA1OWNlLWFkNmEtNDM1NC1iZjA2LTUyODZiODliMTNjZS90aHVtYm5haWxzL2Z1bGwtMmMxNjRiYTYyODEuanBn/ec0295a3-2a7e-428d-83e8-90d094499edb.jpg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 49.8,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
     },
@@ -1041,6 +1018,25 @@
       "distance_km": 44.9,
       "interesting": false,
       "first_seen": "2026-07-14T10:21:20Z"
+    },
+    {
+      "id": "a6ISi0000004vsXMAQ",
+      "city": "Zeist",
+      "title": "Woonruimte in Zeist 73 m²",
+      "size_m2": "73",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000004vsXMAQ",
+      "lat": 52.0910807,
+      "lng": 5.2356837,
+      "price_text": "€448.20,",
+      "description": "In Zeist hebben wij een ruime woonruimte beschikbaar op basis van tijdelijke verhuur. Deze 4-kamerwoning van circa 92 m² beschikt over drie slaapkamers, een keuken, badkamer en een apart toilet. De woning is gelegen in het centrum van Zeist, waar je een gevarieerd aanbod aan winkels, supermarkten, horecagelegenheden en andere voorzieningen vindt. Daarnaast is de snelweg eenvoudig bereikbaar, waardoor je profiteert van een goede verbinding met de regio. In de directe omgeving is bovendien voldoende parkeergelegenheid aanwezig. De maandelijkse vergoeding bedraagt €448.20,- exclusief gas, water en licht, met daarnaast €2,- aan servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Utrecht via utrecht@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 7.8,
+      "interesting": true,
+      "first_seen": "2026-07-14T15:01:25Z"
     },
     {
       "id": "a6ISi00000053YLMAY",
