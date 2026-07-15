@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T11:53:53Z",
+  "generated_at": "2026-07-15T13:37:28Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -286,27 +286,6 @@
         "https://p.sharinpix.com/3/5b1e60e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2JmZmIyMmFhLTA4MTYtNGM5Yy1hMzA1LThlNDBmNzQxMzUyZC90aHVtYm5haWxzL2Z1bGwtM2Q3NDBjZGMwMWUuanBn/img_4058.jpeg",
         "https://p.sharinpix.com/3/7005211/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAzMjk0OWQ5LTViYTQtNGI4Ni1hZjM5LWIyZjRjZjVkMmQwMy90aHVtYm5haWxzL2Z1bGwtZmZjZTQyOTJlZjUuanBn/img_4059.jpeg",
         "https://p.sharinpix.com/3/3e544bb/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY5YWE2OGU5LTZiZDctNDRhMi04MTJiLWM1Yjc0ZGY5NzY4NS90aHVtYm5haWxzL2Z1bGwtMjBmNDg5MzM3NDEuanBn/img_4064.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 109.4,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6IPx0000000A0zMAE",
-      "city": "Winterswijk",
-      "title": "Woonruimte in Winterswijk 70 m²",
-      "size_m2": "70",
-      "image_url": "https://p.sharinpix.com/3/f43be5d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc3NDEyZTk5LWQ1NDUtNGQ4Yy1hNjJkLTJhZmQ5OTA0YmEyYy90aHVtYm5haWxzL2Z1bGwtMmVmY2E4NGU0ZWMuanBn/img_0514.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000A0zMAE",
-      "lat": 51.97104909999999,
-      "lng": 6.7080164,
-      "price_text": "€425,",
-      "description": "Per direct nieuwe woningen beschikbaar in Winterswijk! Wij bieden een mooi appartement aan op basis van tijdelijke verhuur. Het appartement heeft een woonoppervlakte van circa 54 m² en beschikt over een nette woonkamer, een aparte keuken, één slaapkamer, een badkamer en een balkon. Een prettige en praktische indeling met volop mogelijkheden om er jouw eigen plek van te maken. De ligging is zeer gunstig: diverse voorzieningen bevinden zich in de directe omgeving en een supermarkt ligt letterlijk om de hoek. Alles wat je nodig hebt, is dus binnen handbereik. De maandelijkse huur bedraagt €425,- exclusief €166,55 servicekosten. Voor meer informatie kun je contact opnemen met het regiokantoor Arnhem via arnhem@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/f43be5d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc3NDEyZTk5LWQ1NDUtNGQ4Yy1hNjJkLTJhZmQ5OTA0YmEyYy90aHVtYm5haWxzL2Z1bGwtMmVmY2E4NGU0ZWMuanBn/img_0514.jpeg",
-        "https://p.sharinpix.com/3/0cea75e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzRjMWE0YzI3LWI5MjQtNGZlOC1hMTllLTcxNDNmYWVkMWFkZC90aHVtYm5haWxzL2Z1bGwtNmVmNGFhYmE2ZTcuanBn/img_0509.jpeg",
-        "https://p.sharinpix.com/3/11de5a9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M1ODdhY2M2LTJhZDktNGI3ZS04M2VhLWUyZjlkZjQ3ZGQ0OS90aHVtYm5haWxzL2Z1bGwtNmRhZjZkNjI2OTcuanBn/img_0518.jpeg"
       ],
       "ref_city": "Utrecht",
       "distance_km": 109.4,
@@ -748,6 +727,27 @@
       "distance_km": 44.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6IPx0000000UhFMAU",
+      "city": "Rhenen",
+      "title": "Woonruimte in Rhenen 70 m²",
+      "size_m2": "70",
+      "image_url": "https://p.sharinpix.com/3/a3209ec/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZkNTA4N2RiLWMwNzEtNDEyMy1hYzQ5LTBkZWZmY2FmNzMwZC90aHVtYm5haWxzL2Z1bGwtMGQ2MTlkNDY4ODAuanBn/img_2601.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000UhFMAU",
+      "lat": 51.9598372,
+      "lng": 5.5668755,
+      "price_text": "€550,",
+      "description": "In Rhenen hebben wij een woonruimte beschikbaar o.b.v. tijdelijk verhuur. Dit nette appartement is gelegen op de begane grond en heeft een woonoppervlakte van ca. 70 m² beschikt over een woonkamer, slaapkamer, een nette keuken, badkamer en een apart toilet. Ook is er een balkon aanwezig! Rhenen is een sfeervol stadje aan de Rijn, gelegen aan de rand van de Utrechtse Heuvelrug. De woning ligt op loopafstand van diverse winkels, scholen, horecagelegenheden en het openbaar vervoer. Natuurliefhebbers kunnen hun hart ophalen met de prachtige uiterwaarden en bossen in de directe omgeving. De maandelijkse huur bedraagt €550,- exclusief G/W/L en €23,66,- servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Arnhem via arnhem@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/a3209ec/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZkNTA4N2RiLWMwNzEtNDEyMy1hYzQ5LTBkZWZmY2FmNzMwZC90aHVtYm5haWxzL2Z1bGwtMGQ2MTlkNDY4ODAuanBn/img_2601.jpeg",
+        "https://p.sharinpix.com/3/bca95df/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y3YjIwNDdkLTkwNDgtNGE2Ni1iNjA2LTNhZDdhNzk4NzEyOC90aHVtYm5haWxzL2Z1bGwtZDVjNDBmYjI5YTMuanBn/img_2592.jpeg",
+        "https://p.sharinpix.com/3/9bf7d3d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RmNzc1MzRhLTQ5NmUtNDQ4MS1hMTRlLWQ4NGVlYzkxYTRiNi90aHVtYm5haWxzL2Z1bGwtOTgwODEwOWQyMTYuanBn/img_2590.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 33.8,
+      "interesting": false,
+      "first_seen": "2026-07-15T13:37:28Z"
     },
     {
       "id": "a6IPx0000000V8fMAE",
