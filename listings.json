@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T06:42:43Z",
+  "generated_at": "2026-07-16T09:04:30Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -907,31 +907,6 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
-      "id": "a6ISi0000003YErMAM",
-      "city": "Leerdam",
-      "title": "Woonruimte in Leerdam! 62 m²",
-      "size_m2": "62",
-      "image_url": "https://p.sharinpix.com/3/acf987b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAyN2NkZjFiLWViZjEtNDdkMi04ZWIyLTFkZGRhYTZkMzFkOC90aHVtYm5haWxzL2Z1bGwtZTM3OGJkYWM0ZWUuanBn/img_5219.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000003YErMAM",
-      "lat": 51.891088,
-      "lng": 5.080178,
-      "price_text": "€500,",
-      "description": "In Leerdam hebben wij per direct nette 3-kamerappartementen beschikbaar op basis van tijdelijke verhuur. De woningen beschikken over een ruime en lichte woonkamer, een nette keuken, badkamer en een balkon of tuin. Een aantal appartementen is daarnaast voorzien van een laminaatvloer of vloerbedekking. Wanneer je een woning met vloer accepteert, neem je deze over en dien je deze bij het einde van de huurperiode zelf te verwijderen. De woningen zijn gunstig gelegen op loopafstand van een klein winkelcentrum met onder andere een supermarkt. Het gezellige centrum van Leerdam, met diverse winkels, restaurants, terrassen en speciaalzaken, ligt op korte fietsafstand. Dankzij de centrale ligging tussen de A2 en A27 en de goede openbaarvervoersverbindingen is de locatie uitstekend bereikbaar. De maandelijkse huur bedraagt €500,- exclusief gas, water en elektra. Daarnaast betaal je €30,- aan servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Utrecht via utrecht@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/acf987b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAyN2NkZjFiLWViZjEtNDdkMi04ZWIyLTFkZGRhYTZkMzFkOC90aHVtYm5haWxzL2Z1bGwtZTM3OGJkYWM0ZWUuanBn/img_5219.jpeg",
-        "https://p.sharinpix.com/3/7c3f913/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI0ZDI5YmQwLTA2YzUtNGFkZC04YmE5LWQ5ODZlZDAyYWU0ZC90aHVtYm5haWxzL2Z1bGwtY2RmOWQ5OTM2NjMuanBn/img_5234.jpeg",
-        "https://p.sharinpix.com/3/c9f58c1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RmNGRkMjE2LTMzNDktNDRhNi05YTcyLTM4Mjg5MDc1YTA2NS90aHVtYm5haWxzL2Z1bGwtNTNkM2UwMzUwY2QuanBn/img_5229.jpeg",
-        "https://p.sharinpix.com/3/ae6cfeb/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzYzNGFiNzUxLWYxNTYtNDIwMy1iMDMxLWJiMjg1MTI4OTY1MC90aHVtYm5haWxzL2Z1bGwtMzlhNzZiMTFkNDkuanBn/img_5221.jpeg",
-        "https://p.sharinpix.com/3/fc08ebd/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzdkYWE4NjY5LTIwY2ItNDdlNC1hMDI2LWRkYjllZjA0YmViZi90aHVtYm5haWxzL2Z1bGwtMjA0MGFmNGU5MGMuanBn/img_5220.jpeg",
-        "https://p.sharinpix.com/3/fff0ea5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ5YTBhZTlkLTU0MTktNGQ2MC05ZDU3LWRkZDM4MTg1NGVlNy90aHVtYm5haWxzL2Z1bGwtMWY1MDliMDg0ODUuanBn/img_5213.jpeg",
-        "https://p.sharinpix.com/3/3874bdc/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg0ZDlhMmQxLTJhZWQtNDcwMy05ZDgzLWQ5OTMyMmQyYzNlYi90aHVtYm5haWxzL2Z1bGwtOTllZTVhMzdjNDUuanBn/img_5210.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 22.4,
-      "interesting": true,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
       "id": "a6ISi0000004vsXMAQ",
       "city": "Zeist",
       "title": "Woonruimte in Zeist 73 m²",
@@ -1082,6 +1057,27 @@
       "distance_km": 106.7,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6ISi0000005COjMAM",
+      "city": "Emmeloord",
+      "title": "Woonruimte in Emmeloord 96 m²",
+      "size_m2": "96",
+      "image_url": "https://p.sharinpix.com/3/0feb632/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M1ZTNjYTEyLTUyZmQtNDliMi05YmVjLThmM2NkNWRmMDJhZC90aHVtYm5haWxzL2Z1bGwtZmJmZTZlNzFlMzMuanBn/img_9102.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000005COjMAM",
+      "lat": 52.7091895,
+      "lng": 5.7659432,
+      "price_text": "€530,",
+      "description": "In Emmeloord hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 96 m2 beschikt over 3 slaapkamers, keuken, badkamer, apart toilet en een tuin. Emmeloord is een fijne stad in de provincie Flevoland. De woning ligt op fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €530,- exclusief G/W/L en €1,- servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Zwolle via zwolle@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/0feb632/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M1ZTNjYTEyLTUyZmQtNDliMi05YmVjLThmM2NkNWRmMDJhZC90aHVtYm5haWxzL2Z1bGwtZmJmZTZlNzFlMzMuanBn/img_9102.jpeg",
+        "https://p.sharinpix.com/3/e5507b3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UxMDE2N2U3LTUzMzEtNDY2ZC05YTI2LWUzMmU2NTAxMWQyMC90aHVtYm5haWxzL2Z1bGwtYjliMDk3MTdjZmYuanBn/img_9098.jpeg",
+        "https://p.sharinpix.com/3/42f0991/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q5M2UzMDdmLWMwMTYtNDI0Ni1iMDRlLWM1ZWE5YmU5MGRiNy90aHVtYm5haWxzL2Z1bGwtMmUzZGY1Nzc4YWYuanBn/img_9110.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 81.5,
+      "interesting": false,
+      "first_seen": "2026-07-16T09:04:30Z"
     },
     {
       "id": "a6ISi0000005DMPMA2",
