@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T09:04:30Z",
+  "generated_at": "2026-07-16T11:08:50Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -655,27 +655,6 @@
       ],
       "ref_city": "Utrecht",
       "distance_km": 74.7,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6IPx0000000ToPMAU",
-      "city": "Weert",
-      "title": "Woonruimte in Weert 76 m²",
-      "size_m2": "76",
-      "image_url": "https://p.sharinpix.com/3/e0089ff/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY5YmM2MGViLTg1ZmYtNDEyZC04Zjg0LTViZTYxODE0MWEwNi90aHVtYm5haWxzL2Z1bGwtODNiZDg4MDU1NTAuanBn/img_0804.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000ToPMAU",
-      "lat": 51.2433983,
-      "lng": 5.702304,
-      "price_text": "€472,20,",
-      "description": "In Weert hebben wij een nette woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 75 m² beschikt over twee slaapkamers, keuken, badkamer, apart toilet, tuin en een berging. De woning ligt op fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €472,20, exclusief G/W/L en €32,10 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/e0089ff/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY5YmM2MGViLTg1ZmYtNDEyZC04Zjg0LTViZTYxODE0MWEwNi90aHVtYm5haWxzL2Z1bGwtODNiZDg4MDU1NTAuanBn/img_0804.jpeg",
-        "https://p.sharinpix.com/3/41c8d14/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzgwNzg3ZWEyLWVhMGMtNDg3My1hYWNlLTNhYTJkM2Y2MzQ3MC90aHVtYm5haWxzL2Z1bGwtMzk1MDlmMGU2MTQuanBn/img_0801.jpeg",
-        "https://p.sharinpix.com/3/52424c9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y2ZjFkN2MxLTBjOGUtNGJlOC05YWVhLTBkMjNjMmRjNTZjZi90aHVtYm5haWxzL2Z1bGwtNjRiNzU5ZGZkMDcuanBn/img_0805.jpeg"
-      ],
-      "ref_city": "Breda",
-      "distance_km": 74.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
     },
