@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:51:29Z",
+  "generated_at": "2026-07-16T14:52:54Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -47,6 +47,27 @@
       "distance_km": 24.5,
       "interesting": true,
       "first_seen": "2026-07-13T10:44:38Z"
+    },
+    {
+      "id": "a6I8e0000004CTSEA2",
+      "city": "Rotterdam",
+      "title": "Woonruimte in Rotterdam Centrum 65 m²",
+      "size_m2": "65",
+      "image_url": "https://p.sharinpix.com/3/1db0c83/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FmNWVkZmNkLTNhMjQtNGQwNC1iYmZhLTE4MDM3MWQwNjZmMi90aHVtYm5haWxzL2Z1bGwtZGJiMWNlMzYzMmMuanBn/11702fd1-118b-4318-9c44-b0ce3fec802a.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6I8e0000004CTSEA2",
+      "lat": 51.9244758,
+      "lng": 4.4794072,
+      "price_text": "€610,74",
+      "description": "Leuke woning beschikbaar in het centrum van Rotterdam op basis van tijdelijk verhuur. Het betreft een keurige 3-kamerwoning op de 8e verdieping. De woning is gelegen op een fantastische locatie met alle voorzieningen binnen handbereik. Bovendien is de woning uitstekend bereikbaar per fiets, auto en openbaar vervoer. De maandelijkse huur bedraagt €610,74 exclusief nutsvoorzieningen en de servicekosten van €34,46. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/1db0c83/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FmNWVkZmNkLTNhMjQtNGQwNC1iYmZhLTE4MDM3MWQwNjZmMi90aHVtYm5haWxzL2Z1bGwtZGJiMWNlMzYzMmMuanBn/11702fd1-118b-4318-9c44-b0ce3fec802a.jpeg",
+        "https://p.sharinpix.com/3/2e0159f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzllODlkOWRhLWQ5NmQtNDQ4Yi1iYTg0LWM2NGI0ZTNkMmRkNS90aHVtYm5haWxzL2Z1bGwtNDU1Zjc1ZDU4MmQuanBn/2523a6d3-fbe8-4509-8e6c-2eab744d0c37.jpeg",
+        "https://p.sharinpix.com/3/9a34c56/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ViNTA1NjkzLWU0Y2QtNGJjMy05MzA3LTlmNmNkMTU3NWRmMS90aHVtYm5haWxzL2Z1bGwtZmQ0MDU1NzQ0MDQuanBn/4fa64a5c-05e9-4623-9588-a21670465ab8.jpeg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 0.1,
+      "interesting": true,
+      "first_seen": "2026-07-16T14:52:54Z"
     },
     {
       "id": "a6IPx00000003NhMAI",
