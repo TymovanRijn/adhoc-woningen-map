@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T06:41:24Z",
+  "generated_at": "2026-07-17T08:59:34Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -22,31 +22,6 @@
       "distance_km": 109.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6I4I000000KRbVUAW",
-      "city": "Leiden",
-      "title": "Woonruimte in Leiden 53 m²",
-      "size_m2": "53",
-      "image_url": "https://p.sharinpix.com/3/11d47f6/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZkZDFiYTgwLTNiMmQtNGIyYi04ZjBhLWNkMWZhYTJmODY3NS90aHVtYm5haWxzL2Z1bGwtOWNhYTJkNDY4YjAuanBn/019f4bd3-1221-70da-9e77-669b68a6083b.jpg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6I4I000000KRbVUAW",
-      "lat": 52.14474240000001,
-      "lng": 4.4795633,
-      "price_text": "€498,20",
-      "description": "In Leiden hebben we een leuk appartement beschikbaar op basis van tijdelijk verhuur. Deze driekamerwoning van 53 m 2 beschikt o.a. over een balkon. Op fietsafstand van het centrum met diverse winkels, supermarkten en het openbaar vervoer. De uitvalswegen naar Den Haag en Amsterdam zijn binnen enkele autominuten te bereiken. De maandelijkse huur bedraagt €498,20 exclusief nutsvoorzieningen. Interesse? Meld je hieronder aan. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/11d47f6/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZkZDFiYTgwLTNiMmQtNGIyYi04ZjBhLWNkMWZhYTJmODY3NS90aHVtYm5haWxzL2Z1bGwtOWNhYTJkNDY4YjAuanBn/019f4bd3-1221-70da-9e77-669b68a6083b.jpg",
-        "https://p.sharinpix.com/3/721c17c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NiNGM5Yjk4LTMyNTAtNDNmNS1hZGNhLTYyNzQzNTE3MjU2Mi90aHVtYm5haWxzL2Z1bGwtYzNmOTIxZTBkNWUuanBn/img_5258.jpeg",
-        "https://p.sharinpix.com/3/4752d37/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc4YjBjNGEzLWZmMTEtNDAyYy04ZDMwLTY3ZTE3MmRiYWExOC90aHVtYm5haWxzL2Z1bGwtOWI1ZWVlOGY0MGIuanBn/img_5253.jpeg",
-        "https://p.sharinpix.com/3/eea02f1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q4ZTE2MWNlLWE2OTQtNDVhYy04YzQ2LTkyMjZhZjFlYWNhZC90aHVtYm5haWxzL2Z1bGwtMmMwNWVlNTZhYzQuanBn/019f4bd3-1218-7022-9fce-aeef1ab45b9f.jpg",
-        "https://p.sharinpix.com/3/90c3166/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY2MmQwODI5LTRmYjktNDkyZC05YmIzLWE1ZWNlYjgyNzU3Ni90aHVtYm5haWxzL2Z1bGwtM2UwN2M2ODYwZGQuanBn/019f4bd3-1219-72e8-bb46-b981ab00d769.jpg",
-        "https://p.sharinpix.com/3/c0d8211/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQyMDM1NGE2LTViODEtNDc4My1iM2ZjLWJiMjI0ZjUzMWNhMS90aHVtYm5haWxzL2Z1bGwtNmM5Nzk4OTRjYTQuanBn/019f4bd3-121f-710e-aacc-90fdf6c5b2d8.jpg",
-        "https://p.sharinpix.com/3/c938f34/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQwMjQyYzcxLWVmN2MtNDIzZi1iNmUwLTVjNjEzNzcyODQwYi90aHVtYm5haWxzL2Z1bGwtZThhYjMxZWU0NjcuanBn/019f4bd3-1222-72a8-9dec-a5a74ef2eaf2.jpg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 24.5,
-      "interesting": true,
-      "first_seen": "2026-07-13T10:44:38Z"
     },
     {
       "id": "a6I8e0000004CTSEA2",
@@ -748,6 +723,50 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
+      "id": "a6IPx0000000Vi9MAE",
+      "city": "Waalre",
+      "title": "Woonruimte in Waalre. 56 m²",
+      "size_m2": "56",
+      "image_url": "https://p.sharinpix.com/3/1976c4a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQxZmU2YTM2LTA5NjgtNGE1OS05YTVlLWM5YzhjZTAxZTY4YS90aHVtYm5haWxzL2Z1bGwtZmIwNmNjYTQ0OTQuanBn/whatsapp-image-2026-07-09-at-09-37-09-1.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000Vi9MAE",
+      "lat": 51.3891274,
+      "lng": 5.4428801,
+      "price_text": "€500,",
+      "description": "Op zoek naar een betaalbare woning vlak bij Eindhoven? Dit is jouw kans! Wil jij zelfstandig wonen op een fijne locatie, zonder de hoofdprijs te betalen? Dan zijn deze appartementen in Waalre zeker het bekijken waard! Met een woonoppervlakte van circa 63 m² heb je alle ruimte om er jouw eigen plek van te maken. Het appartement beschikt over een lichte woonkamer, een open keuken en een nette slaapkamer. Afhankelijk van het appartement geniet je bovendien van een eigen tuin of een balkon. Ideaal om lekker buiten te zitten. De locatie is perfect voor starters, studenten en young professionals. Je woont in een rustige, groene omgeving, terwijl je met de fiets binnen korte tijd in Eindhoven bent. Ook het gezellige centrum van Waalre ligt vlakbij en de bus stopt letterlijk voor de deur. Zo reis je eenvoudig naar je werk, studie of de stad. Waarom je hier wilt wonen: ✔ Circa 63 m² woonoppervlakte. ✔ Lichte woonkamer met open keuken. ✔ Nette slaapkamer. ✔ Eigen tuin of balkon (afhankelijk van het appartement). ✔ Rustige, groene woonomgeving. ✔ Op fietsafstand van Eindhoven. ✔ Bushalte direct voor de deur. ✔ Eigen parkeerplaatsen. ✔ Gezamenlijke fietsenstalling. De appartementen worden aangeboden op basis van tijdelijke verhuur . Maandvergoeding €500,- per maand , exclusief nutsvoorzieningen. Ben jij op zoek naar een betaalbare woning op een toplocatie? Reageer dan snel! Door de aantrekkelijke prijs en de ideale ligging zijn deze appartementen populair en snel weg. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/1976c4a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQxZmU2YTM2LTA5NjgtNGE1OS05YTVlLWM5YzhjZTAxZTY4YS90aHVtYm5haWxzL2Z1bGwtZmIwNmNjYTQ0OTQuanBn/whatsapp-image-2026-07-09-at-09-37-09-1.jpeg",
+        "https://p.sharinpix.com/3/2888f14/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U2ZjkxNTg2LWZlZDAtNDdkNC04NjFiLThkNzY4NGQwMDJjNy90aHVtYm5haWxzL2Z1bGwtMjY4ZGEzZTgyNjUuanBn/whatsapp-image-2026-07-09-at-09-37-08-8.jpeg",
+        "https://p.sharinpix.com/3/98cdb2e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzVjMWEyZDhiLTkzYWQtNDAzNy05ZTQ5LWVkZjdlNjBkZmNhYS90aHVtYm5haWxzL2Z1bGwtMzgyZTRmNmZjMmYuanBn/whatsapp-image-2026-07-09-at-09-37-09.jpeg"
+      ],
+      "ref_city": "Breda",
+      "distance_km": 50.9,
+      "interesting": false,
+      "first_seen": "2026-07-17T08:59:34Z"
+    },
+    {
+      "id": "a6IPx0000000YHpMAM",
+      "city": "Amsterdam",
+      "title": "Woonruimte in Amsterdam 63 m²",
+      "size_m2": "63",
+      "image_url": "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000YHpMAM",
+      "lat": 52.3574582,
+      "lng": 4.8015012,
+      "price_text": "€565,06",
+      "description": "In Amsterdam hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet en een balkon. De woning ligt op [loop/fiets]afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €565,06 exclusief G/W/L en €8,94 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
+        "https://p.sharinpix.com/3/e2900af/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM2YzQzN2U2LTNmNDItNGM5Ny1hMjBjLTMzYjhlYmU2MTM5NS90aHVtYm5haWxzL2Z1bGwtYjQ3ZDg5YjViN2YuanBn/img_3530.jpeg",
+        "https://p.sharinpix.com/3/4f4fe94/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI5ZTQzMTMyLTNmMzgtNGNlOS05YThmLTI4YTYxMDUwODNiZC90aHVtYm5haWxzL2Z1bGwtYmFlY2ExYjk2YTYuanBn/img_3538.jpeg",
+        "https://p.sharinpix.com/3/faa1b4c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcxODRjNDk3LWNhY2UtNDY2Ni1hOWIwLWM4OTg5Mjc3N2QzZS90aHVtYm5haWxzL2Z1bGwtZGRkOWJkMmU3NTQuanBn/img_3549.jpeg",
+        "https://p.sharinpix.com/3/c8a1d5d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZlMmJmYWVkLWRkMmUtNDQ5ZS1hNTBlLTRmN2QzYjExZDVjYS90aHVtYm5haWxzL2Z1bGwtNTcyNDU1ZWM2NjQuanBn/image.jpg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 36.8,
+      "interesting": false,
+      "first_seen": "2026-07-17T08:59:34Z"
+    },
+    {
       "id": "a6IPx0000000YePMAU",
       "city": "Enkhuizen",
       "title": "Woonruimte in Enkhuizen 84 m²",
@@ -895,30 +914,6 @@
       "distance_km": 7.8,
       "interesting": true,
       "first_seen": "2026-07-14T15:01:25Z"
-    },
-    {
-      "id": "a6ISi00000053YLMAY",
-      "city": "'s-Gravenzande",
-      "title": "Woonruimte in 's-Gravenzande 58 m²",
-      "size_m2": "58",
-      "image_url": "https://p.sharinpix.com/3/270bb53/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M0Mzg3MmY2LTU4ZjItNDRlYi05NjQ0LTk3YzAwYjcyNjk0OS90aHVtYm5haWxzL2Z1bGwtY2M4N2RhYTYxMzYuanBn/7450547f-66cf-4aa5-82f9-bee08490a007.jpg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi00000053YLMAY",
-      "lat": 51.99925169999999,
-      "lng": 4.1627831,
-      "price_text": "€682,96",
-      "description": "In 's-Gravenzande hebben wij binnenkort een nieuwe woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning beschikt over een slaapkamer, keuken, badkamer, apart toilet. De woning ligt op loopafstand van het gezellige centrum met alle voorzieningen binnen handbereik. De maandelijkse huur bedraagt €682,96 exclusief G/W/L en €4,54 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/270bb53/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M0Mzg3MmY2LTU4ZjItNDRlYi05NjQ0LTk3YzAwYjcyNjk0OS90aHVtYm5haWxzL2Z1bGwtY2M4N2RhYTYxMzYuanBn/7450547f-66cf-4aa5-82f9-bee08490a007.jpg",
-        "https://p.sharinpix.com/3/1a9d43e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NkODZiNmY4LWQxYzAtNGNmZC05NGVjLTgwMzJjNDU2YTRmMi90aHVtYm5haWxzL2Z1bGwtNDgyNTNkOGIwNjAuanBn/0a45fa06-98f9-4ec9-b276-42fef145c9f6.jpg",
-        "https://p.sharinpix.com/3/2b0326d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzVkZGE4ZmFjLWYyMDQtNGRhNC04NGZmLTMyYmFhZWEyY2E4Yy90aHVtYm5haWxzL2Z1bGwtMjUwZmY0Nzg5ZjYuanBn/e43168de-8b83-4644-b874-126e0f49c970.jpg",
-        "https://p.sharinpix.com/3/864e845/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY1ZmUyMGNjLTEwNzEtNDBjNy1iZmQ4LWQ3ODczYjNkZjE4Zi90aHVtYm5haWxzL2Z1bGwtMTk1OTNiM2JiZTMuanBn/3f1404ed-0f26-4a4d-b01c-086aa77086d8.jpg",
-        "https://p.sharinpix.com/3/0ea95e1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzVlNjRlOWIyLWZkYTEtNDQyYS1iNDFiLTVmNzZhM2E4MGVhNC90aHVtYm5haWxzL2Z1bGwtMTkxY2UxNzYzM2QuanBn/c058d948-b810-458e-b12b-e72c2da41b3d.jpg",
-        "https://p.sharinpix.com/3/330f131/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE1NWFjNGY4LTEzM2YtNDg2Ni04MGY3LTU2YjczMGRhNDRmMS90aHVtYm5haWxzL2Z1bGwtYzQ2MTQ1OTVjZWIuanBn/45cc7e2f-dfe2-44d6-bd27-f7db319f989b.jpg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 23.1,
-      "interesting": true,
-      "first_seen": "2026-07-12T20:22:54Z"
     },
     {
       "id": "a6ISi00000056xdMAA",
