@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T08:59:34Z",
+  "generated_at": "2026-07-17T10:55:43Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -680,6 +680,30 @@
       "first_seen": "2026-07-14T15:01:25Z"
     },
     {
+      "id": "a6IPx0000000UVxMAM",
+      "city": "Haarlem",
+      "title": "Woonruimte in Haarlem 92 m²",
+      "size_m2": "92",
+      "image_url": "https://p.sharinpix.com/3/fde6117/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzMyM2I2YmRmLTQyNWUtNDQ4Ni04ODc2LWY5OGRjYjQ3NzRhZS90aHVtYm5haWxzL2Z1bGwtMWE0NDU4MTJlNjYuanBn/39b3959f-fed7-4bb4-99ab-7b4ae3416986.heic",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000UVxMAM",
+      "lat": 52.3648694,
+      "lng": 4.6482255,
+      "price_text": "€29.401",
+      "description": "Let op! Deze woning valt in het hogere segment. Reageer dus alleen als je hiervoor in aanmerking komt (inkomensverklaring tussen de €29.401 en €51.537). In een bruisende buurt in Haarlem bieden wij een woning aan op basis van tijdelijk verhuur. Het appartement, van rond de 90 m², beschikt over een lichte woonkamer, een badkamer, 3 comfortabele slaapkamers, een keuken en een lekker balkon. De locatie is perfect: een supermarkt voor de deur, op fietsafstand van het treinstation, en slechts een paar minuten rijden naar de dichtstbijzijnde uitvalsweg. Met tal van voorzieningen in de buurt woon je hier centraal en comfortabel. De maandelijkse huur ligt tussen € 854,63 (exclusief G/W/E) en €31,43 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl Foto's volgen! Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/fde6117/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzMyM2I2YmRmLTQyNWUtNDQ4Ni04ODc2LWY5OGRjYjQ3NzRhZS90aHVtYm5haWxzL2Z1bGwtMWE0NDU4MTJlNjYuanBn/39b3959f-fed7-4bb4-99ab-7b4ae3416986.heic",
+        "https://p.sharinpix.com/3/cfebbb2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFiOTg1YWUyLTg5NTItNGMwMi1hYTc3LWUxMWRmYjA1MzdkMi90aHVtYm5haWxzL2Z1bGwtYmFkYjcwZmNhYjAuanBn/eff67be4-e434-45a0-aeaa-c099e36843a1.heic",
+        "https://p.sharinpix.com/3/0e82151/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E1MjBmNDhhLTM2NmItNDE3ZS05NGVlLTYxZmY4YzViODg5Yy90aHVtYm5haWxzL2Z1bGwtMzU1NTY1ZmMyYTkuanBn/img_0002.jpeg",
+        "https://p.sharinpix.com/3/51b00c4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE1ZTdmMDI1LTgyYmMtNGVjMC1hMjBhLTQ2NzJjOGJhMWFkMi90aHVtYm5haWxzL2Z1bGwtYjMzMzAwMjYzNDMuanBn/img_9985.jpeg",
+        "https://p.sharinpix.com/3/475570c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzEyNDAwMzFjLTRlNjctNDk1Ni1iNjI5LWNjZTNiNmU5ZmYzYy90aHVtYm5haWxzL2Z1bGwtY2JiMTE5OGZhMmQuanBn/img_9996.jpeg",
+        "https://p.sharinpix.com/3/a0e41c2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzIzZmZlYzQwLTc1YjMtNGRmMi04MTAzLWJmMzQ0NGU4YTZhNC90aHVtYm5haWxzL2Z1bGwtMWQ4NWFhNmY2OGUuanBn/71ab7ace-8e8d-456e-b21e-2295cce15a08.avif"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 44.4,
+      "interesting": false,
+      "first_seen": "2026-07-17T10:55:43Z"
+    },
+    {
       "id": "a6IPx0000000UhFMAU",
       "city": "Rhenen",
       "title": "Woonruimte in Rhenen 70 m²",
@@ -740,29 +764,6 @@
       ],
       "ref_city": "Breda",
       "distance_km": 50.9,
-      "interesting": false,
-      "first_seen": "2026-07-17T08:59:34Z"
-    },
-    {
-      "id": "a6IPx0000000YHpMAM",
-      "city": "Amsterdam",
-      "title": "Woonruimte in Amsterdam 63 m²",
-      "size_m2": "63",
-      "image_url": "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000YHpMAM",
-      "lat": 52.3574582,
-      "lng": 4.8015012,
-      "price_text": "€565,06",
-      "description": "In Amsterdam hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet en een balkon. De woning ligt op [loop/fiets]afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €565,06 exclusief G/W/L en €8,94 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
-        "https://p.sharinpix.com/3/e2900af/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM2YzQzN2U2LTNmNDItNGM5Ny1hMjBjLTMzYjhlYmU2MTM5NS90aHVtYm5haWxzL2Z1bGwtYjQ3ZDg5YjViN2YuanBn/img_3530.jpeg",
-        "https://p.sharinpix.com/3/4f4fe94/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI5ZTQzMTMyLTNmMzgtNGNlOS05YThmLTI4YTYxMDUwODNiZC90aHVtYm5haWxzL2Z1bGwtYmFlY2ExYjk2YTYuanBn/img_3538.jpeg",
-        "https://p.sharinpix.com/3/faa1b4c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcxODRjNDk3LWNhY2UtNDY2Ni1hOWIwLWM4OTg5Mjc3N2QzZS90aHVtYm5haWxzL2Z1bGwtZGRkOWJkMmU3NTQuanBn/img_3549.jpeg",
-        "https://p.sharinpix.com/3/c8a1d5d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZlMmJmYWVkLWRkMmUtNDQ5ZS1hNTBlLTRmN2QzYjExZDVjYS90aHVtYm5haWxzL2Z1bGwtNTcyNDU1ZWM2NjQuanBn/image.jpg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 36.8,
       "interesting": false,
       "first_seen": "2026-07-17T08:59:34Z"
     },
