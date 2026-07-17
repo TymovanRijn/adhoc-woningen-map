@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T10:55:43Z",
+  "generated_at": "2026-07-17T12:10:46Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -1201,6 +1201,26 @@
       "distance_km": 101.0,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6ISi0000005TPZMA2",
+      "city": "Rijswijk",
+      "title": "Woonruimte in Rijswijk. 70 m²",
+      "size_m2": "70",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000005TPZMA2",
+      "lat": 52.0459293,
+      "lng": 4.335856,
+      "price_text": "€500.",
+      "description": "LET OP: Deze zijn nog niet beschikbaar! Binnenkort komen er weer woningen beschikbaar in Rijswijk, meld je snel aan. In Rijswijk hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 79 m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet en een berging. De woning ligt op fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt Rond de €500. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null",
+        "/servlet/servlet.FileDownload?file=00PSi00000QrZDZMA3"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 16.6,
+      "interesting": true,
+      "first_seen": "2026-07-17T12:10:46Z"
     },
     {
       "id": "a6ISi0000005WqTMAU",
