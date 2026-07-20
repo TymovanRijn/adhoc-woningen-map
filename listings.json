@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T12:57:28Z",
+  "generated_at": "2026-07-20T15:16:10Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -720,7 +720,7 @@
       "city": "Enkhuizen",
       "title": "Woonruimte in Enkhuizen 84 m²",
       "size_m2": "84",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "image_url": "https://p.sharinpix.com/3/e5d33a3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE4NGNiN2MwLTI0ZDktNDU1OS1hZDFlLTE2ZTIyMGIxZWQ4Yy90aHVtYm5haWxzL2Z1bGwtZjY2MmVjZmJhN2QuanBn/img_3565.jpeg",
       "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000YePMAU",
       "lat": 52.7121036,
       "lng": 5.2849768,
@@ -733,6 +733,44 @@
       "distance_km": 70.0,
       "interesting": false,
       "first_seen": "2026-07-16T16:13:17Z"
+    },
+    {
+      "id": "a6IPx0000000aZlMAI",
+      "city": "Amsterdam",
+      "title": "Woonruimte in Amsterdam Nieuw-West 71 m²",
+      "size_m2": "71",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000aZlMAI",
+      "lat": 52.3568991,
+      "lng": 4.806587599999999,
+      "price_text": "€713,02,",
+      "description": "LET OP : Er zijn nog geen foto's beschikbaar! In Amsterdam Nieuw-West hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 70m2 beschikt over 2 slaapkamers, keuken, badkamer en een apart toilet. De woning ligt op loop en fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €713,02,- exclusief G/W/L en €9,51,- servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 36.6,
+      "interesting": false,
+      "first_seen": "2026-07-20T15:16:10Z"
+    },
+    {
+      "id": "a6IPx0000000aczMAA",
+      "city": "Amsterdam",
+      "title": "Woonruimte in Amsterdam Nieuw-West 55 m²",
+      "size_m2": "55",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000aczMAA",
+      "lat": 52.37603170000001,
+      "lng": 4.805788,
+      "price_text": "€515,62,",
+      "description": "LET OP : Foto's zijn nog niet beschikbaar! In Amsterdam Nieuw-West hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 2-kamer woning van ca. 55 m2 beschikt over 1 slaapkamer, keuken en een badkamer. De woning ligt op loop en fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €515,62,- exclusief G/W/L en € 10,50,- servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 38.3,
+      "interesting": false,
+      "first_seen": "2026-07-20T15:16:10Z"
     },
     {
       "id": "a6ISi0000001PFhMAM",
