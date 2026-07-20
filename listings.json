@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T15:16:10Z",
+  "generated_at": "2026-07-20T16:46:54Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -539,27 +539,6 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
-      "id": "a6IPx0000000PRRMA2",
-      "city": "Rotterdam",
-      "title": "Woonruimte in Rotterdam Kralingen! 97 m²",
-      "size_m2": "97",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000PRRMA2",
-      "lat": 51.9232673,
-      "lng": 4.5053179,
-      "price_text": "€550",
-      "description": "In Rotterdam-Kralingen hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4- of 5-kamer woningen van ca. 70-97 m2 beschikken over meerdere slaapkamers, keuken, badkamer, balkon, tuin en soms een berging. De woning ligt op loopafstand van diverse winkels, supermarkten, horeca, het openbaar vervoer en het welbekende Kralingse Bos. De maandelijkse huur bedraagt €550 tot €600 exclusief G/W/L en €8,60 of €9,52 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via Rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/13ac9f2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RkMDIwMzQwLTAwNGYtNDc5Zi05ZTNkLTc3NzMwMGE0ODUzMy90aHVtYm5haWxzL2Z1bGwtMDYzODQwZmZmMTkuanBn/019f46cf-01d6-7217-ae05-86db9b75f7f5.jpg",
-        "https://p.sharinpix.com/3/c9bfd90/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhkN2RlYjc1LWY2M2QtNGRmOC1iMDE0LWUwNzdhZjVmMjQzZS90aHVtYm5haWxzL2Z1bGwtMzNjZmJlNjczNjEuanBn/019f46cf-01d8-753e-a558-0d8205f148d7.jpg",
-        "https://p.sharinpix.com/3/caf1d69/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg3ZDMwZTA2LWM4ODktNGFkOS1iMWFkLTE5ZjkyZTZkYmMyYS90aHVtYm5haWxzL2Z1bGwtZDlhMzI3ZjhkMzcuanBn/019f46cf-18e3-762c-b6d3-2de0318569ce.jpg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 1.9,
-      "interesting": true,
-      "first_seen": "2026-07-20T12:57:28Z"
-    },
-    {
       "id": "a6IPx0000000RcvMAE",
       "city": "Millingen aan de Rijn",
       "title": "Woonruimte in Millingen aan de Rijn 78 m²",
@@ -714,6 +693,29 @@
       "distance_km": 50.9,
       "interesting": false,
       "first_seen": "2026-07-17T08:59:34Z"
+    },
+    {
+      "id": "a6IPx0000000YHpMAM",
+      "city": "Amsterdam",
+      "title": "Woonruimte in Amsterdam 63 m²",
+      "size_m2": "63",
+      "image_url": "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000YHpMAM",
+      "lat": 52.3574582,
+      "lng": 4.8015012,
+      "price_text": "€565,06",
+      "description": "In Amsterdam hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet en een balkon. De woning ligt op [loop/fiets]afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €565,06 exclusief G/W/L en €8,94 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
+        "https://p.sharinpix.com/3/e2900af/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM2YzQzN2U2LTNmNDItNGM5Ny1hMjBjLTMzYjhlYmU2MTM5NS90aHVtYm5haWxzL2Z1bGwtYjQ3ZDg5YjViN2YuanBn/img_3530.jpeg",
+        "https://p.sharinpix.com/3/4f4fe94/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI5ZTQzMTMyLTNmMzgtNGNlOS05YThmLTI4YTYxMDUwODNiZC90aHVtYm5haWxzL2Z1bGwtYmFlY2ExYjk2YTYuanBn/img_3538.jpeg",
+        "https://p.sharinpix.com/3/faa1b4c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcxODRjNDk3LWNhY2UtNDY2Ni1hOWIwLWM4OTg5Mjc3N2QzZS90aHVtYm5haWxzL2Z1bGwtZGRkOWJkMmU3NTQuanBn/img_3549.jpeg",
+        "https://p.sharinpix.com/3/c8a1d5d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZlMmJmYWVkLWRkMmUtNDQ5ZS1hNTBlLTRmN2QzYjExZDVjYS90aHVtYm5haWxzL2Z1bGwtNTcyNDU1ZWM2NjQuanBn/image.jpg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 36.8,
+      "interesting": false,
+      "first_seen": "2026-07-20T16:46:54Z"
     },
     {
       "id": "a6IPx0000000YePMAU",
