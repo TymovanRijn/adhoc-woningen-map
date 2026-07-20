@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T10:45:02Z",
+  "generated_at": "2026-07-20T12:57:28Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -539,6 +539,27 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
+      "id": "a6IPx0000000PRRMA2",
+      "city": "Rotterdam",
+      "title": "Woonruimte in Rotterdam Kralingen! 97 m²",
+      "size_m2": "97",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000PRRMA2",
+      "lat": 51.9232673,
+      "lng": 4.5053179,
+      "price_text": "€550",
+      "description": "In Rotterdam-Kralingen hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4- of 5-kamer woningen van ca. 70-97 m2 beschikken over meerdere slaapkamers, keuken, badkamer, balkon, tuin en soms een berging. De woning ligt op loopafstand van diverse winkels, supermarkten, horeca, het openbaar vervoer en het welbekende Kralingse Bos. De maandelijkse huur bedraagt €550 tot €600 exclusief G/W/L en €8,60 of €9,52 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via Rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/13ac9f2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RkMDIwMzQwLTAwNGYtNDc5Zi05ZTNkLTc3NzMwMGE0ODUzMy90aHVtYm5haWxzL2Z1bGwtMDYzODQwZmZmMTkuanBn/019f46cf-01d6-7217-ae05-86db9b75f7f5.jpg",
+        "https://p.sharinpix.com/3/c9bfd90/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhkN2RlYjc1LWY2M2QtNGRmOC1iMDE0LWUwNzdhZjVmMjQzZS90aHVtYm5haWxzL2Z1bGwtMzNjZmJlNjczNjEuanBn/019f46cf-01d8-753e-a558-0d8205f148d7.jpg",
+        "https://p.sharinpix.com/3/caf1d69/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg3ZDMwZTA2LWM4ODktNGFkOS1iMWFkLTE5ZjkyZTZkYmMyYS90aHVtYm5haWxzL2Z1bGwtZDlhMzI3ZjhkMzcuanBn/019f46cf-18e3-762c-b6d3-2de0318569ce.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 1.9,
+      "interesting": true,
+      "first_seen": "2026-07-20T12:57:28Z"
+    },
+    {
       "id": "a6IPx0000000RcvMAE",
       "city": "Millingen aan de Rijn",
       "title": "Woonruimte in Millingen aan de Rijn 78 m²",
@@ -605,31 +626,6 @@
       "distance_km": 74.7,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6IPx0000000UR7MAM",
-      "city": "Den Haag",
-      "title": "Woonruimte in Den Haag 46 m²",
-      "size_m2": "46",
-      "image_url": "https://p.sharinpix.com/3/b3cc4f4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2ZDYxNDVlLTVlOTEtNDM2Ny05M2E5LTkwMTAwNGUyNmZmNy90aHVtYm5haWxzL2Z1bGwtMTE3NWZlY2FhZWIuanBn/img_1033.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000UR7MAM",
-      "lat": 52.0414936,
-      "lng": 4.2499928,
-      "price_text": "€498,20",
-      "description": "In Den Haag hebben wij per direct een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 2-kamer woning van ca. 46 m2 beschikt over 1 slaapkamers, keuken, badkamer, apart toilet, balkon en een berging. De woning ligt op loop afstand van diverse winkels, supermarkten, horeca, het strand en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. Gezien de woning wat extra liefde nodig heeft krijg je bij het tekenen van je contract het exclusieve Ad Roller pakket om je op weg te helpen! De maandelijkse huur bedraagt €498,20 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/b3cc4f4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2ZDYxNDVlLTVlOTEtNDM2Ny05M2E5LTkwMTAwNGUyNmZmNy90aHVtYm5haWxzL2Z1bGwtMTE3NWZlY2FhZWIuanBn/img_1033.jpeg",
-        "https://p.sharinpix.com/3/b6b8f07/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzBhZTBiYTVlLTBkMGYtNDkyZi1hM2Q5LTNmMzdlZThmOWQxZi90aHVtYm5haWxzL2Z1bGwtMDQ4MWE2YjNlMzkuanBn/img_1040.jpeg",
-        "https://p.sharinpix.com/3/7fa59c1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg0MGRmY2Y3LTA5M2ItNDA1YS1hODdkLWEyOTkwZTliZTgxZi90aHVtYm5haWxzL2Z1bGwtZmU1YjRhZTcxZGQuanBn/img_1041.jpeg",
-        "https://p.sharinpix.com/3/0172d96/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzRhYTUxYWE1LWY1N2EtNDg0MC1iMDZhLWRmMGM5MjNmYmMxNS90aHVtYm5haWxzL2Z1bGwtM2YwNWFjMWE3NTMuanBn/img_1031.jpeg",
-        "https://p.sharinpix.com/3/752910f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U3ODFhYTU0LWE5ZjQtNDAzYy04ZjNlLWY1ZDkwYzliZWM2Ny90aHVtYm5haWxzL2Z1bGwtYzkxZWEyMjAyOGIuanBn/img_1023.jpeg",
-        "https://p.sharinpix.com/3/30134ae/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RlYTgxNmNjLWRhYTktNDBlMi1iOWE1LTQ3NjkyMzhlOGY4Mi90aHVtYm5haWxzL2Z1bGwtZmNmMWY3MmFmOGMuanBn/img_1001.jpeg",
-        "https://p.sharinpix.com/3/ec87c26/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhjNDUwNmZlLWJmZWMtNDZjYy1hNzQ1LTg3OTdkNDQxZWE5ZC90aHVtYm5haWxzL2Z1bGwtNDljYjEzMzNlOWUuanBn/img_0984.jpeg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 20.3,
-      "interesting": true,
-      "first_seen": "2026-07-14T15:01:25Z"
     },
     {
       "id": "a6IPx0000000UVxMAM",
