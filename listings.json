@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T08:47:42Z",
+  "generated_at": "2026-07-22T10:54:42Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -220,6 +220,25 @@
       "distance_km": 109.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6IPx0000000AiXMAU",
+      "city": "Maastricht",
+      "title": "Woonruimte in Maastricht 81 m²",
+      "size_m2": "81",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000AiXMAU",
+      "lat": 50.85196819999999,
+      "lng": 5.6569099,
+      "price_text": "€400,",
+      "description": "In Maastricht hebben wij een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 80 m2 beschikt over 1 slaapkamer, keuken, woonkamer, badkamer, apart toilet, balkon en een berging. De woning ligt op fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €400, exclusief G/W/L en €21,45 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Breda",
+      "distance_km": 101.2,
+      "interesting": false,
+      "first_seen": "2026-07-22T10:54:42Z"
     },
     {
       "id": "a6IPx0000000Cu1MAE",
@@ -517,6 +536,28 @@
       "first_seen": "2026-07-12T20:22:54Z"
     },
     {
+      "id": "a6IPx0000000RWTMA2",
+      "city": "Maastricht",
+      "title": "Woonruimte in Maastricht 135 m²",
+      "size_m2": "135",
+      "image_url": "https://p.sharinpix.com/3/169db36/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UwZTcwZjFkLTQ4ZjMtNGM2Ni1iMWM1LTBkNGM5NGE5YTlmMS90aHVtYm5haWxzL2Z1bGwtOGZmNDg1NDNmNjguanBn/img_0467.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000RWTMA2",
+      "lat": 50.8512648,
+      "lng": 5.654507799999999,
+      "price_text": "€600,",
+      "description": "In Maastricht hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 135 m2 beschikt over drie slaapkamers, keuken, badkamer, apart toilet, balkon en een berging. De woning ligt op fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €600, exclusief G/W/L en €8,40 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/169db36/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UwZTcwZjFkLTQ4ZjMtNGM2Ni1iMWM1LTBkNGM5NGE5YTlmMS90aHVtYm5haWxzL2Z1bGwtOGZmNDg1NDNmNjguanBn/img_0467.jpeg",
+        "https://p.sharinpix.com/3/ae5adf8/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzgxNjU5NWM3LTNkMGItNDQxZi1hMmQxLWMwYzY3YTIyMWIyNC90aHVtYm5haWxzL2Z1bGwtNTYyNWRiOTM0YTguanBn/img_0464.jpeg",
+        "https://p.sharinpix.com/3/27ca34a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAwMzAwMDBkLTdmMDctNGRjZC05MDQxLTI4ZjJiNTYwNzBjMi90aHVtYm5haWxzL2Z1bGwtZWZhYTQ4ZGM5NDguanBn/img_0477.jpeg",
+        "https://p.sharinpix.com/3/12ff508/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzdkZTZlNzU0LTZiYzQtNGNkMC1hNGE1LWQ4ODkwODBlMmY0ZS90aHVtYm5haWxzL2Z1bGwtZDE1OTgzZmU5YmQuanBn/img_0482.jpeg"
+      ],
+      "ref_city": "Breda",
+      "distance_km": 101.2,
+      "interesting": false,
+      "first_seen": "2026-07-22T10:54:42Z"
+    },
+    {
       "id": "a6IPx0000000RcvMAE",
       "city": "Millingen aan de Rijn",
       "title": "Woonruimte in Millingen aan de Rijn 78 m²",
@@ -607,6 +648,28 @@
       "distance_km": 44.4,
       "interesting": false,
       "first_seen": "2026-07-17T10:55:43Z"
+    },
+    {
+      "id": "a6IPx0000000UZBMA2",
+      "city": "Winterswijk",
+      "title": "Woonruimte in Winterswijk 70 m²",
+      "size_m2": "70",
+      "image_url": "https://p.sharinpix.com/3/e8a3de3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzU3OWZkOGJiLTU2ODQtNGU1Yy1hNTYyLTE5MjE2ZWRiOWMwOC90aHVtYm5haWxzL2Z1bGwtMDM2YjcwMDIyZTguanBn/img_6330.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000UZBMA2",
+      "lat": 51.9710083,
+      "lng": 6.707651299999999,
+      "price_text": "€425,",
+      "description": "Per direct nieuwe woningen beschikbaar in Winterswijk! Wij bieden een mooi appartement aan op basis van tijdelijke verhuur. Het appartement heeft een woonoppervlakte van circa 70 m² en beschikt over een nette woonkamer, een aparte keuken, een slaapkamer, een badkamer en een balkon. Een prettige en praktische indeling met volop mogelijkheden om er jouw eigen plek van te maken. De ligging is zeer gunstig: diverse voorzieningen bevinden zich in de directe omgeving en een supermarkt ligt letterlijk om de hoek. Alles wat je nodig hebt, is dus binnen handbereik. De maandelijkse huur bedraagt €425,- exclusief €166,55 servicekosten. Voor meer informatie kun je contact opnemen met het regiokantoor Arnhem via arnhem@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/e8a3de3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzU3OWZkOGJiLTU2ODQtNGU1Yy1hNTYyLTE5MjE2ZWRiOWMwOC90aHVtYm5haWxzL2Z1bGwtMDM2YjcwMDIyZTguanBn/img_6330.jpeg",
+        "https://p.sharinpix.com/3/0405164/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I2MTQyMDI2LWM0NWItNDY2OS04YzkzLWE2ZjQxZWExMmVjNi90aHVtYm5haWxzL2Z1bGwtZWQyNmFlMDY4YzIuanBn/img_6327.jpeg",
+        "https://p.sharinpix.com/3/a24fc1d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RhZmI1MjcxLTFjMjYtNDRmNi1iODVjLWNhZGMyYWQxZDVmMC90aHVtYm5haWxzL2Z1bGwtYzQ5ZDY3NDYzYmMuanBn/img_6332.jpeg",
+        "https://p.sharinpix.com/3/0303964/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y3OTU1NDlhLTY3ZjQtNDNlZi05MjFjLTQyZmNmMTQ5NjllOC90aHVtYm5haWxzL2Z1bGwtY2FhOGRlNzg5NDQuanBn/img_6335.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 109.3,
+      "interesting": false,
+      "first_seen": "2026-07-22T10:54:42Z"
     },
     {
       "id": "a6IPx0000000UhFMAU",
@@ -747,6 +810,25 @@
       "distance_km": 36.9,
       "interesting": false,
       "first_seen": "2026-07-21T09:42:43Z"
+    },
+    {
+      "id": "a6IPx0000000bArMAI",
+      "city": "Leiden",
+      "title": "Binnenkort woonruimte in Leiden 60 m²",
+      "size_m2": "60",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000bArMAI",
+      "lat": 52.16281559999999,
+      "lng": 4.4780413,
+      "price_text": "€500",
+      "description": "Binnenkort krijgen we leuke woningen beschikbaar op basis van tijdelijk verhuur in Leiden. Deze 2 a 3-kamer woningen van ca. 60m2 beschikt over 1 a 2 slaapkamers, keuken, badkamer, apart toilet, balkon of tuin, een berging eventueel. De woning ligt op fiets afstand van diverse winkels, supermarkten, horeca, de stad Leiden en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt tussen de €500 a €700 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 26.5,
+      "interesting": true,
+      "first_seen": "2026-07-22T10:54:42Z"
     },
     {
       "id": "a6ISi0000001PFhMAM",
@@ -1100,27 +1182,6 @@
       ],
       "ref_city": "Utrecht",
       "distance_km": 108.5,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6ISi0000005SA9MAM",
-      "city": "Maastricht",
-      "title": "Woonruimte in Maastricht 81 m²",
-      "size_m2": "81",
-      "image_url": "https://p.sharinpix.com/3/20cdc4a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI1YmJhMmQ2LThlMzItNGUzMC1hODEzLWI4Mjk2MTRjYjZhYS90aHVtYm5haWxzL2Z1bGwtNjgyOTVjNGNjNDAuanBn/img_0445.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000005SA9MAM",
-      "lat": 50.8527711,
-      "lng": 5.6551391,
-      "price_text": "€400,",
-      "description": "In Maastricht hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 80m2 beschikt over twee slaapkamers, keuken, badkamer, apart toilet, balkon en een berging. De woning ligt op fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €400, exclusief G/W/L en €21,45 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/20cdc4a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI1YmJhMmQ2LThlMzItNGUzMC1hODEzLWI4Mjk2MTRjYjZhYS90aHVtYm5haWxzL2Z1bGwtNjgyOTVjNGNjNDAuanBn/img_0445.jpeg",
-        "https://p.sharinpix.com/3/974ca84/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzgwMWEyNjdlLWVkNGMtNDVmZi04MDZjLTRjMGRjOGNlM2YzNC90aHVtYm5haWxzL2Z1bGwtZjE2MjAzMGM0MjIuanBn/img_0433.jpeg",
-        "https://p.sharinpix.com/3/9e72573/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg5MzAwNjI2LWU0MjItNDA1Ni04NDI3LWI1OWEwOGM1MzI3Mi90aHVtYm5haWxzL2Z1bGwtYjY0MDQxYzk5OTUuanBn/img_0429.jpeg"
-      ],
-      "ref_city": "Breda",
-      "distance_km": 101.0,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
     },
