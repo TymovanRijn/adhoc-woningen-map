@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:24:35Z",
+  "generated_at": "2026-07-22T14:33:43Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -264,25 +264,6 @@
       "distance_km": 31.5,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6IPx0000000DOfMAM",
-      "city": "Leerdam",
-      "title": "Woning in Leerdam! 98 m²",
-      "size_m2": "98",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000DOfMAM",
-      "lat": 51.8987968,
-      "lng": 5.085399000000001,
-      "price_text": "€700",
-      "description": "In Leerdam hebben wij een mooie ruime woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 98 m2 beschikt over 3 slaapkamers, keuken, badkamer, apart toilet en een ruime tuin. Leerdam is een gezellige stadje met meerdere winkels en horecagelegenheid. De dichtstbijzijnde supermarkt en het centrum is op ongeveer 5 minuten fietsafstand. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Utrecht en de regio. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €700 exclusief G/W/L en €2.60 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Utrecht via utrecht@adhocbeheer.nl. (foto's van de woning volgen morgen). Meer woningen bekijken? Klik hier!",
-      "images": [
-        "/servlet/servlet.FileDownload?file=null"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 21.5,
-      "interesting": true,
-      "first_seen": "2026-07-17T15:35:07Z"
     },
     {
       "id": "a6IPx0000000FBxMAM",
