@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T07:11:55Z",
+  "generated_at": "2026-07-23T09:37:51Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -22,6 +22,27 @@
       "distance_km": 109.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6I4I000000QlDXUA0",
+      "city": "Rotterdam",
+      "title": "Woonruimte in Rotterdam 50 m²",
+      "size_m2": "50",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6I4I000000QlDXUA0",
+      "lat": 51.8913994,
+      "lng": 4.4669855,
+      "price_text": "€350",
+      "description": "In Rotterdam krijgen we meerdere leuke woonruimte beschikbaar op basis van anti-kraak of tijdelijke huur. De woning zijn zo’n 45-60m2 en beschikken over 1 of meerdere slaapkamers, een keuken en een balkon aan de achterzijde. Dankzij de nabijgelegen Maastunnel ben je in no-time in het centrum van Rotterdam en de woning is met zowel met de auto als het openbaar vervoer uitstekend bereikbaar. In de directe omgeving vind je op loopafstand diverse winkels, horecagelegenheden en bezienswaardigheden zoals de Euromast. De maandelijkse vergoeding is vanaf €350 exclusief G/W/E en servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/c82d3c4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZjZmIyM2IxLWExZmEtNDJmOS04OTg3LTAyZTNiNzc0MzI0MC90aHVtYm5haWxzL2Z1bGwtY2U2NmQ3NzE4NmYuanBn/20220905_114540_resized.heic",
+        "https://p.sharinpix.com/3/494f0b3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2MzM2Q2Yjk0LTNhMWQtNDcxZS05ZmFiLTZjOGI2MGY1NGY2MC90aHVtYm5haWxzL2Z1bGwtYzA2NDJlYTI3NzEuanBn/20220905_114543_resized.heic",
+        "https://p.sharinpix.com/3/7c3bb23/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA1ZDMyNDkyLTlkY2YtNDQ4YS05MGVkLWY1MjA4N2ZhODQzMS90aHVtYm5haWxzL2Z1bGwtNDQ1YjE5N2YwYTkuanBn/20220905_114550_resized.heic"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 3.7,
+      "interesting": true,
+      "first_seen": "2026-07-23T09:37:51Z"
     },
     {
       "id": "a6IPx00000003kHMAQ",
@@ -226,7 +247,7 @@
       "city": "Maastricht",
       "title": "Woonruimte in Maastricht 81 m²",
       "size_m2": "81",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "image_url": "https://p.sharinpix.com/3/31c2d63/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg1OTVhYWEyLTVhMDgtNDg4MC04ZDZhLTc5M2VkNjRiNDcxZS90aHVtYm5haWxzL2Z1bGwtZmQ4ZTcxMTEzYzYuanBn/img_5808.jpeg",
       "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000AiXMAU",
       "lat": 50.85196819999999,
       "lng": 5.6569099,
@@ -359,6 +380,28 @@
       "distance_km": 138.9,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6IPx0000000JM1MAM",
+      "city": "Zwijndrecht",
+      "title": "Woonruimte in Zwijndrecht 63 m²",
+      "size_m2": "63",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000JM1MAM",
+      "lat": 51.8221023,
+      "lng": 4.6358043,
+      "price_text": "€430",
+      "description": "In Zwijndrecht hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 63m2 beschikt over twee slaapkamers,  prima keuken, prima badkamer met apart toilet en twee balkons. Er is ook een wasmachineaansluiting aanwezig in de woning. De woning ligt op fietsafstand van diverse winkels, supermarkten, horecagelegenheden en station Zwijndrecht. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Dordrecht en Rotterdam. In de buurt is er voldoende parkeergelegenheid en parkeren is gratis. De maandelijkse huur bedraagt €430 exclusief G/W/L en €35,20 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/6ae917f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NlMmNlM2M3LTIwM2UtNDhkYS1hYWQyLTk0OGRlOTFkYzQ1ZS90aHVtYm5haWxzL2Z1bGwtOTg5ZTJlMjJmMjYuanBn/019f4721-6c3e-7324-937a-e7d244661cfd.jpg",
+        "https://p.sharinpix.com/3/5f4ef61/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcxMGFmYjQ5LWQ3MjMtNGRjYS04YjllLWNlOGE5NDk4MGY5Yy90aHVtYm5haWxzL2Z1bGwtMzZjNDgyMTMwMmQuanBn/019f4721-6c5a-74a7-967a-749af42dcc0f.jpg",
+        "https://p.sharinpix.com/3/773cfb5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FkYWE5Y2Q5LWFjZDUtNDgwMS1iY2ZkLWY5YzYzMTk2M2RmNy90aHVtYm5haWxzL2Z1bGwtNjNkN2U3NTEyZTEuanBn/019f4721-6c65-75ae-a779-d4ecceaea8e2.jpg",
+        "https://p.sharinpix.com/3/f252299/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UxMjAwMzRiLWU1YmUtNDExOS05MzM0LTJjNGYxNDQ1ODczNS90aHVtYm5haWxzL2Z1bGwtZjdhY2Y0N2VhYzUuanBn/019f4721-6c53-739a-b438-61a4ac4fe899.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 15.7,
+      "interesting": true,
+      "first_seen": "2026-07-23T09:37:51Z"
     },
     {
       "id": "a6IPx0000000KGTMA2",
