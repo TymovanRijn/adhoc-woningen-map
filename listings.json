@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:37:51Z",
+  "generated_at": "2026-07-23T11:31:50Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -22,27 +22,6 @@
       "distance_km": 109.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6I4I000000QlDXUA0",
-      "city": "Rotterdam",
-      "title": "Woonruimte in Rotterdam 50 m²",
-      "size_m2": "50",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6I4I000000QlDXUA0",
-      "lat": 51.8913994,
-      "lng": 4.4669855,
-      "price_text": "€350",
-      "description": "In Rotterdam krijgen we meerdere leuke woonruimte beschikbaar op basis van anti-kraak of tijdelijke huur. De woning zijn zo’n 45-60m2 en beschikken over 1 of meerdere slaapkamers, een keuken en een balkon aan de achterzijde. Dankzij de nabijgelegen Maastunnel ben je in no-time in het centrum van Rotterdam en de woning is met zowel met de auto als het openbaar vervoer uitstekend bereikbaar. In de directe omgeving vind je op loopafstand diverse winkels, horecagelegenheden en bezienswaardigheden zoals de Euromast. De maandelijkse vergoeding is vanaf €350 exclusief G/W/E en servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/c82d3c4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZjZmIyM2IxLWExZmEtNDJmOS04OTg3LTAyZTNiNzc0MzI0MC90aHVtYm5haWxzL2Z1bGwtY2U2NmQ3NzE4NmYuanBn/20220905_114540_resized.heic",
-        "https://p.sharinpix.com/3/494f0b3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2MzM2Q2Yjk0LTNhMWQtNDcxZS05ZmFiLTZjOGI2MGY1NGY2MC90aHVtYm5haWxzL2Z1bGwtYzA2NDJlYTI3NzEuanBn/20220905_114543_resized.heic",
-        "https://p.sharinpix.com/3/7c3bb23/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA1ZDMyNDkyLTlkY2YtNDQ4YS05MGVkLWY1MjA4N2ZhODQzMS90aHVtYm5haWxzL2Z1bGwtNDQ1YjE5N2YwYTkuanBn/20220905_114550_resized.heic"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 3.7,
-      "interesting": true,
-      "first_seen": "2026-07-23T09:37:51Z"
     },
     {
       "id": "a6IPx00000003kHMAQ",
@@ -536,6 +515,26 @@
       "distance_km": 76.2,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6IPx0000000PUfMAM",
+      "city": "Rotterdam",
+      "title": "Woonruimte in Rotterdam-Zuid 56 m²",
+      "size_m2": "56",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000PUfMAM",
+      "lat": 51.87613839999999,
+      "lng": 4.465116399999999,
+      "price_text": "€ 479,14",
+      "description": "Op zoek naar een fijne woning in Rotterdam-Zuid? Wij krijgen leuke 2- of 3-kamerappartementen beschikbaar voor tijdelijke verhuur! Deze goed ingedeelde woningen van ca. 56 m² beschikken over 1 of meerdere slaapkamers, een prima keuken, een prima badkamer én een eigen balkon of tuin, ideaal om direct thuis te voelen. De ligging is uitstekend: Op fietsafstand van een supermarkt en het openbaar vervoer (station Slinge) en met voldoende parkeergelegenheid in de buurt. De huurprijs start vanaf € 479,14 per maand, exclusief gas, water en licht. Daarbovenop komt ongeveer €33,34 aan servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/b2c7a16/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2IyYzhiOTVhLTcwODAtNGE1Ny1hOTk3LTNiZDQ1MGNiNmNjZS90aHVtYm5haWxzL2Z1bGwtZmQ0YzU1YmJkMzUuanBn/019f8e05-894b-7500-9812-ddb6d0b50e08.heic",
+        "https://p.sharinpix.com/3/1d0c99e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk3ZGQ1NWUzLWU4NTctNDUyNC1hMzkxLTEzOGM3MDVjMjM0OS90aHVtYm5haWxzL2Z1bGwtZGFlYmUxM2YwNDMuanBn/019f8e02-f7aa-7376-adbb-7a5cbe529c6d.heic"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 5.4,
+      "interesting": true,
+      "first_seen": "2026-07-23T11:31:50Z"
     },
     {
       "id": "a6IPx0000000RWTMA2",
