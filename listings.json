@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T11:58:02Z",
+  "generated_at": "2026-07-27T14:54:48Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -669,6 +669,31 @@
       "first_seen": "2026-07-21T09:42:43Z"
     },
     {
+      "id": "a6IPx0000000YEbMAM",
+      "city": "Almelo",
+      "title": "Woonruimte in Almelo 90 m²",
+      "size_m2": "90",
+      "image_url": "https://p.sharinpix.com/3/9ed301a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2ZTI2NWRjLTA1NjQtNGJhMC1hM2EzLTE3MWEyOTZiZDcxOC90aHVtYm5haWxzL2Z1bGwtNTYzZTdlM2ZkZGYuanBn/img_4485.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000YEbMAM",
+      "lat": 52.3450004,
+      "lng": 6.658637000000001,
+      "price_text": "€500",
+      "description": "In Almelo hebben wij een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 90 m2 beschikt over 3 slaapkamers, keuken, badkamer, apart toilet en een balkon. De woning ligt op fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €500 exclusief G/W/L en €36,98 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Zwolle via zwolle@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/9ed301a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E2ZTI2NWRjLTA1NjQtNGJhMC1hM2EzLTE3MWEyOTZiZDcxOC90aHVtYm5haWxzL2Z1bGwtNTYzZTdlM2ZkZGYuanBn/img_4485.jpeg",
+        "https://p.sharinpix.com/3/908a6a3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzU0NzUyMDRkLTQ4YmYtNGNkNy1iN2RhLWEyZTA3NWE1NjNlMi90aHVtYm5haWxzL2Z1bGwtZmYxMDgyNmQ3OTguanBn/img_4460.jpeg",
+        "https://p.sharinpix.com/3/fc34963/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhmMmI5ZTlhLTM4M2UtNDY3Yy1hMzhjLWEzOWU3NmI4YzhjNS90aHVtYm5haWxzL2Z1bGwtYjQzNzQzYWZkNzIuanBn/img_4464.jpeg",
+        "https://p.sharinpix.com/3/f832909/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YwMzQ3NzliLTIyN2UtNDhiOS1iMjFkLTc0YzU0M2Q3ODk1My90aHVtYm5haWxzL2Z1bGwtYWRiOWJjMTVmY2UuanBn/img_4466.jpeg",
+        "https://p.sharinpix.com/3/c05b560/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q3OWRkMzA4LTNjMGQtNGFlMy1iMmQ0LTk0YmQ0YmIwYTlmZC90aHVtYm5haWxzL2Z1bGwtMmY0OTE1MWZlYTcuanBn/img_4474.jpeg",
+        "https://p.sharinpix.com/3/113c95a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzdmYWE3NzEyLWM0ZjUtNDI0ZC1iNTFhLWVlMzA1YmVmMTQxOS90aHVtYm5haWxzL2Z1bGwtMTU0MmVlODZiYzYuanBn/img_4478.jpeg",
+        "https://p.sharinpix.com/3/beb6790/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q4ZmNiMTRlLTk1MDQtNGQ5NS05NzZiLWU5Mjc3NjQxZmFmNi90aHVtYm5haWxzL2Z1bGwtN2Q2NTJmODUxNjcuanBn/img_4483.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 108.5,
+      "interesting": false,
+      "first_seen": "2026-07-27T14:54:48Z"
+    },
+    {
       "id": "a6IPx0000000YHpMAM",
       "city": "Amsterdam",
       "title": "Woonruimte in Amsterdam 63 m²",
@@ -839,6 +864,32 @@
       "distance_km": 131.4,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6ISi0000001csrMAA",
+      "city": "Leerdam",
+      "title": "Woonruimte tijdelijke verhuur in Leerdam! 62 m²",
+      "size_m2": "62",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000001csrMAA",
+      "lat": 51.8911793,
+      "lng": 5.081036699999999,
+      "price_text": "€425,",
+      "description": "We hebben per direct nette 3-kamer appartementen beschikbaar op basis van tijdelijke verhuur. Alle woningen beschikken over een ruime, lichte woonkamer, nette keuken en badkamer en een balkon/tuin. Sommige woningen zijn ook voorzien van een nette laminaatvloer of vloerbedekking. (Let op: als je een woning met vloer accepteert, dien je deze voor de oplevering in de toekomst zelf te verwijderen). Dit project is op korte (loop)afstand van een klein winkelcentrum met o.a. een supermarkt. Het centrum van Leerdam, waar je veel gezellige terrassen, winkels, restaurants en speciaalzaken kunt vinden, ligt op korte fietsafstand. Leerdam is centraal gelegen, direct tussen de A27 en A2. Ook zijn er goede ov-verbindingen. De maandhuur bedraagt €425,-. Dit is exclusief G/W/E. De servicekosten bedragen €30,-. Voor meer informatie kun je contact opnemen met ons kantoor in Utrecht via utrecht@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/6bdd48f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzNhYThlZmM3LTFiNDctNGFmNC05Mjg0LTU5YTI3YWYwZjk5Ni90aHVtYm5haWxzL2Z1bGwtYzlhODlmY2FjM2UuanBn/img_7301.jpeg",
+        "https://p.sharinpix.com/3/23059e4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA1OGE4NzUwLTZhMTgtNDAwOC04OGM2LTBlZTZiYWM1ZGYxMS90aHVtYm5haWxzL2Z1bGwtMjgwYWNlNTJjYjAuanBn/img_7304.jpeg",
+        "https://p.sharinpix.com/3/d5687dd/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FiMDg5YTVhLTUwNjctNDllOS1iN2M0LWU2NTlkNjM0MTJjYS90aHVtYm5haWxzL2Z1bGwtMDA0MGFhOTAxZmIuanBn/img_7296.jpeg",
+        "https://p.sharinpix.com/3/e35a27e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzkzMGQxOTA1LTU1YmItNDg0YS1hMzc0LWJmMTdmYjFmNDBiYS90aHVtYm5haWxzL2Z1bGwtOWU4NTVmYjQyMDAuanBn/img_7293.jpeg",
+        "https://p.sharinpix.com/3/ca62baf/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UzMTY0NmQyLTQ2MjUtNDg5YS1hNTBkLTExYzY3MDk3ZDgyNi90aHVtYm5haWxzL2Z1bGwtY2E1OWU4Y2U5ZjQuanBn/img_7291.jpeg",
+        "https://p.sharinpix.com/3/7102438/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM4ZmM4NjAxLTUwZTctNGE2OC05NWU5LTgxMWNiNmI0YjgwZS90aHVtYm5haWxzL2Z1bGwtZGJlYjE5MzRhOTguanBn/img_7292.jpeg",
+        "https://p.sharinpix.com/3/5ff0470/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZiOGU2MTJlLTI2NTEtNGNhZC04MjhjLWE2MDMwZTkyMDE2Ny90aHVtYm5haWxzL2Z1bGwtZTFiNzA2ZWFhMjMuanBn/img_7287.jpeg",
+        "https://p.sharinpix.com/3/4905775/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzJlY2JhNmI5LTRlZjYtNGI1My1iNTE4LWQ2YjZlMThiMzE4MS90aHVtYm5haWxzL2Z1bGwtZDcyNTgwY2I1ZGIuanBn/img_7281.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 22.4,
+      "interesting": true,
+      "first_seen": "2026-07-27T14:54:48Z"
     },
     {
       "id": "a6ISi0000002jSTMAY",
