@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:39:47Z",
+  "generated_at": "2026-07-27T11:58:02Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -383,6 +383,31 @@
       "distance_km": 177.0,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
+    },
+    {
+      "id": "a6IPx0000000KhtMAE",
+      "city": "Zwijndrecht",
+      "title": "Woonruimte in Zwijndrecht 66 m²",
+      "size_m2": "66",
+      "image_url": "https://p.sharinpix.com/3/a6c6039/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YwM2U0YjRkLWZjMGEtNGE5Mi05ZWFhLTYzZWZjNDMwNDQ4OS90aHVtYm5haWxzL2Z1bGwtMTJmMzU3OWZkOTkuanBn/019f6f3f-194c-72f9-8d91-daecb6f7ae24.jpg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000KhtMAE",
+      "lat": 51.8222147,
+      "lng": 4.6365132,
+      "price_text": "€430",
+      "description": "In Zwijndrecht hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 65m2 beschikt over twee slaapkamers, prima keuken, prima badkamer met apart toilet en twee balkons. Er is ook een wasmachineaansluiting aanwezig in de woning. De woning heeft wat liefde nodig, dus als je graag de handen uit de mouwen steekt dan is deze woning wat voor jou. De woning ligt op fietsafstand van diverse winkels, supermarkten, horecagelegenheden en station Zwijndrecht. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Dordrecht en Rotterdam. In de buurt is er voldoende parkeergelegenheid en parkeren is gratis. De maandelijkse huur bedraagt €430 exclusief G/W/L en €16,20 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/a6c6039/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YwM2U0YjRkLWZjMGEtNGE5Mi05ZWFhLTYzZWZjNDMwNDQ4OS90aHVtYm5haWxzL2Z1bGwtMTJmMzU3OWZkOTkuanBn/019f6f3f-194c-72f9-8d91-daecb6f7ae24.jpg",
+        "https://p.sharinpix.com/3/cc09c0d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzUxYWExNTUwLWI1MjAtNDRkMC1hZTk4LTJiNGYxN2E5NTBkNy90aHVtYm5haWxzL2Z1bGwtODhkOGQ4ZGRkODAuanBn/019f6f3f-1947-716d-bf83-30fff9f72ba1.jpg",
+        "https://p.sharinpix.com/3/0e96f95/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzRlMjBmNGE3LWY1NGQtNGYyMy05NDcxLTVkYWU3NzA0MmQwZS90aHVtYm5haWxzL2Z1bGwtZTQ1ZTQxNzlhN2EuanBn/019f6f3f-194a-7085-a541-5368e3d22ae4.jpg",
+        "https://p.sharinpix.com/3/c28096e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFiNDMwYjgxLWFiMGYtNDQwNi1hODIzLWEwMzNjZTU0ZTE5OC90aHVtYm5haWxzL2Z1bGwtZjQyMmQ5ZDc5OGIuanBn/019f6f3f-1949-74ed-8f5c-04d100d2ad3b.jpg",
+        "https://p.sharinpix.com/3/d42da30/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y2MzI5ZTczLTdhYWUtNDQwNi1iZDYwLTljNzcwZWM0YWZiNi90aHVtYm5haWxzL2Z1bGwtYjdkZjI5NjgxYWYuanBn/019f6f3f-1952-7529-a811-6b02e5d6caa0.jpg",
+        "https://p.sharinpix.com/3/bdcd90f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2QxOGNjYzI2LWUyZjktNDMyMS05ZmZmLWJiMjQ0MTExNWQzNy90aHVtYm5haWxzL2Z1bGwtZmY3YmVkMGJlOGUuanBn/019f6f3f-1957-7759-abd3-3d3b6b3ca801.jpg",
+        "https://p.sharinpix.com/3/ff14c65/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U2NTEwMWUyLTIzYmQtNGM0Zi04Y2MzLTAyMjA4MWFlYmQ1NS90aHVtYm5haWxzL2Z1bGwtOGU3Y2YwZDhhMmIuanBn/019f6f3f-1941-72b8-aa46-8dadc7da687d.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 15.7,
+      "interesting": true,
+      "first_seen": "2026-07-27T11:58:02Z"
     },
     {
       "id": "a6IPx0000000LKbMAM",
