@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T07:11:23Z",
+  "generated_at": "2026-07-28T09:48:34Z",
   "listings": [
     {
       "id": "a6I4I000000FbcCUAS",
@@ -694,29 +694,6 @@
       "first_seen": "2026-07-27T14:54:48Z"
     },
     {
-      "id": "a6IPx0000000YHpMAM",
-      "city": "Amsterdam",
-      "title": "Woonruimte in Amsterdam 63 m²",
-      "size_m2": "63",
-      "image_url": "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000YHpMAM",
-      "lat": 52.3574582,
-      "lng": 4.8015012,
-      "price_text": "€565,06",
-      "description": "In Amsterdam hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet en een balkon. De woning ligt op [loop/fiets]afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €565,06 exclusief G/W/L en €8,94 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/a8d09ca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4Zjg2MTYwLTc2Y2EtNDJlYy04NDZhLWRiMTRlZmVkODRkMi90aHVtYm5haWxzL2Z1bGwtZWQ0MjVkNzhjNzkuanBn/img_3528.jpeg",
-        "https://p.sharinpix.com/3/e2900af/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM2YzQzN2U2LTNmNDItNGM5Ny1hMjBjLTMzYjhlYmU2MTM5NS90aHVtYm5haWxzL2Z1bGwtYjQ3ZDg5YjViN2YuanBn/img_3530.jpeg",
-        "https://p.sharinpix.com/3/4f4fe94/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI5ZTQzMTMyLTNmMzgtNGNlOS05YThmLTI4YTYxMDUwODNiZC90aHVtYm5haWxzL2Z1bGwtYmFlY2ExYjk2YTYuanBn/img_3538.jpeg",
-        "https://p.sharinpix.com/3/faa1b4c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcxODRjNDk3LWNhY2UtNDY2Ni1hOWIwLWM4OTg5Mjc3N2QzZS90aHVtYm5haWxzL2Z1bGwtZGRkOWJkMmU3NTQuanBn/img_3549.jpeg",
-        "https://p.sharinpix.com/3/c8a1d5d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZlMmJmYWVkLWRkMmUtNDQ5ZS1hNTBlLTRmN2QzYjExZDVjYS90aHVtYm5haWxzL2Z1bGwtNTcyNDU1ZWM2NjQuanBn/image.jpg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 36.8,
-      "interesting": false,
-      "first_seen": "2026-07-22T12:24:35Z"
-    },
-    {
       "id": "a6IPx0000000YePMAU",
       "city": "Enkhuizen",
       "title": "Woonruimte in Enkhuizen 84 m²",
@@ -819,6 +796,50 @@
       "distance_km": 26.5,
       "interesting": true,
       "first_seen": "2026-07-22T10:54:42Z"
+    },
+    {
+      "id": "a6IPx0000000cN3MAI",
+      "city": "Amsterdam",
+      "title": "Woonruimte in Amsterdam 63 m²",
+      "size_m2": "63",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000cN3MAI",
+      "lat": 52.3572521,
+      "lng": 4.8016213,
+      "price_text": "€685,86",
+      "description": "In Amsterdam hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60m2 beschikt over 2 slaapkamers, keuken, badkamer, apart toilet en een balkon. De woning ligt op loop/fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €685,86 exclusief G/W/L en €7,63 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via amsterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/379d736/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzVkNTI5ZWJkLTg3NzMtNGY0OC04NWRlLTNkNjg3ZTc0NDE0ZS90aHVtYm5haWxzL2Z1bGwtMDI5ZTAwMGQ3YTcuanBn/img_4655.jpeg",
+        "https://p.sharinpix.com/3/ff59b00/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NlNzllZWNhLTc1MjgtNDRjMy04N2NiLTZmNWM5Mzc5YTY1YS90aHVtYm5haWxzL2Z1bGwtY2MwODZhMzZjZWMuanBn/img_4654.jpeg",
+        "https://p.sharinpix.com/3/0b10966/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y5MzkzYTJjLTZhN2UtNGRlOS1iNzBkLWM0NTc0NjgyMmJlZC90aHVtYm5haWxzL2Z1bGwtNTAxODNjMWQwZTYuanBn/img_4677.jpeg",
+        "https://p.sharinpix.com/3/6507d79/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzNiMzlkYzlhLTE0ODgtNDI0Ny1hNzUwLTQzNTg2YTZiZmI5Zi90aHVtYm5haWxzL2Z1bGwtNTkyZDIxNDY0ZTUuanBn/img_4661.jpeg",
+        "https://p.sharinpix.com/3/6722f1f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RhZGU4ODI2LTI1YmQtNGQ3MS04OGNmLTljNzgzNTEwY2M4MS90aHVtYm5haWxzL2Z1bGwtNTNmNDRkMzk1NzAuanBn/img_4639.jpeg",
+        "https://p.sharinpix.com/3/f11e924/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc3ZGQ5NGVlLTk3MjEtNDYwYS04ZGVhLWZhM2FlYmE4MTkzZi90aHVtYm5haWxzL2Z1bGwtZjYwOWZiNzg2NjMuanBn/img_4643.jpeg",
+        "https://p.sharinpix.com/3/50bc367/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFiNDUzMjgwLTE1YmUtNDNiNS04MzEyLTVmYjE3ZjE1ZjhhNy90aHVtYm5haWxzL2Z1bGwtNGUyMzFhMmIwMmQuanBn/img_4646.jpeg",
+        "https://p.sharinpix.com/3/08e34ef/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAxYTM0Y2Y4LTZjMTktNGY1Ni04OTgwLTI1ZTFmN2Y1ODQwMS90aHVtYm5haWxzL2Z1bGwtOTY5MDBlYTVlMmIuanBn/img_4644.jpeg",
+        "https://p.sharinpix.com/3/7b12c2b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ2ODkwMzdhLTk4YWUtNGNkOC1iZDBlLWQ3ZjAyMjhiY2I2NS90aHVtYm5haWxzL2Z1bGwtZWRhYzBhYmNmNzcuanBn/img_4652.jpeg",
+        "https://p.sharinpix.com/3/f2f89ec/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA4MjcwYzg5LWU2ZWEtNDAzNy1iNDU0LTU3MzFiZDc2M2YwMC90aHVtYm5haWxzL2Z1bGwtODAwMjFiZWU2NjUuanBn/img_4647.jpeg",
+        "https://p.sharinpix.com/3/4d9132d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcwNjcyNTVkLTcxZjUtNGQ4MC04Yjk5LTJhMTVmOTMwY2M5Ny90aHVtYm5haWxzL2Z1bGwtN2FkNDRkOTlmZTEuanBn/img_4648.jpeg",
+        "https://p.sharinpix.com/3/f954fc9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzA1NzJkMGNkLWZhMTAtNDdiZC1hZGI3LWM3ODZjMThhNDNjNS90aHVtYm5haWxzL2Z1bGwtNThmYzM3MTIyNjkuanBn/img_4649.jpeg",
+        "https://p.sharinpix.com/3/88dd1a5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzEwMjMyYmJhLTYzZWItNGUzZi1hMWFmLWJhOWQ5Mzc1YmUxNi90aHVtYm5haWxzL2Z1bGwtODA3YzhhODA2MzEuanBn/img_4656.jpeg",
+        "https://p.sharinpix.com/3/cd979ab/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ1NWM4MGFkLTliODYtNDA2Mi04YmYyLWY2MTIxMWRiZDM0Zi90aHVtYm5haWxzL2Z1bGwtMGU0YjZiOTA2YjQuanBn/img_4653.jpeg",
+        "https://p.sharinpix.com/3/3a2a51f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2UzZTIxNGU5LTBiNWQtNDcyNC05OWJkLTE4N2E2ZGY0MmMxOS90aHVtYm5haWxzL2Z1bGwtNzFiZGViMmMxZGQuanBn/img_4662.jpeg",
+        "https://p.sharinpix.com/3/a2686d4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2EwNzVkYTE2LTQzZWItNGZmYS1iODQ2LWFmZmM0MTAyZjAwMi90aHVtYm5haWxzL2Z1bGwtN2Y0MTlkODU4ZmUuanBn/img_4660.jpeg",
+        "https://p.sharinpix.com/3/c51b9e2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzUzMzU0MDk0LWI2NWYtNGE2MC1hYzY5LWMzYzJjOTQ0Y2EzYS90aHVtYm5haWxzL2Z1bGwtNjUyMmE4NTA5Y2YuanBn/img_4659.jpeg",
+        "https://p.sharinpix.com/3/1b1bd79/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzkwNGNmN2YwLTI5NmItNDBmYS05MTlmLTliMjhkMmVlNTIwNC90aHVtYm5haWxzL2Z1bGwtMzFhMmYwNTZjYjguanBn/img_4666.jpeg",
+        "https://p.sharinpix.com/3/ddc6267/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzU1NjIzOTQyLWNkM2MtNGI4Ny04ZWMyLTIxYzc4Y2JkMzA1Zi90aHVtYm5haWxzL2Z1bGwtYWM3ZjYzYTA3MzAuanBn/img_4667.jpeg",
+        "https://p.sharinpix.com/3/474394f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2QzOTJkYzg5LTFkZjctNDg4My1iNjBlLTlhZGQ2MTJjMzdkYi90aHVtYm5haWxzL2Z1bGwtNGIzNWU5N2FmZTcuanBn/img_4665.jpeg",
+        "https://p.sharinpix.com/3/79d7dde/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I5ZjMwNDE4LTNhM2YtNDU5Yy04N2IyLWU2ODZjODdiNmE2My90aHVtYm5haWxzL2Z1bGwtZDIxZWE3ZDExZTguanBn/img_4670.jpeg",
+        "https://p.sharinpix.com/3/7d03b41/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzNmNTllZmI2LThlNWYtNDQ3ZC1hMDc0LWRiOWQxNGU0ZjA5Mi90aHVtYm5haWxzL2Z1bGwtODI2Yjg4YzAwYTAuanBn/img_4663.jpeg",
+        "https://p.sharinpix.com/3/ce5fc9a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE5NzRiMzY1LTQ0MDgtNGVhZS04YzQ0LTdjMmM3ZGI0ZWE4NC90aHVtYm5haWxzL2Z1bGwtNGI2OTUxMmJmNWEuanBn/img_4669.jpeg",
+        "https://p.sharinpix.com/3/bac75d3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk2OTUyZTQ1LTZjMmMtNGE0OC04MDEzLTY5NjliOTg4YjIxZC90aHVtYm5haWxzL2Z1bGwtYWVmYjFhNTEyZDguanBn/img_4668.jpeg",
+        "https://p.sharinpix.com/3/f892b2e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y3N2U3NWMxLTIzOTYtNGI4Yy05MmUyLTA3MjE5OGE1MDAyMS90aHVtYm5haWxzL2Z1bGwtZWQzMTUxMDU2YjIuanBn/img_4673.jpeg",
+        "https://p.sharinpix.com/3/4271106/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ5YzZiZTVmLTQxZWEtNDE5My1hZjlhLTcyMDA5MjYwMjg0Yi90aHVtYm5haWxzL2Z1bGwtZDE3ZjM2ODFhOWMuanBn/img_4675.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 36.8,
+      "interesting": false,
+      "first_seen": "2026-07-28T09:48:34Z"
     },
     {
       "id": "a6ISi0000001YajMAE",
@@ -1065,29 +1086,6 @@
       ],
       "ref_city": "Utrecht",
       "distance_km": 109.4,
-      "interesting": false,
-      "first_seen": "2026-07-12T20:22:54Z"
-    },
-    {
-      "id": "a6ISi0000005L3pMAE",
-      "city": "Valthe",
-      "title": "Woonruimte in Valte 89 m²",
-      "size_m2": "89",
-      "image_url": "https://p.sharinpix.com/3/4766551/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQwYzU4ZGEyLTE1YjgtNDk4MS05OTI4LTIwYWI1YWUwNjg0Ni90aHVtYm5haWxzL2Z1bGwtZGU4OTBjMGI5ZTYuanBn/img_2445.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000005L3pMAE",
-      "lat": 52.84717209999999,
-      "lng": 6.896777999999999,
-      "price_text": "€452,70",
-      "description": "In Valte hebben we een woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning heeft een oppervlakte van ca. 90 m2. De woning ligt op korte afstand van het Valtherbos, verschillende restaurants en binnen korte tijd ben je in Emmen. De maandelijkse huur bedraagt €452,70 exclusief G/W/L en €5,22 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Groningen via groningen@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/4766551/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQwYzU4ZGEyLTE1YjgtNDk4MS05OTI4LTIwYWI1YWUwNjg0Ni90aHVtYm5haWxzL2Z1bGwtZGU4OTBjMGI5ZTYuanBn/img_2445.jpeg",
-        "https://p.sharinpix.com/3/2224aa9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzIyYWE4MWIyLWE3MmItNDk4Yy05OTdhLWNmY2E4ODliMTgyOC90aHVtYm5haWxzL2Z1bGwtN2UzOTQ4OTk4ZTEuanBn/img_2432.jpeg",
-        "https://p.sharinpix.com/3/efa5193/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RjYTk0MzlmLTE3NmEtNDg3Mi1hYWFiLThlNTI0OTE0NTNlYS90aHVtYm5haWxzL2Z1bGwtYzZkNDE1MTc2NmQuanBn/img_2434.jpeg",
-        "https://p.sharinpix.com/3/fb5c7ac/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzRjOTgxNDgyLTgyYmUtNGNiNC1hOTBkLTExOTEyZjBiM2EwMy90aHVtYm5haWxzL2Z1bGwtYTg3MGM4OTk4NDIuanBn/img_2458.jpeg",
-        "https://p.sharinpix.com/3/80cfa5d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM4NzE2NGZhLWRhMjAtNGMzMC05NzY5LTc0NDQ0MWU2ZGQzMy90aHVtYm5haWxzL2Z1bGwtZjA0MDk2MDAzMzQuanBn/img_2463.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 146.8,
       "interesting": false,
       "first_seen": "2026-07-12T20:22:54Z"
     },
