@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:09:32Z",
+  "generated_at": "2026-11-13T21:25:24Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -814,29 +814,26 @@
       "first_seen": "2026-11-12T19:06:39Z"
     },
     {
-      "id": "a6IPx00000017AjMAI",
-      "city": "Zwijndrecht",
-      "title": "Woonruimte in Zwijndrecht 113 m²",
-      "size_m2": "113",
-      "image_url": "https://p.sharinpix.com/3/4563615/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZjY2EwYzllLTk3NjEtNDZjZS1hZTRmLTJhNDFiMjBkMmQwMi90aHVtYm5haWxzL2Z1bGwtZjY0NWUwMTdlNmEuanBn/01a1c9a8-59a7-7284-a1af-892b5ff131e3.heic",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx00000017AjMAI",
-      "lat": 51.822242,
-      "lng": 4.635961,
-      "price_text": "€430,00",
-      "description": "In Zwijndrecht hebben wij een prima woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 62 m2 beschikt over een prima keuken en badkamer. De woning heeft wat liefde nodig, maar je kan er wel echt wat leuks van maken. De woning ligt op fietsafstand van diverse winkels, supermarkten, horecagelegenheden en station Zwijndrecht. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Dordrecht en Rotterdam. In de buurt is er voldoende parkeergelegenheid en parkeren is gratis. De maandelijkse huur bedraagt €430,00 exclusief G/W/L en €35,20 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
+      "id": "a6IPx00000018LJMAY",
+      "city": "Hardenberg",
+      "title": "Woonruimte in Hardenberg 108 m²",
+      "size_m2": "108",
+      "image_url": "https://p.sharinpix.com/3/112a765/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzUwM2I5MGFlLTQyOTQtNDg3My05NGM2LTEwOTRlOGYyNTJmNC90aHVtYm5haWxzL2Z1bGwtMGZhYzk5NjliY2EuanBn/img_3334.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx00000018LJMAY",
+      "lat": 52.5727845,
+      "lng": 6.6071529,
+      "price_text": "€400",
+      "description": "In Hardenberg hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 108 m2 beschikt over 3 slaapkamers, keuken, badkamer, apart toilet, balkon, tuin, een berging etc.. Hardenberg is een prettige plaats om te wonen in de provincie Overijssel. Dankzij het eigen treinstation zijn steden goed bereikbaar. Zo sta je binnen 30 minuten in Zwolle. De woning ligt op fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €400 exclusief G/L en €139 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Zwolle via zwolle@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
       "images": [
-        "https://p.sharinpix.com/3/4563615/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ZjY2EwYzllLTk3NjEtNDZjZS1hZTRmLTJhNDFiMjBkMmQwMi90aHVtYm5haWxzL2Z1bGwtZjY0NWUwMTdlNmEuanBn/01a1c9a8-59a7-7284-a1af-892b5ff131e3.heic",
-        "https://p.sharinpix.com/3/f2a954e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzlkZDc2MzBkLTZmY2YtNDk0Yy1hYWI0LWZmMTM2ZWJjMGFiYy90aHVtYm5haWxzL2Z1bGwtZmM3NTgxZmE5NzkuanBn/01a1c9a8-59a2-75b8-bc32-d1ff9c46b647.heic",
-        "https://p.sharinpix.com/3/b35964c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhkM2YxOTRlLWRmODktNDk5Zi05NmU1LTBiYjA4ODhmMGJhOC90aHVtYm5haWxzL2Z1bGwtMzJiZTI0OTY3MGYuanBn/01a1c9a8-59a5-70af-882d-545b5badfeaa.heic",
-        "https://p.sharinpix.com/3/687eae3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzgyZWQ2NGY5LThjMjgtNDRhZi05NWQ3LWQ4OGEwZDVjNzE2MS90aHVtYm5haWxzL2Z1bGwtN2Q0OWFjZDE2ZjIuanBn/01a1c9a8-59a4-731e-9092-4774f4fe9bd2.heic",
-        "https://p.sharinpix.com/3/268d687/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ5YzY2MGViLTI3YTYtNDAwYi05YTBkLTU4NGE5YjdiNmEwOS90aHVtYm5haWxzL2Z1bGwtODRkYzlhMzIxOWEuanBn/01a1c9a8-59a9-7229-910d-f61be06c5fd6.heic",
-        "https://p.sharinpix.com/3/8ea1780/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YwYjMwYjVkLTUyM2ItNDQ0NC04MjkyLTRjOGE5MzEwY2NlOC90aHVtYm5haWxzL2Z1bGwtMDVhZDJiMWNkYzAuanBn/01a1c9a8-59a8-71ae-8247-ab87861489e6.heic",
-        "https://p.sharinpix.com/3/f63052f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q3NDM2ZjNkLWZkNDEtNGJmZS04NTkzLWQyYTlkMTI3Zjc3ZS90aHVtYm5haWxzL2Z1bGwtY2UzNWM1YmU0MzYuanBn/01a1c9a8-59a8-71ae-8247-a46aa09bd901.heic"
+        "https://p.sharinpix.com/3/112a765/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzUwM2I5MGFlLTQyOTQtNDg3My05NGM2LTEwOTRlOGYyNTJmNC90aHVtYm5haWxzL2Z1bGwtMGZhYzk5NjliY2EuanBn/img_3334.jpeg",
+        "https://p.sharinpix.com/3/0eeb6ec/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2MxY2NmMjNhLTY5NDMtNDhiMy1iMTZhLTFhNTIxMGExM2FiMS90aHVtYm5haWxzL2Z1bGwtYTVkNjRhYWJjMGYuanBn/img_3327.jpeg",
+        "https://p.sharinpix.com/3/970b5e0/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FlMjlmZGVlLThiMmQtNDVlZS05NGMzLTQwNjViNjE3MTE5OS90aHVtYm5haWxzL2Z1bGwtMjBhMjM1ZTU5MTMuanBn/img_3338.jpeg",
+        "https://p.sharinpix.com/3/99c7c34/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE5YWRhNjliLTYyZDItNDA4MS1iMzdmLTQ5OTRmYTljZTBjZC90aHVtYm5haWxzL2Z1bGwtMmQzNmY5MTllMjQuanBn/img_3335.jpeg"
       ],
-      "ref_city": "Rotterdam",
-      "distance_km": 15.7,
-      "interesting": true,
-      "first_seen": "2026-11-12T19:06:39Z"
+      "ref_city": "Utrecht",
+      "distance_km": 114.3,
+      "interesting": false,
+      "first_seen": "2026-11-13T21:25:24Z"
     },
     {
       "id": "a6IPx00000019R3MAI",
