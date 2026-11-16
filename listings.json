@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T08:38:30Z",
+  "generated_at": "2026-11-16T18:55:28Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -988,29 +988,6 @@
       "first_seen": "2026-11-12T19:06:39Z"
     },
     {
-      "id": "a6IPx0000001GfRMAU",
-      "city": "Weert",
-      "title": "Woonruimte in Weert",
-      "size_m2": "",
-      "image_url": "https://p.sharinpix.com/3/cd0a3f1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc3NWQ4M2ViLWNjYjMtNGQzMy05YTM3LWEzY2NlZTVhMDcxMi90aHVtYm5haWxzL2Z1bGwtNmZhOTI0Y2ViZjguanBn/01a19cae-35f2-70c6-a149-24c220e00cdc.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001GfRMAU",
-      "lat": 51.245057,
-      "lng": 5.702415999999999,
-      "price_text": "€472.20",
-      "description": "In Weert hebben wij een mooi appartement beschikbaar op basis van tijdelijk verhuur. Deze drie-kamer woning van ca. 100 m2 beschikt over 2 slaapkamers, woonkamer, keuken voorzien van apparatuur, badkamer, separaat toilet en een ruime kelderberging. De woning ligt op 3 minuten fietsafstand van het Centraal Station Weert en in directe nabijheid van diverse winkels, supermarkten en horeca. Er is voldoende gratis parkeergelegenheid. De maandelijkse huur bedraagt €472.20 exclusief G/W/L en €45.10 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/cd0a3f1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzc3NWQ4M2ViLWNjYjMtNGQzMy05YTM3LWEzY2NlZTVhMDcxMi90aHVtYm5haWxzL2Z1bGwtNmZhOTI0Y2ViZjguanBn/01a19cae-35f2-70c6-a149-24c220e00cdc.jpeg",
-        "https://p.sharinpix.com/3/1327636/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2EzNTAyYTk3LTc3ZTMtNDNhZC1iMWM2LTZhMTBjODU4NTViNS90aHVtYm5haWxzL2Z1bGwtOGQ1MzQ3NDc0MWYuanBn/01a19cae-7a15-7299-98f7-6c8e8d46fba2.jpeg",
-        "https://p.sharinpix.com/3/5a1fd32/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FkNWUyYjBhLTc1YmYtNDk3MS04MWI2LWJiZmQxMTI2MTZlMC90aHVtYm5haWxzL2Z1bGwtZTNlYTdlOTQ2NTcuanBn/01a19cb2-26c6-71a8-b9e9-2a9b0fb20c84.jpeg",
-        "https://p.sharinpix.com/3/ce65667/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y0YzhhNjAxLTY5YjYtNDY3OS1hMmExLTYzYzc4YjhkYzkzNi90aHVtYm5haWxzL2Z1bGwtNTNlMDU2OWJhZjEuanBn/01a19cae-18b7-73f8-bec7-3b5e3d7faf94.jpeg",
-        "https://p.sharinpix.com/3/7b1951c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzEzMWFlOTc0LTgyZWItNGNiZi04NGZjLThiOTJkMTgwM2JkNC90aHVtYm5haWxzL2Z1bGwtY2FmN2NiMGRhZjMuanBn/01a19cb2-4a27-778d-8e7b-14026bb4dbf1.jpeg"
-      ],
-      "ref_city": "Breda",
-      "distance_km": 74.3,
-      "interesting": false,
-      "first_seen": "2026-11-12T19:06:39Z"
-    },
-    {
       "id": "a6IPx0000001KKrMAM",
       "city": "Millingen aan de Rijn",
       "title": "Woonruimte in Millingen aan de Rijn 72 m²",
@@ -1028,6 +1005,28 @@
       "distance_km": 68.6,
       "interesting": false,
       "first_seen": "2026-11-12T19:06:39Z"
+    },
+    {
+      "id": "a6IPx0000001LgjMAE",
+      "city": "Zaandam",
+      "title": "Woonruimte in Zaandam 85 m²",
+      "size_m2": "85",
+      "image_url": "https://p.sharinpix.com/3/9f67c3b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q3NjdhY2MwLTliNjktNGE5Yi1hZTlhLWQwNmJjZTczMDAyZi90aHVtYm5haWxzL2Z1bGwtMjQxMWMwMTMxOTkuanBn/img_2269.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001LgjMAE",
+      "lat": 52.4384484,
+      "lng": 4.8365928,
+      "price_text": "€ 570,42",
+      "description": "In Zaandam hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3 kamer woning van ca. 80m2 beschikt over 2 slaapkamers, keuken, badkamer, los toilet, een balkon en een berging. De woning ligt op loop afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Amsterdam en andere steden. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt € 570,42 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Amsterdam via Amsterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/9f67c3b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q3NjdhY2MwLTliNjktNGE5Yi1hZTlhLWQwNmJjZTczMDAyZi90aHVtYm5haWxzL2Z1bGwtMjQxMWMwMTMxOTkuanBn/img_2269.jpeg",
+        "https://p.sharinpix.com/3/947ba87/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM1NGNiOGNkLWNkNDQtNGE2NC04NDU1LThhNmZmMDk2OTJjNC90aHVtYm5haWxzL2Z1bGwtMTYwZDI3ZTcxOTguanBn/img_2253.jpeg",
+        "https://p.sharinpix.com/3/a0ec36d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FjYjZiOGI1LTJjMDItNDA5OC1iMGZhLWNjN2I3YTQ1ZDI4Mi90aHVtYm5haWxzL2Z1bGwtZjcxMTM2NDc4NjAuanBn/img_2277.jpeg",
+        "https://p.sharinpix.com/3/ebf595b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI0Y2NjNDBlLTVhMzktNDQzNS04OGIyLTM0MjI2NThhZWRhYi90aHVtYm5haWxzL2Z1bGwtOTkwZDI1YmRiMzAuanBn/img_2294.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 43.3,
+      "interesting": false,
+      "first_seen": "2026-11-16T18:55:28Z"
     },
     {
       "id": "a6ISi0000000shxMAA",
@@ -1073,26 +1072,6 @@
       "ref_city": "Utrecht",
       "distance_km": 33.7,
       "interesting": false,
-      "first_seen": "2026-11-12T19:06:39Z"
-    },
-    {
-      "id": "a6ISi0000002VkTMAU",
-      "city": "Delft",
-      "title": "Studentenwoning in Delft 25 m²",
-      "size_m2": "25",
-      "image_url": "https://p.sharinpix.com/3/2dbd4a1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I1ZWE0NGUxLWM3MjYtNGYzOS05ZjVjLWY1MmFhYjAzN2YyOC90aHVtYm5haWxzL2Z1bGwtNTlkNWE5Y2U4MmMuanBn/68586c8d-e964-4ef0-8c11-0b7fb42abfda.jpg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000002VkTMAU",
-      "lat": 52.0032593,
-      "lng": 4.3548054,
-      "price_text": "€ 350,",
-      "description": "In Delft hebben wij een ideale woonruimte voor een student beschikbaar: een kamer van circa 25 m² met een reeds gelegde vloer, zodat je er direct in kunt trekken. De woonkamer, toiletten en douches deel je met 4 tot 6 huisgenoten en voorzieningen als een wasmachine en internet zijn al aanwezig. Het pand ligt op fietsafstand van diverse winkels, supermarkten en het openbaar vervoer. De TU Delft bereik je in slechts 7 minuten met de fiets. Let op: inschrijving als student is vereist! De maandelijkse huur bedraagt € 350,- exclusief € 170,- servicekosten (inclusief voorschot gas, water en elektriciteit). Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/2dbd4a1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I1ZWE0NGUxLWM3MjYtNGYzOS05ZjVjLWY1MmFhYjAzN2YyOC90aHVtYm5haWxzL2Z1bGwtNTlkNWE5Y2U4MmMuanBn/68586c8d-e964-4ef0-8c11-0b7fb42abfda.jpg",
-        "https://p.sharinpix.com/3/3abefc1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2IyZjc1MjZkLTU1MWItNDZhNS1iMDczLWUwNWYyMDgwODYyNi90aHVtYm5haWxzL2Z1bGwtM2RiZDY3NzUyNDAuanBn/c9749e9d-b41f-46ff-873c-cafa4ef8cdf9.jpg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 12.2,
-      "interesting": true,
       "first_seen": "2026-11-12T19:06:39Z"
     },
     {
@@ -1266,31 +1245,6 @@
       ],
       "ref_city": "Utrecht",
       "distance_km": 109.4,
-      "interesting": false,
-      "first_seen": "2026-11-12T19:06:39Z"
-    },
-    {
-      "id": "a6ISi0000004TcvMAE",
-      "city": "Roermond",
-      "title": "Woonruimte in Roermond 91 m²",
-      "size_m2": "91",
-      "image_url": "https://p.sharinpix.com/3/5d3b4fd/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzEzZGZiODdhLTM3NmMtNGRiZS1iNjY2LWM0MDA2ZmZjZjc0My90aHVtYm5haWxzL2Z1bGwtNzFhMmUxNmI3NWQuanBn/13288025-6105-462e-a243-5d21a1c02a91.jpg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000004TcvMAE",
-      "lat": 51.1944234,
-      "lng": 6.005379899999999,
-      "price_text": "€544,43",
-      "description": "In Roermond hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 90 m2 beschikt over meerdere slaapkamers, keuken, badkamer, apart toilet en een tuin. De woning ligt op fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €544,43 exclusief G/W/L en €1,55 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/c6c358b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2MzYmYxMTlmLWUwNjItNDhkYy05OTYwLTljOGNlYzk2Mjc2Yi90aHVtYm5haWxzL2Z1bGwtOTI4Y2VhYjYwZjcuanBn/019cd2f0-6046-73ca-80f9-163964280b80.jpg",
-        "https://p.sharinpix.com/3/5d3b4fd/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzEzZGZiODdhLTM3NmMtNGRiZS1iNjY2LWM0MDA2ZmZjZjc0My90aHVtYm5haWxzL2Z1bGwtNzFhMmUxNmI3NWQuanBn/13288025-6105-462e-a243-5d21a1c02a91.jpg",
-        "https://p.sharinpix.com/3/2fd4e76/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg2ZjJkM2E1LTAwZGItNGVlMy04ODM4LTYzY2M1Yjc0NDFhMy90aHVtYm5haWxzL2Z1bGwtZmY0OThlNGIwNjMuanBn/01a158b9-f03c-767d-9a12-4144f67235a2.jpeg",
-        "https://p.sharinpix.com/3/d9747d4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzYxZTQ3MWQ2LTUzMjMtNDM1OS04M2E1LTBkMmFlYzQ3YTlmMy90aHVtYm5haWxzL2Z1bGwtMTMzOWY4MmNkZGQuanBn/01a158bd-ff5f-74a4-a5c6-1c574d31c450.jpeg",
-        "https://p.sharinpix.com/3/ba958d3/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q0MmQyMTVkLTc1ZmMtNDM3Ni05M2NiLWNiYzA4MTZlMDBhMi90aHVtYm5haWxzL2Z1bGwtMDRkZWU0N2FiZmMuanBn/01a158be-4b78-769c-a9bd-c0c85f1689c8.jpeg",
-        "https://p.sharinpix.com/3/27446f9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I2YTZmNTZjLWI2N2ItNDhjNy1hNDcwLWI0Y2YyODA3MTAzMC90aHVtYm5haWxzL2Z1bGwtNjYyZTNlNDFmM2EuanBn/019cd2f0-2c47-72f1-b0d5-75ce4dea11b3.jpg",
-        "https://p.sharinpix.com/3/69faef2/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQ1Zjc0YTkzLWQwZDYtNGJiMC04MjM4LTc1NWVmMmJmZDllYy90aHVtYm5haWxzL2Z1bGwtZjBkNmQ1ZGFhNmYuanBn/019cd2f0-6052-74bb-9339-c25dc31680a4.jpg"
-      ],
-      "ref_city": "Breda",
-      "distance_km": 95.6,
       "interesting": false,
       "first_seen": "2026-11-12T19:06:39Z"
     },
