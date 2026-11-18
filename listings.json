@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:49:42Z",
+  "generated_at": "2026-11-18T09:16:55Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -682,6 +682,25 @@
       "first_seen": "2026-11-12T19:06:39Z"
     },
     {
+      "id": "a6IPx0000000zt7MAA",
+      "city": "Rotterdam",
+      "title": "Woonruimte in Rotterdam 97 m²",
+      "size_m2": "97",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000zt7MAA",
+      "lat": 51.92348500000001,
+      "lng": 4.505558199999999,
+      "price_text": "€600,00",
+      "description": "In Rotterdam-Kralingen hebben wij een nette woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 6-kamer woning van ca. 97m2 beschikt over een keuken en badkamer en is volledig voorzien van laminaat. De woonruimte is geschikt voor een stel, woningdelers of een single. Let op: de vloer moet blijven liggen en in dit project mag niet worden geboord. De maandelijkse huur bedraagt €600,00 exclusief G/W/L en €9,52 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 1.9,
+      "interesting": true,
+      "first_seen": "2026-11-18T09:16:55Z"
+    },
+    {
       "id": "a6IPx00000010QzMAI",
       "city": "Almelo",
       "title": "Woonruimte in Almelo 68 m²",
@@ -865,6 +884,25 @@
       "first_seen": "2026-11-13T15:09:32Z"
     },
     {
+      "id": "a6IPx0000001AdFMAU",
+      "city": "Zwijndrecht",
+      "title": "Woonruimte in Zwijndrecht 53 m²",
+      "size_m2": "53",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001AdFMAU",
+      "lat": 51.8222147,
+      "lng": 4.6365132,
+      "price_text": "€390,",
+      "description": "In Zwijndrecht hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning is ongeveer 53m2 beschikt over een keuken, badkamer, twee balkons en een berging. De woning is volledig voorzien van een zeilvloer en heeft een wasmachineaansluiting en CV. In de omgeving kan je gratis parkeren, maar ook met het openbaar vervoer is de woning goed bereikbaar. De maandelijkse huur bedraagt €390,- exclusief G/W/L en €16,20 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 15.7,
+      "interesting": true,
+      "first_seen": "2026-11-18T09:16:55Z"
+    },
+    {
       "id": "a6IPx0000001BMPMA2",
       "city": "Valthermond",
       "title": "Woonruimte in Valthermond 98 m²",
@@ -1015,31 +1053,6 @@
       "distance_km": 18.6,
       "interesting": true,
       "first_seen": "2026-11-17T19:30:00Z"
-    },
-    {
-      "id": "a6ISi0000000shxMAA",
-      "city": "Roermond",
-      "title": "Woonruimte in Roermond 71 m²",
-      "size_m2": "71",
-      "image_url": "https://p.sharinpix.com/3/6330348/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NhNTY3YWVkLThkMWYtNGE2Ny04MjA2LTE4ZjEwMDcxNTBhMS90aHVtYm5haWxzL2Z1bGwtZDQ0ZDhiNDNhODEuanBn/01a11ffd-c980-722e-8df6-60c6ad55c37e.jpg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000000shxMAA",
-      "lat": 51.2023275,
-      "lng": 6.016589799999999,
-      "price_text": "€ 435,54",
-      "description": "In Roermond hebben wij een mooi appartement op basis van tijdelijk verhuur beschikbaar. Deze drie-kamer woning van ca. 70 m2 is gelegen in Tegelarijeveld en beschikt over 2 slaapkamers, keuken, badkamer, apart toilet, balkon en een berging. Dit appartement ligt op 15 minuten fietsafstand van centrum Roermond en Designer Outlet. De maandelijkse huur bedraagt € 435,54 exclusief G/W/L en de maandelijkse servicekosten zijn € 140,72 (incl. oa. stookkosten). Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/6330348/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2NhNTY3YWVkLThkMWYtNGE2Ny04MjA2LTE4ZjEwMDcxNTBhMS90aHVtYm5haWxzL2Z1bGwtZDQ0ZDhiNDNhODEuanBn/01a11ffd-c980-722e-8df6-60c6ad55c37e.jpg",
-        "https://p.sharinpix.com/3/843120e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U4YTNiMjI3LTE1MzItNGVlMC04NTQ5LTgwNjkyNDU0NTdkYy90aHVtYm5haWxzL2Z1bGwtMGYyMGQ5N2VmNjIuanBn/01a11ffd-c954-7358-9921-2e6a2640bf17.jpg",
-        "https://p.sharinpix.com/3/7fdf6b8/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2IzMmRlMmZlLTM5ZDMtNGE2Ni1hZTIxLWE3Y2ZhZDY4ZjMyZC90aHVtYm5haWxzL2Z1bGwtZWRjYzk3MGFkYTMuanBn/01a11ffd-c991-708d-b88e-9e43727e35f6.jpg",
-        "https://p.sharinpix.com/3/a60fcbc/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y5OGE0MWVmLTFjNjAtNDkyYy1iMjAyLWI0Nzg0OWU4MjU1MS90aHVtYm5haWxzL2Z1bGwtMjk1NWZiNjRiZGIuanBn/01a11ffd-c9d9-701f-b447-56c99876cee2.jpg",
-        "https://p.sharinpix.com/3/02d1e88/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YyMmU4YmFlLTBjYWEtNDhmYi05ZTlhLWMyNjkxMTI5ZmI3Yy90aHVtYm5haWxzL2Z1bGwtYTgzZGU0OTc5YzIuanBn/01a11ffd-c9ed-7709-871b-2b4cd1f24a7b.jpg",
-        "https://p.sharinpix.com/3/18c0803/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YxNThjZTNmLTcyNWYtNDIxYS1hOGYxLTliYzIyOWM1NmZhOC90aHVtYm5haWxzL2Z1bGwtZjNiZGM1MWYzOGYuanBn/01a11ffd-c9a0-760f-9f6e-716e09cad15e.jpg",
-        "https://p.sharinpix.com/3/c89de6b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2MxZDA0MmM0LTg5MjMtNDJmYS1iOGM2LTFiNWVjZWFhOTU0Yy90aHVtYm5haWxzL2Z1bGwtMGU1YzQ5ZjYzYmQuanBn/01a11ffd-ca1c-75e9-9029-58abd9a51a12.jpg"
-      ],
-      "ref_city": "Breda",
-      "distance_km": 95.9,
-      "interesting": false,
-      "first_seen": "2026-11-12T19:06:39Z"
     },
     {
       "id": "a6ISi0000002C57MAE",
