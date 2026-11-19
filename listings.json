@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:25:24Z",
+  "generated_at": "2026-11-19T07:45:58Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -999,25 +999,6 @@
       "distance_km": 33.7,
       "interesting": false,
       "first_seen": "2026-11-12T19:06:39Z"
-    },
-    {
-      "id": "a6ISi0000002Z05MAE",
-      "city": "Den Haag",
-      "title": "Woonruimte in Den Haag 53 m²",
-      "size_m2": "53",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000002Z05MAE",
-      "lat": 52.0407163,
-      "lng": 4.2495461,
-      "price_text": "€498,20",
-      "description": "In Den Haag hebben wij een fijne woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 2-kamer woning van ca. 53 m2 beschikt over1 slaapkamer, keuken, badkamer, apart toilet, balkon, een berging. De woning ligt op loop/fiets afstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. (Optioneel: De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Den Haag en Rotterdam. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €498,20 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via Denhaag@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "/servlet/servlet.FileDownload?file=null"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 20.3,
-      "interesting": true,
-      "first_seen": "2026-11-17T10:52:11Z"
     },
     {
       "id": "a6ISi0000002jSTMAY",
