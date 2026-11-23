@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T02:54:01Z",
+  "generated_at": "2026-11-23T11:45:59Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -41,25 +41,6 @@
       "distance_km": 109.4,
       "interesting": false,
       "first_seen": "2026-11-12T19:06:39Z"
-    },
-    {
-      "id": "a6I4I000000MhQ9UAK",
-      "city": "Wateringen",
-      "title": "Woonruimte in Den Haag 120 m²",
-      "size_m2": "120",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6I4I000000MhQ9UAK",
-      "lat": 52.0228189,
-      "lng": 4.2739401,
-      "price_text": "€750,",
-      "description": "In Wateringen hebben wij een mooie woonruimte beschikbaar op basis van tijdelijke verhuur. Deze 2-kamer woning van ca. 120 m2 beschikt over 1 slaapkamer, keuken, badkamer, apart toilet en tuin. De woning ligt op loop/ fiets afstand van diverse winkels en supermarkten. De maandelijkse vergoeding bedraagt €750,- exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "/servlet/servlet.FileDownload?file=null"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 17.7,
-      "interesting": true,
-      "first_seen": "2026-11-20T12:45:47Z"
     },
     {
       "id": "a6IPx00000003kHMAQ",
@@ -209,6 +190,25 @@
       "distance_km": 119.8,
       "interesting": false,
       "first_seen": "2026-11-13T15:09:32Z"
+    },
+    {
+      "id": "a6IPx0000000DOfMAM",
+      "city": "Leerdam",
+      "title": "Woning in Leerdam! 98 m²",
+      "size_m2": "98",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000DOfMAM",
+      "lat": 51.8987968,
+      "lng": 5.085399000000001,
+      "price_text": "€700",
+      "description": "In Leerdam hebben wij een mooie ruime woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 4-kamer woning van ca. 98 m2 beschikt over 3 slaapkamers, keuken, badkamer, apart toilet en een ruime tuin. Leerdam is een gezellige stadje met meerdere winkels en horecagelegenheid. De dichtstbijzijnde supermarkt en het centrum is op ongeveer 5 minuten fietsafstand. De snelweg is makkelijk te bereiken, wat zorgt voor een goede verbinding met Utrecht en de regio. In de buurt is er gratis parkeergelegenheid. De maandelijkse huur bedraagt €700 exclusief G/W/L en €2.60 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Utrecht via utrecht@adhocbeheer.nl. (foto's van de woning volgen morgen). Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 21.5,
+      "interesting": true,
+      "first_seen": "2026-11-23T11:45:59Z"
     },
     {
       "id": "a6IPx0000000KDFMA2",
@@ -620,6 +620,25 @@
       "distance_km": 179.3,
       "interesting": false,
       "first_seen": "2026-11-18T18:12:11Z"
+    },
+    {
+      "id": "a6IPx0000000z3VMAQ",
+      "city": "Katwijk",
+      "title": "Woonruimte in Katwijk 50 m²",
+      "size_m2": "50",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000z3VMAQ",
+      "lat": 52.2053909,
+      "lng": 4.4178631,
+      "price_text": "€498,20",
+      "description": "In Katwijk hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60 m2 beschikt over een slaapkamer, keuken, badkamer en balkon. De woning ligt op loopafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €498,20 exclusief G/W/L en €167,11 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl. LET OP: voor deze woning moet je uit Katwijk komen. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 31.5,
+      "interesting": false,
+      "first_seen": "2026-11-23T11:45:59Z"
     },
     {
       "id": "a6IPx0000000zoHMAQ",
