@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T11:45:59Z",
+  "generated_at": "2026-11-23T22:56:23Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -930,6 +930,30 @@
       "distance_km": 160.1,
       "interesting": false,
       "first_seen": "2026-11-12T19:06:39Z"
+    },
+    {
+      "id": "a6IPx0000001IFpMAM",
+      "city": "Barendrecht",
+      "title": "Woonruimte in Barendrecht",
+      "size_m2": "",
+      "image_url": "https://p.sharinpix.com/3/e164fc5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcwZjMxOWI3LWE5OTctNGMxMi1hMjYwLWY4ODE4MjJkY2M3YS90aHVtYm5haWxzL2Z1bGwtNDhlNTA2OGI2YTkuanBn/01a20836-6d75-72c4-b31f-5ba0521662b3.jpg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001IFpMAM",
+      "lat": 51.8560112,
+      "lng": 4.5474459,
+      "price_text": "€ 489,68",
+      "description": "In Barendrecht hebben wij leuke woningen in beheer op basis van tijdelijk verhuur in een rustige wijk. Deze 2/3-kamer woningen van ca. 60 m² beschikken over 1 of 2 slaapkamers, een ruime woonkamer, een fijne keuken en badkamer en een balkon, Barendrecht heeft een goede bereikbaarheid richting Rotterdam en de omliggende regio. De woning ligt op loopafstand van diverse winkels, supermarkten en het openbaar vervoer (trein). In de buurt is er (gratis) parkeergelegenheid. De maandelijkse huur bedraagt € 489,68 exclusief G/W/L en €137,12 servicekosten. Let op: bij voorkeur zoeken wij mensen die uit Barendrecht komen of hier nu wonen! Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/e164fc5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzcwZjMxOWI3LWE5OTctNGMxMi1hMjYwLWY4ODE4MjJkY2M3YS90aHVtYm5haWxzL2Z1bGwtNDhlNTA2OGI2YTkuanBn/01a20836-6d75-72c4-b31f-5ba0521662b3.jpg",
+        "https://p.sharinpix.com/3/1e1db19/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2RkYzk3OGIzLTcwNDctNGEyZC04MTA2LTNlMzA5OTVmODY1Yi90aHVtYm5haWxzL2Z1bGwtNWNkNjUwYjRmNDUuanBn/01a20836-6d71-71c8-9ee8-d2c0a7dfa1d5.jpg",
+        "https://p.sharinpix.com/3/59182e5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE4MzJjYjA0LTczZWEtNGEyMi1hOGY3LTg3MGU2YWY3YzdhNS90aHVtYm5haWxzL2Z1bGwtNDYxNjY1YmMyODUuanBn/01a20836-6d72-704f-8445-2f70925312d3.jpg",
+        "https://p.sharinpix.com/3/304c099/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhlMjEwOTBkLTA2Y2QtNDcxNi1hODExLTFmYzUxYjE2MTMwYS90aHVtYm5haWxzL2Z1bGwtNzQwNzRlOTE2MzEuanBn/01a20836-6d7a-72ea-b590-49390fe13141.jpg",
+        "https://p.sharinpix.com/3/a66e767/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzljZjRmNzA0LTVjNzQtNDY4OS05MzRmLTk0MjQzMDQ3MzQ0ZS90aHVtYm5haWxzL2Z1bGwtMzU0NTEwYTNiNTcuanBn/01a20836-6d7c-76dd-9aec-eac88670d8a2.jpg",
+        "https://p.sharinpix.com/3/37c24e6/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzJjOTRhZTVmLTUxYjItNDM0Zi04Y2NlLWJmNGQ1NzhkZTVkYy90aHVtYm5haWxzL2Z1bGwtYjdjYzgwYzY2NzAuanBn/01a20836-6d85-7265-a3a7-40dcc2256863.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 9.0,
+      "interesting": true,
+      "first_seen": "2026-11-23T22:56:23Z"
     },
     {
       "id": "a6IPx0000001KKrMAM",
