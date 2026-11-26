@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T03:09:31Z",
+  "generated_at": "2026-11-26T12:31:21Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -388,6 +388,33 @@
       "first_seen": "2026-11-12T19:06:39Z"
     },
     {
+      "id": "a6IPx0000000nlVMAQ",
+      "city": "Vroomshoop",
+      "title": "Woning in Vroomshoop 89 m²",
+      "size_m2": "89",
+      "image_url": "https://p.sharinpix.com/3/c56df19/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY2OTUwZjZkLWNjNjUtNDk4Yi05OWY0LTFjMjJhODNlYTRkNC90aHVtYm5haWxzL2Z1bGwtZjRkMGNkYTc5MjkuanBn/img_6444.jpeg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000nlVMAQ",
+      "lat": 52.4584698,
+      "lng": 6.5616123,
+      "price_text": "€ 550,",
+      "description": "In Vroomshoop hebben wij een unieke woning beschikbaar voor tijdelijke verhuur. Deze 4-kamerwoning van ca. 90 m² beschikt over drie slaapkamers, een keuken, een badkamer, een apart toilet en een ruime tuin met tuinhuis/schuur. Vroomshoop is een gezellig dorp in een natuurrijke omgeving. De woning ligt op twee minuten lopen van een bushalte en op twee minuten fietsen van een supermarkt en andere voorzieningen, en in de buurt is voldoende parkeergelegenheid. De maandelijkse huur bedraagt € 550,- exclusief gas, water en licht en € 7,70 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Zwolle via zwolle@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/c56df19/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY2OTUwZjZkLWNjNjUtNDk4Yi05OWY0LTFjMjJhODNlYTRkNC90aHVtYm5haWxzL2Z1bGwtZjRkMGNkYTc5MjkuanBn/img_6444.jpeg",
+        "https://p.sharinpix.com/3/5a43270/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U3YjY1Yjk1LWZlNmQtNGVjMC1hZmY3LTBkYmRhYWRmZmYxYi90aHVtYm5haWxzL2Z1bGwtYTMxY2RhNjZiMmQuanBn/img_6437.jpeg",
+        "https://p.sharinpix.com/3/cad3187/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzkxM2QyMzNiLWQ0Y2YtNGQ3ZC04MTcxLTQzZmQwOWFhZTZhMi90aHVtYm5haWxzL2Z1bGwtNjVjZDNjNDUyNzEuanBn/img_6450.jpeg",
+        "https://p.sharinpix.com/3/a60b17a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhjYzdjYzkwLTdkNDAtNDBmNS1hMmNmLWJmNjBkZWY2NDk2Yy90aHVtYm5haWxzL2Z1bGwtOWZhM2Q4NDc5MGIuanBn/img_6454.jpeg",
+        "https://p.sharinpix.com/3/f499f63/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2ExZjU5ZGJhLTAyZDYtNDBmZS1iYTRmLTQzYmI1ZWI5NDVkNS90aHVtYm5haWxzL2Z1bGwtODE5NTFjYzZlYjAuanBn/img_6463.jpeg",
+        "https://p.sharinpix.com/3/98e5662/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I0ZTRkYWNhLTE0YzktNDczYi05ODc0LTQyMzU3NzQxYTgwYi90aHVtYm5haWxzL2Z1bGwtNTY4NDdlNWM0ODQuanBn/img_6470.jpeg",
+        "https://p.sharinpix.com/3/ffa3eca/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzhjMmM3YWZhLWQyNjQtNDkzMi1hZGVkLTkwMjE4OWE2MjcxMi90aHVtYm5haWxzL2Z1bGwtMDgxOGY5M2MzMzkuanBn/img_6468.jpeg",
+        "https://p.sharinpix.com/3/b3f1d11/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk4OTlmZjYxLTRlZDgtNGIzZS1iZTg1LWJhYTdhMjg5ODI1My90aHVtYm5haWxzL2Z1bGwtNjc3YmVlNzg0ZjguanBn/img_6475.jpeg",
+        "https://p.sharinpix.com/3/bb3b16a/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzMzM2IxNGRiLWVjMTAtNDhkYy05NDVkLWNjYWQ3ZTI1YmNkZi90aHVtYm5haWxzL2Z1bGwtYjliNTQzYmIzODguanBn/img_6481.jpeg"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 106.2,
+      "interesting": false,
+      "first_seen": "2026-11-26T12:31:21Z"
+    },
+    {
       "id": "a6IPx0000000pXBMAY",
       "city": "Almelo",
       "title": "Woonruimte in Almelo 70 m²",
@@ -573,25 +600,6 @@
       "distance_km": 179.3,
       "interesting": false,
       "first_seen": "2026-11-18T18:12:11Z"
-    },
-    {
-      "id": "a6IPx0000000z3VMAQ",
-      "city": "Katwijk",
-      "title": "Woonruimte in Katwijk 50 m²",
-      "size_m2": "50",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000000z3VMAQ",
-      "lat": 52.2053909,
-      "lng": 4.4178631,
-      "price_text": "€498,20",
-      "description": "In Katwijk hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60 m2 beschikt over een slaapkamer, keuken, badkamer en balkon. De woning ligt op loopafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €498,20 exclusief G/W/L en €167,11 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Den Haag via denhaag@adhocbeheer.nl. LET OP: voor deze woning moet je uit Katwijk komen. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "/servlet/servlet.FileDownload?file=null"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 31.5,
-      "interesting": false,
-      "first_seen": "2026-11-23T11:45:59Z"
     },
     {
       "id": "a6IPx0000000zoHMAQ",
@@ -901,29 +909,6 @@
       "first_seen": "2026-11-19T16:50:23Z"
     },
     {
-      "id": "a6IPx0000001PvdMAE",
-      "city": "Schiedam",
-      "title": "Woonruimte in Schiedam 89 m²",
-      "size_m2": "89",
-      "image_url": "https://p.sharinpix.com/3/a68f2c0/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzdjMDQ2ODc2LTNmYjctNDI5Mi1iMjNhLTg0NmEyM2VlMTRlNy90aHVtYm5haWxzL2Z1bGwtNmI1YmQ4NTJiYmEuanBn/01a2091b-4deb-72df-84dc-793691ce7001.heic",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001PvdMAE",
-      "lat": 51.9231162,
-      "lng": 4.3861573,
-      "price_text": "€400,00",
-      "description": "In Schiedam hebben wij een leuke woonruimte beschikbaar op basis van tijdelijk verhuur voor iemand alleen of een stel. Deze 5-kamer woning van ca. 89m2 beschikt over prima keuken, redelijke badkamer, balkon en vloer. De woning ligt op loop en fietsafstand van diverse winkels, supermarkten, horeca en het openbaar vervoer. Omdat de woning zo dichtbij het OV ligt, ben je ook weer in een mum van een tijd in Rotterdam. In de buurt is er voldoende parkeergelegenheid. LET OP! Deze woning dient elektrisch verwarmd te worden en de nieuwe bewoner dient zelf voor een elektrische kachel te zorgen. De maandelijkse huur bedraagt €400,00 exclusief G/W/L en €16,00 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl . Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/a68f2c0/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzdjMDQ2ODc2LTNmYjctNDI5Mi1iMjNhLTg0NmEyM2VlMTRlNy90aHVtYm5haWxzL2Z1bGwtNmI1YmQ4NTJiYmEuanBn/01a2091b-4deb-72df-84dc-793691ce7001.heic",
-        "https://p.sharinpix.com/3/1166933/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2IwYzA3NTFhLTE3MDEtNDRhYy1hYjgxLWVmYzBmODVmNTUxOC90aHVtYm5haWxzL2Z1bGwtODhiYzY0YjFjZGQuanBn/01a2091b-4dec-7256-a3ac-b87aaeb7ef47.heic",
-        "https://p.sharinpix.com/3/676c94f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzE1Yjc0MjlkLTllNGQtNGU5ZS05ODIyLTI5YzlmNzk5NzM4NS90aHVtYm5haWxzL2Z1bGwtMmExMmY3YzQ5NjkuanBn/01a2091b-4df1-767b-a25f-0122fa6ba57a.heic",
-        "https://p.sharinpix.com/3/d2b68b4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAyYzVlZjZhLWY2NmQtNDUyYi04MDMwLWI1MzRkZTFhNGU2Ny90aHVtYm5haWxzL2Z1bGwtYjRjNDNjNDYwNDMuanBn/01a2091b-4dea-76fa-8ee8-95f08fe076b3.heic",
-        "https://p.sharinpix.com/3/650ab34/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzYxOWFlOWIyLTFmZjQtNDVhMC1iMTUxLWFiY2U5Y2ViMmFmZi90aHVtYm5haWxzL2Z1bGwtYjNmMjY0OWY1NTguanBn/01a2091b-4de9-72ea-8bfa-a9e2445c0c05.heic"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 6.3,
-      "interesting": true,
-      "first_seen": "2026-11-25T11:45:27Z"
-    },
-    {
       "id": "a6IPx0000001QjdMAE",
       "city": "Emmeloord",
       "title": "Woonruimte in Emmeloord 103 m²",
@@ -1040,6 +1025,28 @@
       "distance_km": 33.7,
       "interesting": false,
       "first_seen": "2026-11-12T19:06:39Z"
+    },
+    {
+      "id": "a6ISi0000003JnhMAE",
+      "city": "Weert",
+      "title": "Tijdelijk huren in Weert 80 m²",
+      "size_m2": "80",
+      "image_url": "https://p.sharinpix.com/3/191298b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI3YzA4ZGZlLWE2NjktNDkwOC05ZDU0LTdmMDhlZTlkOGZlOC90aHVtYm5haWxzL2Z1bGwtNDVlZjg2YjdhYmEuanBn/0196d33f-70f1-75d9-8eb9-b5fc8d7b7f3f.jpg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000003JnhMAE",
+      "lat": 51.2450969,
+      "lng": 5.7024016,
+      "price_text": "€449,47",
+      "description": "In Weert hebben wij een mooie woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 80 m2 beschikt over twee slaapkamers, keuken, badkamer, apart toilet en berging. De woning ligt op fietsafstand van diverse winkels. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €449,47 exclusief G/W/L en €45,10 servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Maastricht via maastricht@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/191298b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI3YzA4ZGZlLWE2NjktNDkwOC05ZDU0LTdmMDhlZTlkOGZlOC90aHVtYm5haWxzL2Z1bGwtNDVlZjg2YjdhYmEuanBn/0196d33f-70f1-75d9-8eb9-b5fc8d7b7f3f.jpg",
+        "https://p.sharinpix.com/3/f407f11/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I4YjBiMWJjLWU0ZjMtNDcwMi1iZjI0LTRhY2JmNDRkOTRlMS90aHVtYm5haWxzL2Z1bGwtNTk5ZGFlZjU3ZGQuanBn/0196d33f-0102-76ae-b41e-82759215f351.jpg",
+        "https://p.sharinpix.com/3/c566fb1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFjMTc2MmU3LTllNzAtNDJiZi04Njk2LWMyYWIyMmIwNTY4OS90aHVtYm5haWxzL2Z1bGwtZWE3ZmYzZTYxOGQuanBn/0196d33f-c912-737f-a5a5-c4eceda0d9e6.jpg",
+        "https://p.sharinpix.com/3/b4596a0/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzQxNDJjNDY5LWIyYzItNDE1NC04YzlhLTIzMzk3MzdkNjg4My90aHVtYm5haWxzL2Z1bGwtMmJlNDVkNzg2MjcuanBn/0196d341-01a0-75c2-b1f2-3f8b97623a58.jpg"
+      ],
+      "ref_city": "Breda",
+      "distance_km": 74.3,
+      "interesting": false,
+      "first_seen": "2026-11-26T12:31:21Z"
     },
     {
       "id": "a6ISi0000003ji9MAA",
