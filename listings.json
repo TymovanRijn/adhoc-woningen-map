@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:31:21Z",
+  "generated_at": "2026-11-26T21:52:34Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -932,6 +932,25 @@
       "distance_km": 81.0,
       "interesting": false,
       "first_seen": "2026-11-24T18:24:10Z"
+    },
+    {
+      "id": "a6IPx0000001RUPMA2",
+      "city": "Blijham",
+      "title": "Woonruimte in Blijham 78 m²",
+      "size_m2": "78",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001RUPMA2",
+      "lat": 53.1064319,
+      "lng": 7.0813551,
+      "price_text": "€460",
+      "description": "In Blijham krijgen wij op korte termijn woonruimte beschikbaar op basis van tijdelijk verhuur. Deze woning van ca. 80 m2 beschikt over meerdere slaapkamers, keuken, badkamer en een tuin. Blijham is een gezellige woonplaats op korte afstand van Winschoten. Daarnaast ligt ook Groningen met de auto binnen bereik. De maandelijkse huur bedraagt €460 exclusief G/W/L en servicekosten. Voor meer informatie kun je contact opnemen met ons kantoor in Groningen via groningen@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "/servlet/servlet.FileDownload?file=null"
+      ],
+      "ref_city": "Utrecht",
+      "distance_km": 174.0,
+      "interesting": false,
+      "first_seen": "2026-11-26T21:52:34Z"
     },
     {
       "id": "a6ISi0000000aEnMAI",
