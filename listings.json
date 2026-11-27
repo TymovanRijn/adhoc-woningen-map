@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T13:26:45Z",
+  "generated_at": "2026-11-27T22:14:55Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -909,27 +909,6 @@
       "first_seen": "2026-11-19T16:50:23Z"
     },
     {
-      "id": "a6IPx0000001PyrMAE",
-      "city": "Schiedam",
-      "title": "Woonruimte in Schiedam 60 m²",
-      "size_m2": "60",
-      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001PyrMAE",
-      "lat": 51.922908,
-      "lng": 4.385834,
-      "price_text": "€300",
-      "description": "In Schiedam hebben wij een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60m2 beschikt over 2 slaapkamers, aparte keuken, prima badkamer, apart toilet en een leuk balkon. Ook heeft deze woning een berging. De woning ligt op loop en fietsafstand van diverse winkels, de supermarkt, horeca en de tramhalte, waardoor je binnen een mum van tijd in Rotterdam kan zijn. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €300 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/71d5e2f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg4NjUzYTJiLTU1MTMtNGY2Zi05ZjBlLTVjYTQwZmM1NGUzYi90aHVtYm5haWxzL2Z1bGwtYmQyZmVjYTFlN2IuanBn/01a20924-715d-7766-b6a1-545bd8dcb47c.jpg",
-        "https://p.sharinpix.com/3/6e0ffc9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZlYmMxM2UxLTlhZWYtNDFmOC1iZGRlLTY5YzRkZjkyNjY0OC90aHVtYm5haWxzL2Z1bGwtODkyNWQ4NTk4ZDcuanBn/01a20924-7162-71c5-ae28-01f211f0057f.jpg",
-        "https://p.sharinpix.com/3/7983a4b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U2N2I0MDJhLWEwODQtNDY0OS04NTljLThjMjczZTI4YWEzZi90aHVtYm5haWxzL2Z1bGwtZWMxOWM4MjQxYTIuanBn/01a20924-7169-74d2-87cb-8c9eac345ae2.jpg"
-      ],
-      "ref_city": "Rotterdam",
-      "distance_km": 6.3,
-      "interesting": true,
-      "first_seen": "2026-11-27T13:26:45Z"
-    },
-    {
       "id": "a6IPx0000001QjdMAE",
       "city": "Emmeloord",
       "title": "Woonruimte in Emmeloord 103 m²",
@@ -1062,33 +1041,6 @@
       "first_seen": "2026-11-12T19:06:39Z"
     },
     {
-      "id": "a6ISi0000003D7BMAU",
-      "city": "Rhenen",
-      "title": "Appartement in Rhenen 69 m²",
-      "size_m2": "69",
-      "image_url": "https://p.sharinpix.com/3/1daf129/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzJlNzkxY2EwLTk0MTQtNDI4Ny05Y2Y0LWM3NjJhZWI5YTY4NC90aHVtYm5haWxzL2Z1bGwtMTJiMGFkMjI0NTUuanBn/img_4075.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000003D7BMAU",
-      "lat": 51.96049439999999,
-      "lng": 5.5661024,
-      "price_text": "€590,00",
-      "description": "In Rhenen hebben we een woonruimte beschikbaar o.b.v. tijdelijke verhuur. Dit 3-kamer appartement is gelegen op de 1e etage en heeft een woonoppervlakte van ca. 70 m² beschikt over een lichte woonkamer, twee slaapkamers, een nette keuken, badkamer en een apart toilet. Ook is er een heerlijk zonnig balkon aanwezig! Rhenen is een sfeervol stadje aan de Rijn, gelegen aan de rand van de Utrechtse Heuvelrug. De woning ligt op loopafstand van diverse winkels, scholen, horecagelegenheden en het openbaar vervoer. Natuurliefhebbers kunnen hun hart ophalen met de prachtige uiterwaarden en bossen in de directe omgeving. De maandelijkse huur bedraagt €590,00 exclusief G/W/L. Je kunt voor deze woning in aanmerking komen voor huurtoeslag. Maak hiervoor online alvast een proefberekening! Voor meer informatie kun je contact opnemen met ons kantoor in Arnhem via arnhem@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/1daf129/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzJlNzkxY2EwLTk0MTQtNDI4Ny05Y2Y0LWM3NjJhZWI5YTY4NC90aHVtYm5haWxzL2Z1bGwtMTJiMGFkMjI0NTUuanBn/img_4075.jpeg",
-        "https://p.sharinpix.com/3/447e987/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M1YzdkNWQ2LTQ1MDMtNDBjNi1hOWFlLTNlODAzOGU1Y2IyZS90aHVtYm5haWxzL2Z1bGwtYjIwYTVhNTI2ODguanBn/img_4053.jpeg",
-        "https://p.sharinpix.com/3/e6587e4/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Y0YWQwMTFkLWRhY2ItNDdlZS1iMzg4LTgyZWY4MjRjNzc3OS90aHVtYm5haWxzL2Z1bGwtY2JmM2YyNWIzMjcuanBn/img_4065.jpeg",
-        "https://p.sharinpix.com/3/56654cc/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzAwMjZhZjUyLTY1M2ItNDYxMC05YzJlLTk3MjI4MWUwNWE2NC90aHVtYm5haWxzL2Z1bGwtMDZkNDFiMDg4MDcuanBn/img_4069.jpeg",
-        "https://p.sharinpix.com/3/97fda84/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzk3YjBmYzI1LWUxNWItNGQ5My1hZTFmLWMxMzEzZTRlZDE0MC90aHVtYm5haWxzL2Z1bGwtZGM3MGQ0MGE2OTcuanBn/img_4077.jpeg",
-        "https://p.sharinpix.com/3/6da9ceb/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U2OGUzNjM0LTViZGMtNGVmNy1iYzIzLTk1MDY2NDFjODFhMC90aHVtYm5haWxzL2Z1bGwtY2IyZmViOWRlOTIuanBn/img_4076.jpeg",
-        "https://p.sharinpix.com/3/6a932f0/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzYzYTU5ZjFkLWMwMjYtNDNhYi04OWQ1LTk4ZDk0ZDc1NTViZC90aHVtYm5haWxzL2Z1bGwtNzExNmEzMGFmNjkuanBn/img_4081.jpeg",
-        "https://p.sharinpix.com/3/04977e5/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2E5NThiNTZmLTY0OGQtNGE4MC1hOWFjLWFkMWVhZGM4MTUxNS90aHVtYm5haWxzL2Z1bGwtNzQ5ZWY2NDdiNjcuanBn/img_4080.jpeg",
-        "https://p.sharinpix.com/3/7cf7929/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg1ZTI4MjAxLTYzMjgtNDQ3MS1hNjA5LTRjZmRjMDY3MzdlYS90aHVtYm5haWxzL2Z1bGwtNTE4MzA5YzQ1OGMuanBn/img_4079.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 33.7,
-      "interesting": false,
-      "first_seen": "2026-11-12T19:06:39Z"
-    },
-    {
       "id": "a6ISi0000003JnhMAE",
       "city": "Weert",
       "title": "Tijdelijk huren in Weert 80 m²",
@@ -1158,29 +1110,6 @@
       "distance_km": 115.2,
       "interesting": false,
       "first_seen": "2026-11-24T18:24:10Z"
-    },
-    {
-      "id": "a6ISi0000004FLRMA2",
-      "city": "Rhenen",
-      "title": "Woonruimte in Rhenen 68 m²",
-      "size_m2": "68",
-      "image_url": "https://p.sharinpix.com/3/5fa4173/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M2MDlhYTc4LWQxM2ItNDhjMC1iZTdlLWFlOTU0OGNjMzIyOS90aHVtYm5haWxzL2Z1bGwtZTMwNDE1OWQ1ZDkuanBn/img_7996.jpeg",
-      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6ISi0000004FLRMA2",
-      "lat": 51.9602298,
-      "lng": 5.5652399,
-      "price_text": "€550,00",
-      "description": "In Rhenen hebben we een woonruimte beschikbaar o.b.v. tijdelijke verhuur. Dit 3-kamer appartement is gelegen op de 1e etage en heeft een woonoppervlakte van ca. 70 m² beschikt over een lichte woonkamer, twee slaapkamers, een nette keuken, badkamer en een apart toilet. Ook is er een heerlijk zonnig balkon aanwezig! Rhenen is een sfeervol stadje aan de Rijn, gelegen aan de rand van de Utrechtse Heuvelrug. De woning ligt op loopafstand van diverse winkels, scholen, horecagelegenheden en het openbaar vervoer. Natuurliefhebbers kunnen hun hart ophalen met de prachtige uiterwaarden en bossen in de directe omgeving. De maandelijkse huur bedraagt €550,00 exclusief G/W/L en €23,66 servicekosten Je kunt voor deze woning in aanmerking komen voor huurtoeslag. Voor meer informatie kun je contact opnemen met ons kantoor in Arnhem via arnhem@adhocbeheer.nl Meer woningen bekijken? Klik hier!",
-      "images": [
-        "https://p.sharinpix.com/3/e2afe94/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YwNDZkOGY3LTliMGQtNGIzYi05OGEwLTNlNmE0M2MxMTkwNy90aHVtYm5haWxzL2Z1bGwtNGZkYjE4OWIyZDIuanBn/img_7999.jpeg",
-        "https://p.sharinpix.com/3/5fa4173/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2M2MDlhYTc4LWQxM2ItNDhjMC1iZTdlLWFlOTU0OGNjMzIyOS90aHVtYm5haWxzL2Z1bGwtZTMwNDE1OWQ1ZDkuanBn/img_7996.jpeg",
-        "https://p.sharinpix.com/3/e9b544e/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2QxMzEwOTRiLTcyNDktNGE4ZS04ODExLThiZjE1ZTQwZTlkMi90aHVtYm5haWxzL2Z1bGwtNTg2NDYyY2YwMmIuanBn/img_7997.jpeg",
-        "https://p.sharinpix.com/3/27a00fa/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzU5YzUwNWRiLWRkOWItNDQwOS1hZWNmLWIyMmYxMjU2YmM3Yy90aHVtYm5haWxzL2Z1bGwtNGExYTUzMjU0YjUuanBn/img_8005.jpeg",
-        "https://p.sharinpix.com/3/ccd9f66/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzdjYWFhZTE4LWZkMDUtNDZjNC1iNjBlLTZjNjExZTdhMjQ0MS90aHVtYm5haWxzL2Z1bGwtMTdkNTcyYmUyNWYuanBn/img_8013.jpeg"
-      ],
-      "ref_city": "Utrecht",
-      "distance_km": 33.7,
-      "interesting": false,
-      "first_seen": "2026-11-12T19:06:39Z"
     },
     {
       "id": "a6ISi0000004I9dMAE",
