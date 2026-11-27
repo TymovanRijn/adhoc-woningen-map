@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:53:40Z",
+  "generated_at": "2026-11-27T13:26:45Z",
   "listings": [
     {
       "id": "a6I4I0000009kyKUAQ",
@@ -909,6 +909,27 @@
       "first_seen": "2026-11-19T16:50:23Z"
     },
     {
+      "id": "a6IPx0000001PyrMAE",
+      "city": "Schiedam",
+      "title": "Woonruimte in Schiedam 60 m²",
+      "size_m2": "60",
+      "image_url": "/resource/1760432263000/CommunityAssets/images/nopicture.gif",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001PyrMAE",
+      "lat": 51.922908,
+      "lng": 4.385834,
+      "price_text": "€300",
+      "description": "In Schiedam hebben wij een leuke woonruimte beschikbaar op basis van tijdelijk verhuur. Deze 3-kamer woning van ca. 60m2 beschikt over 2 slaapkamers, aparte keuken, prima badkamer, apart toilet en een leuk balkon. Ook heeft deze woning een berging. De woning ligt op loop en fietsafstand van diverse winkels, de supermarkt, horeca en de tramhalte, waardoor je binnen een mum van tijd in Rotterdam kan zijn. In de buurt is er voldoende parkeergelegenheid. De maandelijkse huur bedraagt €300 exclusief G/W/L. Voor meer informatie kun je contact opnemen met ons kantoor in Rotterdam via rotterdam@adhocbeheer.nl. Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/71d5e2f/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg4NjUzYTJiLTU1MTMtNGY2Zi05ZjBlLTVjYTQwZmM1NGUzYi90aHVtYm5haWxzL2Z1bGwtYmQyZmVjYTFlN2IuanBn/01a20924-715d-7766-b6a1-545bd8dcb47c.jpg",
+        "https://p.sharinpix.com/3/6e0ffc9/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzZlYmMxM2UxLTlhZWYtNDFmOC1iZGRlLTY5YzRkZjkyNjY0OC90aHVtYm5haWxzL2Z1bGwtODkyNWQ4NTk4ZDcuanBn/01a20924-7162-71c5-ae28-01f211f0057f.jpg",
+        "https://p.sharinpix.com/3/7983a4b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2U2N2I0MDJhLWEwODQtNDY0OS04NTljLThjMjczZTI4YWEzZi90aHVtYm5haWxzL2Z1bGwtZWMxOWM4MjQxYTIuanBn/01a20924-7169-74d2-87cb-8c9eac345ae2.jpg"
+      ],
+      "ref_city": "Rotterdam",
+      "distance_km": 6.3,
+      "interesting": true,
+      "first_seen": "2026-11-27T13:26:45Z"
+    },
+    {
       "id": "a6IPx0000001QjdMAE",
       "city": "Emmeloord",
       "title": "Woonruimte in Emmeloord 103 m²",
@@ -951,6 +972,28 @@
       "distance_km": 174.0,
       "interesting": false,
       "first_seen": "2026-11-26T21:52:34Z"
+    },
+    {
+      "id": "a6IPx0000001RfhMAE",
+      "city": "Schijndel",
+      "title": "Woonruimte in Schijndel.",
+      "size_m2": "",
+      "image_url": "https://p.sharinpix.com/3/7dcb94c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q1ODA5OGI0LWJhMmItNDBiYS1iYTMzLTQ3YjhmZmU4N2IwNi90aHVtYm5haWxzL2Z1bGwtNTBmNzIxNTMzZGQuanBn/20230926_104610.jpg",
+      "url": "https://www.mijnadhoc.nl/CommunityUnit?Id=a6IPx0000001RfhMAE",
+      "lat": 51.6148402,
+      "lng": 5.4367177,
+      "price_text": "€ 750,",
+      "description": "Ben je op zoek naar een ruime en fijne woning op een goede locatie? Dan is deze woning in Schijndel zeker het bekijken waard! De woning beschikt over maar liefst 250 m² woonoppervlakte en biedt volop ruimte en comfort. Met twee ruime woonkamers, een aparte keuken, meerdere slaapkamers en een badkamer voorzien van zowel een ligbad als een douche, is er voldoende leefruimte om prettig te wonen. Ook buiten is het heerlijk vertoeven. De woning beschikt over een fijne tuin met een praktisch schuurtje, ideaal voor extra opslag of het stallen van spullen. Locatie en bereikbaarheid De woning is gelegen in Schijndel, met diverse voorzieningen in de directe omgeving. Denk hierbij aan winkels, supermarkten en andere dagelijkse voorzieningen. Daarnaast heeft Schijndel een goede busverbinding met zowel Den Bosch als Veghel, waardoor ook omliggende plaatsen goed bereikbaar zijn. Huurvoorwaarden en kosten Huurprijs: € 750,- per maand Servicekosten: € 200,- per maand Totale maandelijkse kosten: € 950,- Let op: Voor deze woning zoeken wij uitsluitend twee personen. Ben je geïnteresseerd in deze ruime woning en voldoe je aan de voorwaarden? Meer woningen bekijken? Klik hier!",
+      "images": [
+        "https://p.sharinpix.com/3/7dcb94c/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2Q1ODA5OGI0LWJhMmItNDBiYS1iYTMzLTQ3YjhmZmU4N2IwNi90aHVtYm5haWxzL2Z1bGwtNTBmNzIxNTMzZGQuanBn/20230926_104610.jpg",
+        "https://p.sharinpix.com/3/bbf4d02/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2FlOGE1NGNjLTI1ZTctNDdlMi05YWM3LTA2NzI2ZDZhZDI2Zi90aHVtYm5haWxzL2Z1bGwtMmY0NzYyODQwNTcuanBn/20230926_105131.jpg",
+        "https://p.sharinpix.com/3/76a279d/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2I4YWU1ZGZiLWE5ZTMtNDVlYy04MjE2LTM1MTI3MmYyMWRkOC90aHVtYm5haWxzL2Z1bGwtMWJhYWU2ZDA0YTYuanBn/20230926_104557.jpg",
+        "https://p.sharinpix.com/3/3f1a0e0/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM3MDEzNzIxLTE5NTUtNDdkMi1iMGY3LTIyYzM2N2IwYWY3Yi90aHVtYm5haWxzL2Z1bGwtMWZjMWUxYTE1MmQuanBn/b453448f-d6d4-4aa1-a335-9154b81d7c42.jpeg"
+      ],
+      "ref_city": "Breda",
+      "distance_km": 46.4,
+      "interesting": false,
+      "first_seen": "2026-11-27T13:26:45Z"
     },
     {
       "id": "a6ISi0000000aEnMAI",
